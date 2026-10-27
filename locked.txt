@@ -1,0 +1,10 @@
+# Bu fayldakı kanallar/qruplar/hostlar heç vaxt əvəz edilmir (köhnə link olduğu kimi qalır).
+# Qaydalar: "Kanal adı", "group:QRUP", "host:domen.az"
+ATV
+MTV
+Space
+Space TV
+CBC
+Mədəniyyət
+Mədəniyyət TV
+TV8

@@ -141,6 +141,16 @@ def main():
                     help='{"kanal adı": "mənbədəki ad"} (ixtiyari)')
     ap.add_argument("--output", default="playlist.m3u")
     ap.add_argument("--report", default="report.md")
+    ap.add_argument("--locked", default="locked.txt",
+                    help="toxunulmayacaq kanallar/qruplar/hostlar (ixtiyari)")
+    ap.add_argument("--overrides", default="overrides.txt",
+                    help='əl ilə verilən linklər: "Kanal adı | https://link" (ixtiyari)')
+    ap.add_argument("--min-name-len", type=int, default=6,
+                    help="bundan qısa adlı kanallar (ATV, MTV, CBC...) yalnız aliases.json-da "
+                         "varsa avtomatik əvəz edilir; səbəb: başqa ölkənin eyniadlı kanalı ilə qarışır")
+    ap.add_argument("--state", default="state.json")
+    ap.add_argument("--min-dead-days", type=int, default=3,
+                    help="link ardıcıl neçə dəfə ölü çıxsa əvəz edilsin")
     ap.add_argument("--threads", type=int, default=40)
     ap.add_argument("--timeout", type=int, default=8)
     args = ap.parse_args()
@@ -169,7 +179,47 @@ def main():
                     if all(c.url != x.url for x in lst):
                         lst.append(c)
 
+    # toxunulmaz siyahı: "Kanal adı", "group:QRUP", "host:domen.az"
+    lk_names, lk_groups, lk_hosts = set(), set(), set()
+    if Path(args.locked).exists():
+        for line in Path(args.locked).read_text(encoding="utf-8").splitlines():
+            line = line.strip()
+            if not line or line.startswith("#"):
+                continue
+            if line.lower().startswith("group:"):
+                lk_groups.add(line[6:].strip().lower())
+            elif line.lower().startswith("host:"):
+                lk_hosts.add(line[5:].strip().lower())
+            else:
+                lk_names.add(norm(line))
+
+    def host(u):
+        return re.sub(r"^\w+://(?:[^@/]*@)?([^/:?#]+).*", r"\1", u).lower()
+
+    def group(e):
+        m = re.search(r'group-title="([^"]*)"', e.extinf)
+        return (m.group(1) if m else "").strip().lower()
+
+    def entry_locked(e):
+        return norm(e.name) in lk_names or group(e) in lk_groups
+
+    state = {}
+    if Path(args.state).exists():
+        state = json.loads(Path(args.state).read_text(encoding="utf-8"))
+
+    overrides = {}
+    if Path(args.overrides).exists():
+        for line in Path(args.overrides).read_text(encoding="utf-8").splitlines():
+            line = line.strip()
+            if line and not line.startswith("#") and "|" in line:
+                nm, url = line.split("|", 1)
+                overrides[norm(nm)] = url.strip()
+
     cache = {}
+    for e in entries:  # kilidli host/kanal/qrup linkləri yoxlanmır, işləyir sayılır
+        for c in e.cands:
+            if entry_locked(e) or host(c.url) in lk_hosts:
+                cache[c.url] = True
 
     def check_many(cands):
         todo = [c for c in cands if c.url not in cache]
@@ -194,39 +244,65 @@ def main():
             need += index.get(aliases.get(n, n), [])
     check_many(need)
 
-    out, replaced, still_dead = ["#EXTM3U"], [], []
+    out, replaced, still_dead, waiting = ["#EXTM3U"], [], [], []
+    skipped_short, manual = [], []
+    new_state = {}
     for e in entries:
         alive = [c for c in e.cands if cache[c.url]]
         chosen = alive[0] if alive else None
+        if norm(e.name) in overrides:  # əl ilə verilmiş link hər şeydən üstündür
+            chosen = Cand(overrides[norm(e.name)], [])
+            manual.append(e.name)
         if not chosen:
-            n = norm(e.name)
-            for c in index.get(aliases.get(n, n), []):
-                if cache.get(c.url):
-                    chosen = c
-                    replaced.append((e.name, e.cands[0].url, c.url))
-                    break
-        if not chosen:  # əvəzedici tapılmadı: kanal silinmir, köhnə link qalır
-            chosen = e.cands[0]
-            still_dead.append(e.name)
+            fails = state.get(e.key, 0) + 1
+            new_state[e.key] = fails
+            if fails < args.min_dead_days:
+                # hələ tez-tezdir: keçici xəta ola bilər, köhnə link qalır
+                chosen = e.cands[0]
+                waiting.append((e.name, fails))
+            elif len(norm(e.name)) < args.min_name_len and norm(e.name) not in aliases:
+                chosen = e.cands[0]
+                skipped_short.append(e.name)
+            else:
+                n = norm(e.name)
+                # qısa ümumi adlar (atv, mtv, cbc, tv8...) başqa ölkələrin kanalları ilə qarışır:
+                # yalnız aliases.json-da açıq göstərilibsə əvəz edilir
+                pool = [] if (len(n) <= 4 and n not in aliases) else index.get(aliases.get(n, n), [])
+                for c in pool:
+                    if cache.get(c.url):
+                        chosen = c
+                        replaced.append((e.name, e.cands[0].url, c.url))
+                        break
+                if not chosen:
+                    chosen = e.cands[0]
+                    still_dead.append(e.name)
         out.append(e.extinf)
         out += e.group_lines
         out += chosen.opts
         out.append(chosen.url)
 
     Path(args.output).write_text("\n".join(out) + "\n", encoding="utf-8")
+    Path(args.state).write_text(json.dumps(new_state, ensure_ascii=False, indent=1), encoding="utf-8")
 
     rep = ["# Yenilənmə hesabatı\n",
            f"- Cəmi kanal: {len(entries)}",
            f"- Linki əvəz edilən: {len(replaced)}",
-           f"- Ölü qalan (əvəzedici tapılmadı, köhnə link saxlanıldı): {len(still_dead)}\n"]
+           f"- Ölü qalan (əvəzedici tapılmadı, köhnə link saxlanıldı): {len(still_dead)}",
+           f"- Gözləyən (ölü çıxdı, amma hələ {args.min_dead_days} dəfə təsdiqlənməyib): {len(waiting)}\n"]
     if replaced:
         rep.append("## Əvəz edilənlər")
         rep += [f"- {n}: `{a}` -> `{b}`" for n, a, b in replaced]
     if still_dead:
         rep.append("\n## Hələ də ölü olanlar (mənbə axtarın)")
         rep += [f"- {n}" for n in still_dead]
+    if skipped_short:
+        rep.append("\n## Qısa adlı ölü kanallar (avtomatik əvəz edilmədi, overrides.txt-də link verin)")
+        rep += [f"- {n}" for n in skipped_short]
+    if waiting:
+        rep.append("\n## Gözləyənlər (hələ əvəz edilməyib)")
+        rep += [f"- {n}: {k}/{args.min_dead_days}" for n, k in waiting]
     Path(args.report).write_text("\n".join(rep) + "\n", encoding="utf-8")
-    print("\n".join(rep[1:4]))
+    print("\n".join(rep[1:5]))
 
 
 if __name__ == "__main__":
