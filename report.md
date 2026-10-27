@@ -1,0 +1,330 @@
+# Yenilənmə hesabatı
+
+- Cəmi kanal: 717
+- Linki əvəz edilən: 0
+- Ölü qalan (əvəzedici tapılmadı, köhnə link saxlanıldı): 322
+
+
+## Hələ də ölü olanlar (mənbə axtarın)
+- CBC SPORT HD
+- CBC Sport HD
+- CBC SPORT ᴴᴰ
+- IDMAN TV ᴴᴰ
+- IDMAN HD
+- Idman SD
+- ARB 24 HD
+- ARB 24 SD
+- arb 24 ᴴᴰ
+- apa tv
+- BAKU TV ᴴᴰ
+- AZTV HD
+- AzTV ᴴᴰ
+- Ictimai SD
+- Ictimai HD
+- İCTİMAİ TV ᴴᴰ
+- Real TV
+- REAL HD
+- REAL TV ᴴᴰ
+- Arb HD
+- ARB ᴴᴰ
+- AZAD AZƏRBAYCAN TV
+- ATV HD
+- Azad Azərbaycan ᴴᴰ
+- XƏZƏR TV
+- Xəzər TV HD
+- XƏZƏR TV ᴴᴰ
+- Space
+- Space HD
+- SPACE TV ᴴᴰ
+- Dünya TV Sumqayıt
+- DÜNYA TV ᴴᴰ
+- Səhiyyə TV
+- CBC
+- Biznes TV
+- MƏDƏNİYYƏT TV
+- MƏDƏNİYYƏT TV ᴴᴰ
+- MƏDƏNİYYƏT
+- KANAL S
+- KANAL S ᴴᴰ
+- MTV
+- Muz tv
+- TMB ᴴᴰ
+- NAXÇIVAN TV ᴴᴰ
+- GÜNAZ TV ᴴᴰ
+- ANEWZ ᴴᴰ
+- ARB Gunes
+- ARB Gunes
+- Show tv
+- kanal D
+- NOW
+- Star TV Türk
+- STAR
+- tvg-logo=,ATV Turk SD
+- A HD
+- TV 8 HD
+- TV8
+- tv8
+- TV8 int
+- TV 8 INT
+- Kanal 7
+- beIN sports haber
+- CNN TÜRK
+- CNN Turk
+- KOZA TV
+- haber global
+- NTV
+- tvnet
+- TV net
+- A Haber
+- TRT GENÇ
+- Tele1
+- KRT
+- TRT Avaz
+- TRT 2
+- CGTN TURK
+- Россия 24 HD
+- Россия 24 HD
+- РБК
+- РБК HD
+- ТНТ
+- Суббота
+- ТВ3
+- Хабар HD
+- TV1 KG HD (Кыргызстан)
+- Rustavi 2
+- 2+2
+- Первый канал Евразия
+- Россия 24 HD
+- 1tv sport ge
+- RU.TV by
+- beIN Sports 2
+- beIN Sports 3
+- beIN Sports 4
+- S sport 1
+- S sport 2
+- CBC Sport
+- Qazsport
+- Okko.футбол
+- ОККО.спорт HD
+- Окко.Прайм Спорт HD
+- tivibu spor1
+- tivibu spor2
+- tivibu spor3
+- TRT SPOR
+- Go3 Sport 1
+- GSPORT (biraz)
+- СПОРТ ТВ HD
+- FUTBOL UZ
+- UzSport
+- Eurosport 2
+- EURONEWS
+- PRESS TV
+- :24
+- 24KZ
+- BFMTV
+- Digi 24
+- RT Doc
+- BBC EARTH
+- VİASAT HİSTORY
+- DISCOVERY CHANNEL
+- INVESTIGATION DISCOVERY
+- Setanta sports 2 GE
+- Setanta Sports 1 GE
+- Setanta Sports 1 Georgia
+- Setanta Sports 2 Georgia
+- Setanta Sports 3 Georgia
+- Первый канал
+- Телеканал
+- Матч! ТВ
+- Телекомпания НТВ
+- Пятый канал
+- Телеканал
+- 
+- ОТР
+- ТВ Центр
+- РЕН ТВ
+- СТС
+- Домашний
+- ТВ3
+- Пятница
+- Звезда
+- Мир
+- ТНТ
+- Муз ТВ
+- Ю
+- История
+- Дикий
+- Наука 2.0
+- RTG TV
+- Amedia 1
+- BCU Kinorating HD
+- BCU Stars HD
+- Gags Network
+- Наша Сибирь
+- Кинопоказ HD
+- Ключ
+- Кухня ТВ
+- Мосфильм. Золотая коллекция
+- MyTV
+- Наше HD
+- Ностальгия
+- Про любовь
+- Союз
+- Совершенно секретно
+- СТС Kids
+- Da Vinci
+- Бобёр
+- Bolt
+- BRIDGE TV
+- TRT Avaz
+- haber global
+- CNN Turk
+- KANAL D HD
+- Star TV Turk
+- TV8
+- A News
+- A Para
+- TV 8.5 HD
+- beIN sports HABER
+- CGTN TURK
+- ATV turk
+- A Spor
+- xəzər
+- mədəniyyət
+- ictimai
+- aztv
+- muz tv
+- space
+- real
+- dünya
+- kanal s
+- Naxçıvan TV
+- günaz tv
+- kanal 35
+- atv
+- tmb
+- cbc sport
+- idman
+- arb
+- BİZNES TV
+- CBC Sport
+- ANS TV
+- Первый HD
+- Россия 1
+- Россия 1 HD
+- Россия К
+- ТНТ 4
+- НТВ
+- Рен ТВ
+- Кухня ТВ
+- Домашние Животные
+- Поехали!
+- Телекафе
+- Живая Планета
+- Авто24
+- Авто Плюс
+- Наука
+- Моя планета
+- Big Planet
+- Animal Planet
+- Animal Planet HD
+- Viasat explore
+- Viasat history
+- Viasat Nature
+- Viasat Nature HD
+- Дикий
+- History HD
+- TLC
+- Охота и Рыбалка
+- Nat Geo Wild HD
+- Nat Geo Wild
+- Discovery Channel
+- Discovery Channel HD
+- National Geographic
+- National Geographic HD
+- Живи
+- История
+- Зоопарк
+- Кто есть кто
+- TV 1000
+- TV 1000 Action
+- Иллюзион+
+- Русский Иллюзион
+- Еврокино
+- Мир сериала
+- Мужское кино HD
+- Hollywood HD
+- VIP Megahit HD
+- VIP Premiere HD
+- VIP Comedy HD
+- VIP Serial HD
+- Дом кино
+- Дом Кино Премиум HD
+- НСТ
+- .Black
+- .Sci-Fi
+- TV XXI
+- Plan B
+- Время
+- Русский Детектив
+- Русский Роман
+- Кинохит
+- Киносерия HD
+- Киномикс HD
+- Киносемья HD
+- Кинокомедия
+- Индийское Кино
+- Киносвидание
+- Родное Кино
+- Amedia 1
+- Amedia 2
+- Amedia Hit
+- Amedia Premium
+- Amedia Premium HD
+- Любимое Кино
+- Сапфир
+- Кинеко
+- ТВ3
+- Че
+- Звезда
+- ОТР
+- Euronews
+- РТР Планета
+- ТВЦ
+- Домашний
+- Мир
+- Мир 24
+- РБК
+- CBC
+- Bridge TV
+- Bridge Classic
+- Bridge Deluxe
+- Bridge Deluxe HD
+- Муз ТВ
+- Muz TV AZ
+- RU TV
+- MCM Top
+- Europa Plus TV
+- Ностальгия
+- Шансон ТВ
+- Музыка Первого
+- Уникум
+- Бобер
+- Солнце
+- Суббота
+- Детский Мир HD
+- Мама
+- Мульт
+- Мульт HD
+- 2x2
+- Ani
+- Карусель
+- Nick jr
+- Aspor
+- TRT spor
+- TRT haber
+- CNN TÜRK
+- TRT belgesel
+- TRT 1
+- Haber global
+- AzTV
