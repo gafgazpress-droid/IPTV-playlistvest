@@ -3,302 +3,313 @@
 - Cəmi kanal: 717
 - Linki əvəz edilən: 0
 - Ölü qalan (əvəzedici tapılmadı, köhnə link saxlanıldı): 0
-- Gözləyən (ölü çıxdı, amma hələ 3 dəfə təsdiqlənməyib): 295
+- Gözləyən (ölü çıxdı, amma hələ 3 dəfə təsdiqlənməyib): 306
 
 
 ## Gözləyənlər (hələ əvəz edilməyib)
-- CBC SPORT HD: 1/3
-- CBC Sport HD: 1/3
-- CBC SPORT ᴴᴰ: 1/3
-- IDMAN TV ᴴᴰ: 1/3
-- IDMAN HD: 1/3
-- Idman SD: 1/3
-- ARB 24 HD: 1/3
-- ARB 24 SD: 1/3
-- arb 24 ᴴᴰ: 1/3
-- apa tv: 1/3
-- BAKU TV ᴴᴰ: 1/3
-- AZTV HD: 1/3
-- AzTV ᴴᴰ: 1/3
-- Ictimai SD: 1/3
-- Ictimai HD: 1/3
-- İCTİMAİ TV ᴴᴰ: 1/3
-- Real TV: 1/3
-- REAL HD: 1/3
-- REAL TV ᴴᴰ: 1/3
-- Arb HD: 1/3
-- ARB ᴴᴰ: 1/3
-- XƏZƏR TV: 1/3
-- Xəzər TV HD: 1/3
-- XƏZƏR TV ᴴᴰ: 1/3
-- Dünya TV Sumqayıt: 1/3
-- DÜNYA TV ᴴᴰ: 1/3
-- Səhiyyə TV: 1/3
-- Biznes TV: 1/3
-- KANAL S: 1/3
-- KANAL S ᴴᴰ: 1/3
-- Muz tv: 1/3
-- TMB ᴴᴰ: 1/3
-- NAXÇIVAN TV ᴴᴰ: 1/3
-- GÜNAZ TV ᴴᴰ: 1/3
-- ANEWZ ᴴᴰ: 1/3
-- ARB Gunes: 1/3
-- ARB Gunes: 1/3
-- Show tv: 1/3
-- kanal D: 1/3
-- NOW: 1/3
-- Star TV Türk: 1/3
-- STAR: 1/3
-- tvg-logo=,ATV Turk SD: 1/3
-- A HD: 1/3
-- TV8 int: 1/3
-- TV 8 INT: 1/3
-- Kanal 7: 1/3
-- beIN sports haber: 1/3
-- TGRT HABER: 1/3
-- CNN TÜRK: 1/3
-- CNN Turk: 1/3
-- KOZA TV: 1/3
-- NTV: 1/3
-- TV net: 1/3
-- A Haber: 1/3
-- Tele1: 1/3
-- TRT Avaz: 1/3
-- TRT 2: 1/3
-- CGTN TURK: 1/3
-- Россия 24 HD: 1/3
-- НТВ HD: 1/3
-- Россия 24 HD: 1/3
-- ТНТ: 1/3
-- ЧЕ!: 1/3
-- TV1 KG HD (Кыргызстан): 1/3
-- Imedi TV: 1/3
-- Rustavi 2: 1/3
-- Первый канал Евразия: 1/3
-- Россия 24 HD: 1/3
-- RU.TV by: 1/3
-- beIN Sports 2: 1/3
-- beIN Sports 3: 1/3
-- beIN Sports 4: 1/3
-- S sport 1: 1/3
-- S sport 2: 1/3
-- CBC Sport: 1/3
-- Qazsport: 1/3
-- Okko.футбол: 1/3
-- ОККО.спорт HD: 1/3
-- Окко.Прайм Спорт HD: 1/3
-- tivibu spor1: 1/3
-- tivibu spor2: 1/3
-- tivibu spor3: 1/3
-- A Spor: 1/3
-- a spor HD: 1/3
-- TRT SPOR: 1/3
-- СПОРТ ТВ HD: 1/3
-- FUTBOL UZ: 1/3
-- Eurosport 2: 1/3
-- EURONEWS: 1/3
-- PRESS TV: 1/3
-- :24: 1/3
-- 24KZ: 1/3
-- BFMTV: 1/3
-- Digi 24: 1/3
-- RT Doc: 1/3
-- BBC EARTH: 1/3
-- VİASAT HİSTORY: 1/3
-- DISCOVERY CHANNEL: 1/3
-- INVESTIGATION DISCOVERY: 1/3
-- Setanta sports 2 GE: 1/3
-- Setanta Sports 1 GE: 1/3
-- Setanta Sports 1 Georgia: 1/3
-- Setanta Sports 2 Georgia: 1/3
-- Setanta Sports 3 Georgia: 1/3
-- Первый канал: 1/3
-- Телеканал: 1/3
-- Матч! ТВ: 1/3
-- Телекомпания НТВ: 1/3
-- Пятый канал: 1/3
-- Телеканал: 1/3
-- : 1/3
-- ОТР: 1/3
-- ТВ Центр: 1/3
-- РЕН ТВ: 1/3
-- СТС: 1/3
-- Домашний: 1/3
-- ТВ3: 1/3
-- Пятница: 1/3
-- Звезда: 1/3
-- Мир: 1/3
-- ТНТ: 1/3
-- Муз ТВ: 1/3
-- Ю: 1/3
-- История: 1/3
-- Дикий: 1/3
-- Наука 2.0: 1/3
-- RTG TV: 1/3
-- Amedia 1: 1/3
-- BCU Kinorating HD: 1/3
-- BCU Stars HD: 1/3
-- Gags Network: 1/3
-- Наша Сибирь: 1/3
-- Кинопоказ HD: 1/3
-- Ключ: 1/3
-- Кухня ТВ: 1/3
-- Мосфильм. Золотая коллекция: 1/3
-- MyTV: 1/3
-- Наше HD: 1/3
-- Ностальгия: 1/3
-- Про любовь: 1/3
-- Союз: 1/3
-- Совершенно секретно: 1/3
-- СТС Kids: 1/3
-- Da Vinci: 1/3
-- Бобёр: 1/3
-- Bolt: 1/3
-- BRIDGE TV: 1/3
-- TRT Avaz: 1/3
-- haber global: 1/3
-- CNN Turk: 1/3
-- KANAL D HD: 1/3
-- Star TV Turk: 1/3
-- A News: 1/3
-- A Para: 1/3
-- TV 8.5 HD: 1/3
-- beIN sports HABER: 1/3
-- CGTN TURK: 1/3
-- ATV turk: 1/3
-- A Spor: 1/3
-- xəzər: 1/3
-- ictimai: 1/3
-- aztv: 1/3
-- muz tv: 1/3
-- real: 1/3
-- dünya: 1/3
-- kanal s: 1/3
-- Naxçıvan TV: 1/3
-- günaz tv: 1/3
-- kanal 35: 1/3
-- tmb: 1/3
-- cbc sport: 1/3
-- idman: 1/3
-- arb: 1/3
-- BİZNES TV: 1/3
-- CBC Sport: 1/3
-- ANS TV: 1/3
-- Первый HD: 1/3
-- Россия 1: 1/3
-- Россия 1 HD: 1/3
-- Россия К: 1/3
-- ТНТ 4: 1/3
-- НТВ: 1/3
-- Рен ТВ: 1/3
-- Кухня ТВ: 1/3
-- Домашние Животные: 1/3
-- Поехали!: 1/3
-- Телекафе: 1/3
-- Живая Планета: 1/3
-- Авто24: 1/3
-- Авто Плюс: 1/3
-- Наука: 1/3
-- Моя планета: 1/3
-- Big Planet: 1/3
-- Animal Planet: 1/3
-- Animal Planet HD: 1/3
-- Viasat explore: 1/3
-- Viasat history: 1/3
-- Viasat Nature: 1/3
-- Viasat Nature HD: 1/3
-- Дикий: 1/3
-- History HD: 1/3
-- TLC: 1/3
-- Охота и Рыбалка: 1/3
-- Nat Geo Wild HD: 1/3
-- Nat Geo Wild: 1/3
-- Discovery Channel: 1/3
-- Discovery Channel HD: 1/3
-- National Geographic: 1/3
-- National Geographic HD: 1/3
-- Живи: 1/3
-- История: 1/3
-- Зоопарк: 1/3
-- Кто есть кто: 1/3
-- TV 1000: 1/3
-- TV 1000 Action: 1/3
-- Иллюзион+: 1/3
-- Русский Иллюзион: 1/3
-- Еврокино: 1/3
-- Мир сериала: 1/3
-- Мужское кино HD: 1/3
-- Hollywood HD: 1/3
-- VIP Megahit HD: 1/3
-- VIP Premiere HD: 1/3
-- VIP Comedy HD: 1/3
-- VIP Serial HD: 1/3
-- Дом кино: 1/3
-- Дом Кино Премиум HD: 1/3
-- НСТ: 1/3
-- .Black: 1/3
-- .Sci-Fi: 1/3
-- TV XXI: 1/3
-- Plan B: 1/3
-- Время: 1/3
-- Русский Детектив: 1/3
-- Русский Роман: 1/3
-- Кинохит: 1/3
-- Киносерия HD: 1/3
-- Киномикс HD: 1/3
-- Киносемья HD: 1/3
-- Кинокомедия: 1/3
-- Индийское Кино: 1/3
-- Киносвидание: 1/3
-- Родное Кино: 1/3
-- Amedia 1: 1/3
-- Amedia 2: 1/3
-- Amedia Hit: 1/3
-- Amedia Premium: 1/3
-- Amedia Premium HD: 1/3
-- Любимое Кино: 1/3
-- Сапфир: 1/3
-- Кинеко: 1/3
-- ТВ3: 1/3
-- Че: 1/3
-- Звезда: 1/3
-- ОТР: 1/3
-- Euronews: 1/3
-- РТР Планета: 1/3
-- ТВЦ: 1/3
-- Домашний: 1/3
-- Мир: 1/3
-- Мир 24: 1/3
+- CBC SPORT HD: 2/3
+- CBC Sport HD: 2/3
+- CBC SPORT ᴴᴰ: 2/3
+- IDMAN TV ᴴᴰ: 2/3
+- IDMAN HD: 2/3
+- Idman SD: 2/3
+- ARB 24 HD: 2/3
+- ARB 24 SD: 2/3
+- arb 24 ᴴᴰ: 2/3
+- apa tv: 2/3
+- BAKU TV ᴴᴰ: 2/3
+- AZTV HD: 2/3
+- AzTV ᴴᴰ: 2/3
+- Ictimai SD: 2/3
+- Ictimai HD: 2/3
+- İCTİMAİ TV ᴴᴰ: 2/3
+- Real TV: 2/3
+- REAL HD: 2/3
+- REAL TV ᴴᴰ: 2/3
+- Arb HD: 2/3
+- ARB ᴴᴰ: 2/3
+- XƏZƏR TV: 2/3
+- Xəzər TV HD: 2/3
+- XƏZƏR TV ᴴᴰ: 2/3
+- Dünya TV Sumqayıt: 2/3
+- DÜNYA TV ᴴᴰ: 2/3
+- Səhiyyə TV: 2/3
+- Biznes TV: 2/3
+- KANAL S: 2/3
+- KANAL S ᴴᴰ: 2/3
+- Muz tv: 2/3
+- TMB ᴴᴰ: 2/3
+- NAXÇIVAN TV ᴴᴰ: 2/3
+- GÜNAZ TV ᴴᴰ: 2/3
+- ANEWZ ᴴᴰ: 2/3
+- ARB Gunes: 2/3
+- ARB Gunes: 2/3
+- Show tv: 2/3
+- kanal D: 2/3
+- NOW: 2/3
+- Star TV Türk: 2/3
+- STAR: 2/3
+- tvg-logo=,ATV Turk SD: 2/3
+- TV8 int: 2/3
+- TV 8 INT: 2/3
+- Kanal 7: 2/3
+- beIN sports haber: 2/3
+- CNN TÜRK: 2/3
+- CNN Turk: 2/3
+- KOZA TV: 2/3
+- NTV: 2/3
+- TV net: 2/3
+- A Haber: 2/3
+- Tele1: 2/3
+- TRT Avaz: 2/3
+- TRT 2: 2/3
+- CGTN TURK: 2/3
+- Россия 24 HD: 2/3
+- НТВ HD: 2/3
+- Россия 24 HD: 2/3
 - РБК: 1/3
-- Bridge TV: 1/3
-- Bridge Classic: 1/3
-- Bridge Deluxe: 1/3
-- Bridge Deluxe HD: 1/3
-- Муз ТВ: 1/3
-- Muz TV AZ: 1/3
-- RU TV: 1/3
-- MCM Top: 1/3
-- Europa Plus TV: 1/3
-- Ностальгия: 1/3
-- Шансон ТВ: 1/3
-- Музыка Первого: 1/3
-- Уникум: 1/3
-- Бобер: 1/3
-- Солнце: 1/3
-- Суббота: 1/3
-- Детский Мир HD: 1/3
-- Мама: 1/3
-- Мульт: 1/3
-- Мульт HD: 1/3
-- 2x2: 1/3
-- Ani: 1/3
-- Карусель: 1/3
-- Nick jr: 1/3
-- Aspor: 1/3
-- TRT spor: 1/3
-- TRT haber: 1/3
-- CNN TÜRK: 1/3
-- TRT belgesel: 1/3
-- TRT 1: 1/3
-- Haber global: 1/3
-- AzTV: 1/3
+- РБК HD: 1/3
+- ТНТ: 2/3
+- Первый Информационный HD: 1/3
+- Белсат HD: 1/3
+- Хабар HD: 1/3
+- TV1 KG HD (Кыргызстан): 2/3
+- Rustavi 2: 2/3
+- Formula tv: 1/3
+- Первый канал Евразия: 2/3
+- Россия 24 HD: 2/3
+- RU.TV by: 2/3
+- beIN Sports 2: 2/3
+- beIN Sports 3: 2/3
+- beIN Sports 4: 2/3
+- S sport 1: 2/3
+- S sport 2: 2/3
+- beIN SPORTS HD1(biraz): 1/3
+- beIN SPORTS HD2(biraz): 1/3
+- beIN SPORTS HD3(biraz): 1/3
+- beIN SPORTS HD4(biraz): 1/3
+- beIN SPORTS HD5(biraz): 1/3
+- S SPORT(biraz): 1/3
+- S SPORT 2(biraz): 1/3
+- CBC Sport: 2/3
+- Qazsport: 2/3
+- Okko.футбол: 2/3
+- ОККО.спорт HD: 2/3
+- Окко.Прайм Спорт HD: 2/3
+- tivibu spor1: 2/3
+- tivibu spor2: 2/3
+- tivibu spor3: 2/3
+- Tabii spor HD: 1/3
+- TRT SPOR: 2/3
+- GSPORT (biraz): 1/3
+- СПОРТ ТВ HD: 2/3
+- FUTBOL UZ: 2/3
+- UzSport: 1/3
+- Eurosport 2: 2/3
+- EURONEWS: 2/3
+- PRESS TV: 2/3
+- ТАСС ᴴᴰ: 1/3
+- :24: 2/3
+- 24KZ: 2/3
+- BFMTV: 2/3
+- Digi 24: 2/3
+- RT Doc: 2/3
+- BBC EARTH: 2/3
+- VİASAT HİSTORY: 2/3
+- DISCOVERY CHANNEL: 2/3
+- INVESTIGATION DISCOVERY: 2/3
+- Setanta sports 2 GE: 2/3
+- Setanta Sports 1 GE: 2/3
+- Setanta Sports 1 Georgia: 2/3
+- Setanta Sports 2 Georgia: 2/3
+- Setanta Sports 3 Georgia: 2/3
+- Первый канал: 2/3
+- Телеканал: 2/3
+- Матч! ТВ: 2/3
+- Телекомпания НТВ: 2/3
+- Пятый канал: 2/3
+- Телеканал: 2/3
+- : 2/3
+- ОТР: 2/3
+- ТВ Центр: 2/3
+- РЕН ТВ: 2/3
+- СТС: 2/3
+- Домашний: 2/3
+- ТВ3: 2/3
+- Пятница: 2/3
+- Звезда: 2/3
+- Мир: 2/3
+- ТНТ: 2/3
+- Муз ТВ: 2/3
+- Ю: 2/3
+- История: 2/3
+- Дикий: 2/3
+- Наука 2.0: 2/3
+- RTG TV: 2/3
+- Amedia 1: 2/3
+- BCU Kinorating HD: 2/3
+- BCU Stars HD: 2/3
+- Gags Network: 2/3
+- Наша Сибирь: 2/3
+- Кинопоказ HD: 2/3
+- Ключ: 2/3
+- Кухня ТВ: 2/3
+- Мосфильм. Золотая коллекция: 2/3
+- MyTV: 2/3
+- Наше HD: 2/3
+- Ностальгия: 2/3
+- Про любовь: 2/3
+- Союз: 2/3
+- Совершенно секретно: 2/3
+- СТС Kids: 2/3
+- Da Vinci: 2/3
+- Бобёр: 2/3
+- Bolt: 2/3
+- BRIDGE TV: 2/3
+- TRT Avaz: 2/3
+- haber global: 2/3
+- CNN Turk: 2/3
+- KANAL D HD: 2/3
+- Star TV Turk: 2/3
+- A News: 2/3
+- A Para: 2/3
+- TV 8.5 HD: 2/3
+- beIN sports HABER: 2/3
+- CGTN TURK: 2/3
+- ATV turk: 2/3
+- A Spor: 2/3
+- xəzər: 2/3
+- ictimai: 2/3
+- aztv: 2/3
+- muz tv: 2/3
+- real: 2/3
+- dünya: 2/3
+- kanal s: 2/3
+- Naxçıvan TV: 2/3
+- günaz tv: 2/3
+- kanal 35: 2/3
+- tmb: 2/3
+- cbc sport: 2/3
+- idman: 2/3
+- arb: 2/3
+- BİZNES TV: 2/3
+- CBC Sport: 2/3
+- ANS TV: 2/3
+- Первый HD: 2/3
+- Россия 1: 2/3
+- Россия 1 HD: 2/3
+- Россия К: 2/3
+- ТНТ 4: 2/3
+- НТВ: 2/3
+- Рен ТВ: 2/3
+- Кухня ТВ: 2/3
+- Домашние Животные: 2/3
+- Поехали!: 2/3
+- Телекафе: 2/3
+- Живая Планета: 2/3
+- Авто24: 2/3
+- Авто Плюс: 2/3
+- Наука: 2/3
+- Моя планета: 2/3
+- Big Planet: 2/3
+- Animal Planet: 2/3
+- Animal Planet HD: 2/3
+- Viasat explore: 2/3
+- Viasat history: 2/3
+- Viasat Nature: 2/3
+- Viasat Nature HD: 2/3
+- Дикий: 2/3
+- History HD: 2/3
+- TLC: 2/3
+- Охота и Рыбалка: 2/3
+- Nat Geo Wild HD: 2/3
+- Nat Geo Wild: 2/3
+- Discovery Channel: 2/3
+- Discovery Channel HD: 2/3
+- National Geographic: 2/3
+- National Geographic HD: 2/3
+- Живи: 2/3
+- История: 2/3
+- Зоопарк: 2/3
+- Кто есть кто: 2/3
+- TV 1000: 2/3
+- TV 1000 Action: 2/3
+- Иллюзион+: 2/3
+- Русский Иллюзион: 2/3
+- Еврокино: 2/3
+- Мир сериала: 2/3
+- Мужское кино HD: 2/3
+- Hollywood HD: 2/3
+- VIP Megahit HD: 2/3
+- VIP Premiere HD: 2/3
+- VIP Comedy HD: 2/3
+- VIP Serial HD: 2/3
+- Дом кино: 2/3
+- Дом Кино Премиум HD: 2/3
+- НСТ: 2/3
+- .Black: 2/3
+- .Sci-Fi: 2/3
+- TV XXI: 2/3
+- Plan B: 2/3
+- Время: 2/3
+- Русский Детектив: 2/3
+- Русский Роман: 2/3
+- Кинохит: 2/3
+- Киносерия HD: 2/3
+- Киномикс HD: 2/3
+- Киносемья HD: 2/3
+- Кинокомедия: 2/3
+- Индийское Кино: 2/3
+- Киносвидание: 2/3
+- Родное Кино: 2/3
+- Amedia 1: 2/3
+- Amedia 2: 2/3
+- Amedia Hit: 2/3
+- Amedia Premium: 2/3
+- Amedia Premium HD: 2/3
+- Любимое Кино: 2/3
+- Сапфир: 2/3
+- Кинеко: 2/3
+- ТВ3: 2/3
+- Че: 2/3
+- Звезда: 2/3
+- ОТР: 2/3
+- Euronews: 2/3
+- РТР Планета: 2/3
+- ТВЦ: 2/3
+- Домашний: 2/3
+- Мир: 2/3
+- Мир 24: 2/3
+- РБК: 2/3
+- Bridge TV: 2/3
+- Bridge Classic: 2/3
+- Bridge Deluxe: 2/3
+- Bridge Deluxe HD: 2/3
+- Муз ТВ: 2/3
+- Muz TV AZ: 2/3
+- RU TV: 2/3
+- MCM Top: 2/3
+- Europa Plus TV: 2/3
+- Ностальгия: 2/3
+- Шансон ТВ: 2/3
+- Музыка Первого: 2/3
+- Уникум: 2/3
+- Бобер: 2/3
+- Солнце: 2/3
+- Суббота: 2/3
+- Детский Мир HD: 2/3
+- Мама: 2/3
+- Мульт: 2/3
+- Мульт HD: 2/3
+- 2x2: 2/3
+- Ani: 2/3
+- Карусель: 2/3
+- Nick jr: 2/3
+- Aspor: 2/3
+- TRT spor: 2/3
+- TRT haber: 2/3
+- CNN TÜRK: 2/3
+- TRT belgesel: 2/3
+- TRT 1: 2/3
+- Haber global: 2/3
+- AzTV: 2/3
