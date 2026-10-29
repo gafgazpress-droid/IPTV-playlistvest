@@ -5,3 +5,5 @@ https://boss.com.az/all.m3u
 https://tinyurl.com/2anjgx5z
 https://iptv-org.github.io/iptv/index.m3u
 http://78.153.139.136:8090/a07fdf5582.m3u
+http://tvtm.one/pl/121/cmp3qviimqtdo/playlist.m3u8
+https://kec.az/mvxgJ
