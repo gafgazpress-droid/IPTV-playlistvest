@@ -59,6 +59,7 @@ http://176.65.146.189:8701/play/a09o
 http://mfe02.cliptv.az/dash/ARB_SDwdv010056_re.ism/playlist.mpd
 #EXTINF: -1 tvg-id="7368" tvg-logo="https://upload.wikimedia.org/wikipedia/az/8/86/ARB.png" group-title="AZERBAYCAN 📡", Arb HD
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
+http://flussonic.izone.az:80/arb/mono.m3u8
 #EXTINF: -1 tvg-id="7368" tvg-logo="https://upload.wikimedia.org/wikipedia/az/8/86/ARB.png" group-title="AZERBAYCAN 📡",ARB ᴴᴰ
 #EXTGRP:AZERBAYCAN 📡
 http://str.yodacdn.net/arb/index.m3u8
