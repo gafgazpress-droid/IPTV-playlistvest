@@ -144,7 +144,7 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Tabii_-_TRT_Logo.png" group-title="TURKİYE 📡", tabii tv
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
 #EXTINF: -1 tvg-id="Showtv.com.tr" tvg-name="Show TV" tvg-logo="https://i.postimg.cc/PJrpQfNj/Show-TV-logo-svg.png" group-title="TURKİYE 📡", SHOW
-http://105894.fly24.be:80/BurakKarakaya/pynW9rPDw1b/42
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/PJrpQfNj/Show-TV-logo-svg.png" group-title="TURKİYE 📡", Show tv
 http://176.65.153.12:6002/play/a05m/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/nhMqh61g/ei-1791020680040-removebg-preview.png" group-title="TURKİYE 📡",SHOW TV
@@ -616,7 +616,7 @@ https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF: -1 tvg-id="ASpor.tr" tvg-name="A Spor" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="FUTBOL ⚽", A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 group-title="FUTBOL ⚽" tvg-logo="https://i.imgur.com/ZhkZzLf.png",a spor HD
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+http://46.32.176.50/aspor/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Trt-tabii-logo.png" group-title="FUTBOL ⚽", Tabii spor HD
 https://biraz.6781237.xyz/checklist/androstreamlivetb.m3u8
 #EXTINF:0 user-agent="Firefox" tvg-id="tabii Spor" tvg-name="TR: Tabii Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Trt-tabii-logo.png" group-title="FUTBOL ⚽",Tabii Spor
@@ -794,7 +794,7 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Iran_International_logo_2021.svg" group-title="NEWS 📡", İran international
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 #EXTINF: -1 tvg-id="one:2327" tvg-name="one:2327" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/IRIB_IRINN_2025.png" group-title="NEWS 📡", İRİB İNTERNATİONAL
-http://185.9.2.18/chid_926/index.m3u8
+https://ncdn.telewebion.com/irinn/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L4xxJ8wX/IMG-230c4a5c-5b01-4c26-9a74-67977ef69255.png" group-title="NEWS 📡",RAİ NEWS 24
 https://rainews2-live.akamaized.net/hls/live/598327/rainews2/rainews2/playlist.m3u8
 #EXTINF:0 tvg-id="msnbc-us-hd" tvg-logo="https://i.postimg.cc/wvZck1px/MSNBC.png" tvg-rec="0" catchup-days="0" group-title="NEWS 📡",MSNBC HD
@@ -1403,7 +1403,8 @@ http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/731/index.m3u8
 #EXTINF:-1 group-title="IZONE", Кто есть кто
 http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/2042/index.m3u8
 #EXTINF:-1 group-title="IZONE", TV 1000
-http://46.32.176.50/tv1000/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://85.14.32.26:8800/udp/239.100.10.100:5000
 #EXTINF:-1 group-title="IZONE", TV 1000 Action
 http://46.32.176.50/tv1000action/index.m3u8
 #EXTINF:-1 group-title="IZONE", Иллюзион+
@@ -1505,7 +1506,7 @@ http://46.32.176.50/cbc/index.m3u8
 #EXTINF:-1 group-title="IZONE", Bridge TV
 http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/122/index.m3u8
 #EXTINF:-1 group-title="IZONE", Bridge Classic
-http://46.32.176.50/rusong/index.m3u8
+http://stream.mcquack.net/272/index.m3u8
 #EXTINF:-1 group-title="IZONE", Bridge Deluxe
 http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/236/index.m3u8
 #EXTINF:-1 group-title="IZONE", Bridge Deluxe HD

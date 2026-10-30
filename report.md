@@ -1,9 +1,9 @@
 # Yenilənmə hesabatı
 
 - Cəmi kanal: 717
-- Linki əvəz edilən: 117
-- Ölü qalan (əvəzedici tapılmadı, köhnə link saxlanıldı): 91
-- Gözləyən (ölü çıxdı, amma hələ 3 dəfə təsdiqlənməyib): 7
+- Linki əvəz edilən: 119
+- Ölü qalan (əvəzedici tapılmadı, köhnə link saxlanıldı): 80
+- Gözləyən (ölü çıxdı, amma hələ 3 dəfə təsdiqlənməyib): 11
 
 ## Əvəz edilənlər
 - BAKU TV ᴴᴰ: `https://az.cehennem.workers.dev/index.m3u8?ID=12` -> `https://rtmp.baku.tv/hls/bakutv.m3u8`
@@ -76,6 +76,7 @@
 - История: `http://46.32.176.50/istoriya/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/111/index.m3u8`
 - Зоопарк: `http://46.32.176.50/zoopark/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/731/index.m3u8`
 - Кто есть кто: `http://46.32.176.50/ktoestkto/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/2042/index.m3u8`
+- TV 1000: `http://46.32.176.50/tv1000/index.m3u8` -> `http://85.14.32.26:8800/udp/239.100.10.100:5000`
 - Иллюзион+: `http://46.32.176.50/illuzion/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/2038/index.m3u8`
 - Русский Иллюзион: `http://46.32.176.50/russkiyiluzion/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/2114/index.m3u8`
 - Еврокино: `http://46.32.176.50/eurokino/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/549/index.m3u8`
@@ -108,6 +109,7 @@
 - РТР Планета: `http://46.32.176.50/rtrplaneta/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/18042/index.m3u8`
 - Домашний: `http://46.32.176.50/domashniy/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/514/index.m3u8`
 - Bridge TV: `http://46.32.176.50/bridgetv/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/122/index.m3u8`
+- Bridge Classic: `http://46.32.176.50/rusong/index.m3u8` -> `http://stream.mcquack.net/272/index.m3u8`
 - Bridge Deluxe: `http://46.32.176.50/BridgeTVDance/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/236/index.m3u8`
 - Bridge Deluxe HD: `http://46.32.176.50/BridgeTVHD/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/236/index.m3u8`
 - Muz TV AZ: `http://46.32.176.50/muztvaz/index.m3u8` -> `http://185.32.44.154/muztvaz/index.m3u8`
@@ -163,21 +165,12 @@
 - beIN Sports 4
 - S sport 1
 - S sport 2
-- beIN SPORTS HD1(biraz)
-- beIN SPORTS HD2(biraz)
-- beIN SPORTS HD3(biraz)
-- beIN SPORTS HD4(biraz)
-- beIN SPORTS HD5(biraz)
-- S SPORT(biraz)
-- S SPORT 2(biraz)
 - CBC Sport
 - Okko.футбол
 - tivibu spor1
 - tivibu spor2
 - tivibu spor3
-- Tabii spor HD
 - TRT SPOR
-- GSPORT (biraz)
 - СПОРТ ТВ HD
 - FUTBOL UZ
 - PRESS TV
@@ -206,12 +199,10 @@
 - Первый HD
 - Nat Geo Wild HD
 - Nat Geo Wild
-- TV 1000
 - TV 1000 Action
 - VIP Megahit HD
 - VIP Premiere HD
 - VIP Comedy HD
-- Bridge Classic
 - MCM Top
 - TRT spor
 - CNN TÜRK
@@ -236,11 +227,11 @@
 - STAR
 - NTV
 - TV net
-- Tele1
 - TRT 2
 - НТВ HD
 - ТНТ
 - TV1 KG HD (Кыргызстан)
+- a spor HD
 - :24
 - 24KZ
 - BFMTV
@@ -308,10 +299,14 @@
 - AzTV
 
 ## Gözləyənlər (hələ əvəz edilməyib)
-- TRT 1: 1/3
-- A HD: 1/3
-- TGRT HABER: 1/3
-- TRT GENÇ: 1/3
-- Пятница: 1/3
-- Суббота: 1/3
-- ТВ3: 1/3
+- TGRT HABER: 2/3
+- Домашний HD: 1/3
+- Пятый канал: 1/3
+- РБК: 1/3
+- РБК HD: 1/3
+- Пятница: 2/3
+- ТВ3: 2/3
+- 2+2: 1/3
+- A Spor: 1/3
+- Go3 Sport 1: 1/3
+- İRİB İNTERNATİONAL: 1/3
