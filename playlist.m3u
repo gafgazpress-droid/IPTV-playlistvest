@@ -54,11 +54,11 @@ http://str.yodacdn.net/real/index.m3u8
 http://flussonic.izone.az:80/realtv/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/SRtzTm4D/channels4-profile-(1).jpg" group-title="AZERBAYCAN 📡",REAL TV ᴴᴰ
 #EXTGRP:AZERBAYCAN 📡
-http://flussonic.izone.az:80/realtv/mono.m3u8
+http://176.65.146.189:8701/play/a09o
 #EXTINF: -1 tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" group-title="AZERBAYCAN 📡", arb
 http://mfe02.cliptv.az/dash/ARB_SDwdv010056_re.ism/playlist.mpd
 #EXTINF: -1 tvg-id="7368" tvg-logo="https://upload.wikimedia.org/wikipedia/az/8/86/ARB.png" group-title="AZERBAYCAN 📡", Arb HD
-http://flussonic.izone.az:80/arb/mono.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 #EXTINF: -1 tvg-id="7368" tvg-logo="https://upload.wikimedia.org/wikipedia/az/8/86/ARB.png" group-title="AZERBAYCAN 📡",ARB ᴴᴰ
 #EXTGRP:AZERBAYCAN 📡
 http://str.yodacdn.net/arb/index.m3u8
@@ -81,7 +81,7 @@ http://flussonic.izone.az:80/spacetv/mono.m3u8
 http://str.yodacdn.net/space/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/c1Qrztms/In-Shot-20251103-071346014.png" group-title="AZERBAYCAN 📡",SPACE TV ᴴᴰ
 #EXTGRP:AZERBAYCAN 📡
-http://flussonic.izone.az:80/spacetv/mono.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/7YG1Fbst/D-nya-TV-2019-h-h.png" group-title="AZERBAYCAN 📡", Dünya TV Sumqayıt
 http://flussonic.izone.az:80/dunyatv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/7YG1Fbst/D-nya-TV-2019-h-h.png" group-title="AZERBAYCAN 📡",DÜNYA TV ᴴᴰ
@@ -90,7 +90,7 @@ http://185.32.44.154/dunyatv/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/WpQsbxbw/S-hiyy-TV.png" group-title="AZERBAYCAN 📡", Səhiyyə TV
 http://185.32.44.154/sehiyye/mono.m3u8
 #EXTINF: -1 tvg-id="2158" tvg-logo="http://assets.tvcdn.net/f6608442-2bd6-4e63-b229-7a4c2eb945de.png" group-title="AZERBAYCAN 📡", CBC
-http://185.32.44.154/cbc/index.m3u8
+http://str.yodacdn.net/cbc/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/cLCZDtGQ/In-Shot-20251005-112521461.png" group-title="AZERBAYCAN 📡",Biznes TV
 http://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8
 #EXTINF: -1 tvg-id="2557" tvg-logo="https://upload.wikimedia.org/wikipedia/az/a/af/M%C9%99d%C9%99niyy%C9%99t_TV_loqo.png" group-title="AZERBAYCAN 📡", MƏDƏNİYYƏT TV
@@ -1369,11 +1369,11 @@ https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
 #EXTINF:-1 group-title="IZONE", Viasat Nature
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.50/live/test_viasat_nature_atk_tv/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/ViasatNature_HD/index.m3u8
 #EXTINF:-1 group-title="IZONE", Viasat Nature HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.50/live/test_viasat_nature_atk_tv/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/ViasatNature_HD/index.m3u8
 #EXTINF:-1 group-title="IZONE", Дикий
 http://46.32.176.50/dikiy/index.m3u8
 #EXTINF:-1 group-title="IZONE", History HD
@@ -1506,7 +1506,7 @@ http://46.32.176.50/cbc/index.m3u8
 #EXTINF:-1 group-title="IZONE", Bridge TV
 http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/122/index.m3u8
 #EXTINF:-1 group-title="IZONE", Bridge Classic
-http://46.32.176.50/rusong/index.m3u8
+http://stream.mcquack.net/272/index.m3u8
 #EXTINF:-1 group-title="IZONE", Bridge Deluxe
 http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/236/index.m3u8
 #EXTINF:-1 group-title="IZONE", Bridge Deluxe HD

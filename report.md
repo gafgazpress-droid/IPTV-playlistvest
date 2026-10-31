@@ -1,9 +1,9 @@
 # Yenilənmə hesabatı
 
 - Cəmi kanal: 717
-- Linki əvəz edilən: 118
-- Ölü qalan (əvəzedici tapılmadı, köhnə link saxlanıldı): 81
-- Gözləyən (ölü çıxdı, amma hələ 3 dəfə təsdiqlənməyib): 6
+- Linki əvəz edilən: 119
+- Ölü qalan (əvəzedici tapılmadı, köhnə link saxlanıldı): 80
+- Gözləyən (ölü çıxdı, amma hələ 3 dəfə təsdiqlənməyib): 5
 
 ## Əvəz edilənlər
 - BAKU TV ᴴᴰ: `https://az.cehennem.workers.dev/index.m3u8?ID=12` -> `https://rtmp.baku.tv/hls/bakutv.m3u8`
@@ -65,8 +65,8 @@
 - Animal Planet HD: `http://46.32.176.50/AnimalPlanetHD/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/218/index.m3u8`
 - Viasat explore: `http://46.32.176.50/viasatexplorer/index.m3u8` -> `https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8`
 - Viasat history: `http://46.32.176.50/viasathistory/index.m3u8` -> `https://shift03.isp.bg/ViasatHistory_HD/index.m3u8`
-- Viasat Nature: `http://46.32.176.50/viasatnature/index.m3u8` -> `http://88.212.15.50/live/test_viasat_nature_atk_tv/playlist.m3u8`
-- Viasat Nature HD: `http://46.32.176.50/ViasatNatureHD/index.m3u8` -> `http://88.212.15.50/live/test_viasat_nature_atk_tv/playlist.m3u8`
+- Viasat Nature: `http://46.32.176.50/viasatnature/index.m3u8` -> `https://shift03.isp.bg/ViasatNature_HD/index.m3u8`
+- Viasat Nature HD: `http://46.32.176.50/ViasatNatureHD/index.m3u8` -> `https://shift03.isp.bg/ViasatNature_HD/index.m3u8`
 - History HD: `http://46.32.176.50/HistoryHD/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/231/index.m3u8`
 - Охота и Рыбалка: `http://46.32.176.50/oxotoiribalka/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/2019/index.m3u8`
 - Discovery Channel: `http://46.32.176.50/discoverychannel/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/227/index.m3u8`
@@ -109,6 +109,7 @@
 - РТР Планета: `http://46.32.176.50/rtrplaneta/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/18042/index.m3u8`
 - Домашний: `http://46.32.176.50/domashniy/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/514/index.m3u8`
 - Bridge TV: `http://46.32.176.50/bridgetv/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/122/index.m3u8`
+- Bridge Classic: `http://46.32.176.50/rusong/index.m3u8` -> `http://stream.mcquack.net/272/index.m3u8`
 - Bridge Deluxe: `http://46.32.176.50/BridgeTVDance/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/236/index.m3u8`
 - Bridge Deluxe HD: `http://46.32.176.50/BridgeTVHD/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/236/index.m3u8`
 - Muz TV AZ: `http://46.32.176.50/muztvaz/index.m3u8` -> `http://185.32.44.154/muztvaz/index.m3u8`
@@ -202,7 +203,6 @@
 - VIP Megahit HD
 - VIP Premiere HD
 - VIP Comedy HD
-- Bridge Classic
 - MCM Top
 - TRT spor
 - CNN TÜRK
@@ -230,8 +230,6 @@
 - TRT 2
 - НТВ HD
 - ТНТ
-- ТВ3
-- TV1 KG HD (Кыргызстан)
 - :24
 - 24KZ
 - BFMTV
@@ -299,9 +297,8 @@
 - AzTV
 
 ## Gözləyənlər (hələ əvəz edilməyib)
-- APA TV HD: 1/3
-- APA tv (1080p): 1/3
-- Tele1: 1/3
-- Formula tv: 1/3
-- 2+2: 2/3
-- UzSport: 1/3
+- A HD: 1/3
+- TRT GENÇ: 1/3
+- Tele1: 2/3
+- ЧЕ!: 1/3
+- Setanta Sports 1 Qazaqstan HD: 1/3
