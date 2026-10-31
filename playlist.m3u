@@ -54,11 +54,11 @@ http://str.yodacdn.net/real/index.m3u8
 http://flussonic.izone.az:80/realtv/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/SRtzTm4D/channels4-profile-(1).jpg" group-title="AZERBAYCAN 📡",REAL TV ᴴᴰ
 #EXTGRP:AZERBAYCAN 📡
-http://176.65.146.189:8701/play/a09o
+http://flussonic.izone.az:80/realtv/mono.m3u8
 #EXTINF: -1 tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" group-title="AZERBAYCAN 📡", arb
 http://mfe02.cliptv.az/dash/ARB_SDwdv010056_re.ism/playlist.mpd
 #EXTINF: -1 tvg-id="7368" tvg-logo="https://upload.wikimedia.org/wikipedia/az/8/86/ARB.png" group-title="AZERBAYCAN 📡", Arb HD
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
+http://flussonic.izone.az:80/arb/mono.m3u8
 #EXTINF: -1 tvg-id="7368" tvg-logo="https://upload.wikimedia.org/wikipedia/az/8/86/ARB.png" group-title="AZERBAYCAN 📡",ARB ᴴᴰ
 #EXTGRP:AZERBAYCAN 📡
 http://str.yodacdn.net/arb/index.m3u8
@@ -81,7 +81,7 @@ http://flussonic.izone.az:80/spacetv/mono.m3u8
 http://str.yodacdn.net/space/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/c1Qrztms/In-Shot-20251103-071346014.png" group-title="AZERBAYCAN 📡",SPACE TV ᴴᴰ
 #EXTGRP:AZERBAYCAN 📡
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
+http://flussonic.izone.az:80/spacetv/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/7YG1Fbst/D-nya-TV-2019-h-h.png" group-title="AZERBAYCAN 📡", Dünya TV Sumqayıt
 http://flussonic.izone.az:80/dunyatv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/7YG1Fbst/D-nya-TV-2019-h-h.png" group-title="AZERBAYCAN 📡",DÜNYA TV ᴴᴰ
@@ -90,7 +90,7 @@ http://185.32.44.154/dunyatv/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/WpQsbxbw/S-hiyy-TV.png" group-title="AZERBAYCAN 📡", Səhiyyə TV
 http://185.32.44.154/sehiyye/mono.m3u8
 #EXTINF: -1 tvg-id="2158" tvg-logo="http://assets.tvcdn.net/f6608442-2bd6-4e63-b229-7a4c2eb945de.png" group-title="AZERBAYCAN 📡", CBC
-http://str.yodacdn.net/cbc/index.m3u8
+http://185.32.44.154/cbc/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/cLCZDtGQ/In-Shot-20251005-112521461.png" group-title="AZERBAYCAN 📡",Biznes TV
 http://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8
 #EXTINF: -1 tvg-id="2557" tvg-logo="https://upload.wikimedia.org/wikipedia/az/a/af/M%C9%99d%C9%99niyy%C9%99t_TV_loqo.png" group-title="AZERBAYCAN 📡", MƏDƏNİYYƏT TV
