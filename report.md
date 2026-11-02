@@ -1,11 +1,12 @@
 # Yenilənmə hesabatı
 
 - Cəmi kanal: 717
-- Linki əvəz edilən: 117
-- Ölü qalan (əvəzedici tapılmadı, köhnə link saxlanıldı): 82
-- Gözləyən (ölü çıxdı, amma hələ 3 dəfə təsdiqlənməyib): 12
+- Linki əvəz edilən: 119
+- Ölü qalan (əvəzedici tapılmadı, köhnə link saxlanıldı): 81
+- Gözləyən (ölü çıxdı, amma hələ 3 dəfə təsdiqlənməyib): 11
 
 ## Əvəz edilənlər
+- BAKU TV ᴴᴰ: `https://az.cehennem.workers.dev/index.m3u8?ID=12` -> `https://rtmp.baku.tv/hls/bakutv.m3u8`
 - KANAL S: `https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8` -> `https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8`
 - KANAL S ᴴᴰ: `https://az.cehennem.workers.dev/index.m3u8?ID=16` -> `https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8`
 - kanal D: `http://46.32.176.50/kanald/index.m3u8` -> `https://stream1.kanald.ro/iphone/knd-live.m3u8`
@@ -64,8 +65,8 @@
 - Animal Planet HD: `http://46.32.176.50/AnimalPlanetHD/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/218/index.m3u8`
 - Viasat explore: `http://46.32.176.50/viasatexplorer/index.m3u8` -> `https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8`
 - Viasat history: `http://46.32.176.50/viasathistory/index.m3u8` -> `https://shift03.isp.bg/ViasatHistory_HD/index.m3u8`
-- Viasat Nature: `http://46.32.176.50/viasatnature/index.m3u8` -> `https://shift03.isp.bg/ViasatNature_HD/index.m3u8`
-- Viasat Nature HD: `http://46.32.176.50/ViasatNatureHD/index.m3u8` -> `https://shift03.isp.bg/ViasatNature_HD/index.m3u8`
+- Viasat Nature: `http://46.32.176.50/viasatnature/index.m3u8` -> `http://88.212.15.50/live/test_viasat_nature_atk_tv/playlist.m3u8`
+- Viasat Nature HD: `http://46.32.176.50/ViasatNatureHD/index.m3u8` -> `http://88.212.15.50/live/test_viasat_nature_atk_tv/playlist.m3u8`
 - History HD: `http://46.32.176.50/HistoryHD/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/231/index.m3u8`
 - Охота и Рыбалка: `http://46.32.176.50/oxotoiribalka/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/2019/index.m3u8`
 - Discovery Channel: `http://46.32.176.50/discoverychannel/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/227/index.m3u8`
@@ -75,6 +76,7 @@
 - История: `http://46.32.176.50/istoriya/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/111/index.m3u8`
 - Зоопарк: `http://46.32.176.50/zoopark/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/731/index.m3u8`
 - Кто есть кто: `http://46.32.176.50/ktoestkto/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/2042/index.m3u8`
+- TV 1000: `http://46.32.176.50/tv1000/index.m3u8` -> `http://85.14.32.26:8800/udp/239.100.10.100:5000`
 - Иллюзион+: `http://46.32.176.50/illuzion/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/2038/index.m3u8`
 - Русский Иллюзион: `http://46.32.176.50/russkiyiluzion/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/2114/index.m3u8`
 - Еврокино: `http://46.32.176.50/eurokino/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/549/index.m3u8`
@@ -129,7 +131,6 @@
 - CBC Sport HD
 - CBC SPORT ᴴᴰ
 - IDMAN TV ᴴᴰ
-- BAKU TV ᴴᴰ
 - Ictimai SD
 - Ictimai HD
 - İCTİMAİ TV ᴴᴰ
@@ -155,6 +156,7 @@
 - CNN TÜRK
 - CNN Turk
 - KOZA TV
+- TRT GENÇ
 - CGTN TURK
 - Rustavi 2
 - Первый канал Евразия
@@ -198,7 +200,6 @@
 - Первый HD
 - Nat Geo Wild HD
 - Nat Geo Wild
-- TV 1000
 - TV 1000 Action
 - VIP Megahit HD
 - VIP Premiere HD
@@ -298,15 +299,14 @@
 - AzTV
 
 ## Gözləyənlər (hələ əvəz edilməyib)
-- APA TV HD: 1/3
-- APA tv (1080p): 1/3
-- Baku TV HD: 1/3
-- baku TV: 1/3
-- TGRT HABER: 1/3
-- TRT GENÇ: 2/3
-- RU.TV: 1/3
-- TV1 KG HD (Кыргызстан): 1/3
-- 1+1 Ukraina: 1/3
-- 2+2: 1/3
-- beIN SPORTS HD4(biraz): 1/3
-- baku: 1/3
+- TGRT HABER: 2/3
+- РБК: 1/3
+- РБК HD: 1/3
+- RU TV HD: 1/3
+- Хабар HD: 1/3
+- TV1 KG HD (Кыргызстан): 2/3
+- beIN SPORTS HD1(biraz): 1/3
+- beIN SPORTS HD2(biraz): 1/3
+- TVNET SPORT: 1/3
+- Go3 Sport 1: 1/3
+- İRİB İNTERNATİONAL: 1/3

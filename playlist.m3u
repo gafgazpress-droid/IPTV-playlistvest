@@ -32,7 +32,7 @@ https://rtmp.baku.tv/hls/bakutv.m3u8
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/pXfSw016/hd-logo.png" group-title="AZERBAYCAN 📡",BAKU TV ᴴᴰ
 #EXTGRP:AZERBAYCAN 📡
-https://az.cehennem.workers.dev/index.m3u8?ID=12
+https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF: -1 tvg-id="aztv.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" group-title="AZERBAYCAN 📡", AZTV HD
 http://185.32.44.154/aztv/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vvRXNTp.png" group-title="AZERBAYCAN 📡", AzTV FHD
@@ -54,12 +54,11 @@ http://str.yodacdn.net/real/index.m3u8
 http://flussonic.izone.az:80/realtv/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/SRtzTm4D/channels4-profile-(1).jpg" group-title="AZERBAYCAN 📡",REAL TV ᴴᴰ
 #EXTGRP:AZERBAYCAN 📡
-http://flussonic.izone.az:80/realtv/mono.m3u8
+http://176.65.146.189:8701/play/a09o
 #EXTINF: -1 tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" group-title="AZERBAYCAN 📡", arb
 http://mfe02.cliptv.az/dash/ARB_SDwdv010056_re.ism/playlist.mpd
 #EXTINF: -1 tvg-id="7368" tvg-logo="https://upload.wikimedia.org/wikipedia/az/8/86/ARB.png" group-title="AZERBAYCAN 📡", Arb HD
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
-http://flussonic.izone.az:80/arb/mono.m3u8
 #EXTINF: -1 tvg-id="7368" tvg-logo="https://upload.wikimedia.org/wikipedia/az/8/86/ARB.png" group-title="AZERBAYCAN 📡",ARB ᴴᴰ
 #EXTGRP:AZERBAYCAN 📡
 http://str.yodacdn.net/arb/index.m3u8
@@ -82,7 +81,7 @@ http://flussonic.izone.az:80/spacetv/mono.m3u8
 http://str.yodacdn.net/space/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/c1Qrztms/In-Shot-20251103-071346014.png" group-title="AZERBAYCAN 📡",SPACE TV ᴴᴰ
 #EXTGRP:AZERBAYCAN 📡
-http://flussonic.izone.az:80/spacetv/mono.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/7YG1Fbst/D-nya-TV-2019-h-h.png" group-title="AZERBAYCAN 📡", Dünya TV Sumqayıt
 http://flussonic.izone.az:80/dunyatv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/7YG1Fbst/D-nya-TV-2019-h-h.png" group-title="AZERBAYCAN 📡",DÜNYA TV ᴴᴰ
@@ -92,7 +91,6 @@ http://185.32.44.154/dunyatv/index.m3u8
 http://185.32.44.154/sehiyye/mono.m3u8
 #EXTINF: -1 tvg-id="2158" tvg-logo="http://assets.tvcdn.net/f6608442-2bd6-4e63-b229-7a4c2eb945de.png" group-title="AZERBAYCAN 📡", CBC
 http://str.yodacdn.net/cbc/index.m3u8
-http://185.32.44.154/cbc/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/cLCZDtGQ/In-Shot-20251005-112521461.png" group-title="AZERBAYCAN 📡",Biznes TV
 http://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8
 #EXTINF: -1 tvg-id="2557" tvg-logo="https://upload.wikimedia.org/wikipedia/az/a/af/M%C9%99d%C9%99niyy%C9%99t_TV_loqo.png" group-title="AZERBAYCAN 📡", MƏDƏNİYYƏT TV
@@ -101,7 +99,7 @@ http://str.yodacdn.net/medeniyyettele/index.m3u8
 #EXTGRP:AZERBAYCAN 📡
 http://str.yodacdn.net/medeniyyettele/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/0Q12yXPJ/M-d-niyy-t-TV-loqo.png" group-title="AZERBAYCAN 📡", MƏDƏNİYYƏT
-http://flussonic.izone.az:80/medeniyyet/mono.m3u8
+https://az.cehennem.workers.dev/index.m3u8?ID=2
 #EXTINF:0 tvg-logo="https://i.postimg.cc/cCPh2BsY/Kanal-S-2022.png" group-title="AZERBAYCAN 📡",KANAL S
 #EXTGRP:AZERBAYCAN 📡
 https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
@@ -796,7 +794,7 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Iran_International_logo_2021.svg" group-title="NEWS 📡", İran international
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 #EXTINF: -1 tvg-id="one:2327" tvg-name="one:2327" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/IRIB_IRINN_2025.png" group-title="NEWS 📡", İRİB İNTERNATİONAL
-http://185.9.2.18/chid_926/index.m3u8
+https://ncdn.telewebion.com/irinn/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L4xxJ8wX/IMG-230c4a5c-5b01-4c26-9a74-67977ef69255.png" group-title="NEWS 📡",RAİ NEWS 24
 https://rainews2-live.akamaized.net/hls/live/598327/rainews2/rainews2/playlist.m3u8
 #EXTINF:0 tvg-id="msnbc-us-hd" tvg-logo="https://i.postimg.cc/wvZck1px/MSNBC.png" tvg-rec="0" catchup-days="0" group-title="NEWS 📡",MSNBC HD
@@ -1371,11 +1369,11 @@ https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
 #EXTINF:-1 group-title="IZONE", Viasat Nature
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://shift03.isp.bg/ViasatNature_HD/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_viasat_nature_atk_tv/playlist.m3u8
 #EXTINF:-1 group-title="IZONE", Viasat Nature HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://shift03.isp.bg/ViasatNature_HD/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_viasat_nature_atk_tv/playlist.m3u8
 #EXTINF:-1 group-title="IZONE", Дикий
 http://46.32.176.50/dikiy/index.m3u8
 #EXTINF:-1 group-title="IZONE", History HD
@@ -1405,7 +1403,8 @@ http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/731/index.m3u8
 #EXTINF:-1 group-title="IZONE", Кто есть кто
 http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/2042/index.m3u8
 #EXTINF:-1 group-title="IZONE", TV 1000
-http://46.32.176.50/tv1000/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://85.14.32.26:8800/udp/239.100.10.100:5000
 #EXTINF:-1 group-title="IZONE", TV 1000 Action
 http://46.32.176.50/tv1000action/index.m3u8
 #EXTINF:-1 group-title="IZONE", Иллюзион+
