@@ -796,7 +796,7 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Iran_International_logo_2021.svg" group-title="NEWS 📡", İran international
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 #EXTINF: -1 tvg-id="one:2327" tvg-name="one:2327" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/IRIB_IRINN_2025.png" group-title="NEWS 📡", İRİB İNTERNATİONAL
-https://ncdn.telewebion.com/irinn/live/playlist.m3u8
+http://185.9.2.18/chid_926/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L4xxJ8wX/IMG-230c4a5c-5b01-4c26-9a74-67977ef69255.png" group-title="NEWS 📡",RAİ NEWS 24
 https://rainews2-live.akamaized.net/hls/live/598327/rainews2/rainews2/playlist.m3u8
 #EXTINF:0 tvg-id="msnbc-us-hd" tvg-logo="https://i.postimg.cc/wvZck1px/MSNBC.png" tvg-rec="0" catchup-days="0" group-title="NEWS 📡",MSNBC HD
