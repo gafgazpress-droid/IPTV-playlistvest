@@ -59,12 +59,11 @@ http://str.yodacdn.net/real/index.m3u8
 http://flussonic.izone.az:80/realtv/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/SRtzTm4D/channels4-profile-(1).jpg" group-title="AZERBAYCAN 📡",REAL TV ᴴᴰ 
 #EXTGRP:AZERBAYCAN 📡
-http://176.65.146.189:8701/play/a09o
+http://flussonic.izone.az:80/realtv/mono.m3u8
 #EXTINF: -1 tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" group-title="AZERBAYCAN 📡", arb 
 http://mfe02.cliptv.az/dash/ARB_SDwdv010056_re.ism/playlist.mpd
-#EXTINF: -1 tvg-id="7368" tvg-logo="https://upload.wikimedia.org/wikipedia/az/8/86/ARB.png" group-title="AZERBAYCAN 📡", Arb HD 
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
-http://185.32.44.154/arb/index.m3u8
+#EXTINF: -1 tvg-id="7368" tvg-logo="https://upload.wikimedia.org/wikipedia/az/8/86/ARB.png" group-title="AZERBAYCAN 📡", Arb HD
+http://flussonic.izone.az:80/arb/mono.m3u8
 #EXTINF: -1 tvg-id="7368" tvg-logo="https://upload.wikimedia.org/wikipedia/az/8/86/ARB.png" group-title="AZERBAYCAN 📡",ARB ᴴᴰ
 #EXTGRP:AZERBAYCAN 📡
 http://str.yodacdn.net/arb/index.m3u8
@@ -951,9 +950,6 @@ https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/H6Fh64z_Vb9AYevqCPwgeyRAyd4mye6fqU2HN5Jj1RWtrtK5lbU3B2Nkxc_nJfpN_WpI5_flfBk" group-title="NEWS 📡",CNN Türk
 http://105894.fly24.be:80/BurakKarakaya/pynW9rPDw1b/149
 
-#EXTINF:-1 tvg-id="HLN.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/960px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="NEWS 📡",HLN
-http://23.237.104.106:8080/USA_HLN/index.m3u8
-
 #EXTINF:-1  group-title="NEWS 📡"  tvg-id="euronews-en"  tvg-logo="https://iptvx.one/picons/euronews-en.png"   $ExtFilter="",Euronews
 #EXTGRP:NEWS 📡
 http://faxyljp3.otttv.pw/iptv/DGVFKTU5Q3AR27/828/index.m3u8
@@ -975,6 +971,9 @@ https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
 #EXTINF:0 tvg-id="Xal-jazeera-int" tvg-name="Al Jazeera International" tvg-logo="https://i.ibb.co/MGW5Vv9/aljaz.png" group-title="NEWS 📡", Al Jazeera
 #EXTGRP:NEWS 📡
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera2.qa@HD" tvg-logo="https://i.imgur.com/miq8O1Q.png" group-title="NEWS 📡",Al Jazeera 2 (1080p)
+https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8
 
 #EXTINF:-1  group-title="NEWS 📡"  tvg-logo="https://i.postimg.cc/jSqZQght/IMG-0aea106a-eb18-4aae-817e-265a80191bd6.png" ,Al Jazeera Mubasher
 http://live-hls-web-ajm.getaj.net/AJM/01.m3u8
