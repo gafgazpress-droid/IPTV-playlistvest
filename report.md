@@ -1,163 +1,141 @@
 # Yenilənmə hesabatı
 
 - Cəmi kanal: 717
-- Linki əvəz edilən: 148
-- Ölü qalan (əvəzedici tapılmadı, köhnə link saxlanıldı): 52
-- Gözləyən (ölü çıxdı, amma hələ 3 dəfə təsdiqlənməyib): 11
+- Linki əvəz edilən: 119
+- Ölü qalan (əvəzedici tapılmadı, köhnə link saxlanıldı): 80
+- Gözləyən (ölü çıxdı, amma hələ 3 dəfə təsdiqlənməyib): 10
 
 ## Əvəz edilənlər
-- CBC SPORT HD: `http://erlyvideo.izone.az:80/cbcsporthd/mono.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/6948/e552ee24bc5b4cbdfc42f4b8e03de36d3d78ad844e3daf91d4188c0f2f922c44.m3u8?sig=9ba98949cdc32cf9baa2fca1cbca9a82b4db82001c3ddc4a59855a4b0e4c86cd`
-- CBC Sport HD: `http://erlyvideo.izone.az:80/cbcsporthd/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/6948/e552ee24bc5b4cbdfc42f4b8e03de36d3d78ad844e3daf91d4188c0f2f922c44.m3u8?sig=9ba98949cdc32cf9baa2fca1cbca9a82b4db82001c3ddc4a59855a4b0e4c86cd`
-- CBC SPORT ᴴᴰ: `https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/6948/e552ee24bc5b4cbdfc42f4b8e03de36d3d78ad844e3daf91d4188c0f2f922c44.m3u8?sig=9ba98949cdc32cf9baa2fca1cbca9a82b4db82001c3ddc4a59855a4b0e4c86cd`
-- IDMAN TV ᴴᴰ: `https://str.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/6951/deac02f3874400d46be6805a2804310136418db17887846edef05b5d6c63a60c.m3u8?sig=0ebe1e99698e08fa4c4e4ca6b76aeb01e3a8a40f3284ba48b0ab263a5cdb0934`
 - BAKU TV ᴴᴰ: `https://az.cehennem.workers.dev/index.m3u8?ID=12` -> `https://rtmp.baku.tv/hls/bakutv.m3u8`
-- İCTİMAİ TV ᴴᴰ: `http://erlyvideo.izone.az:80/IctimaiHD/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/6941/ed5cdcf622f53a7a76885327ab6416ac9b85ec37ce124e872a69a1d748361ee8.m3u8?sig=38dead57f5d543dbfcbc025c9272f7830b4b91c97add176fb91a0ad0bc1700a2`
-- Real TV: `http://str.yodacdn.net/real/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/6861/450d5670f16890adadc1cc2ea4fa34b7d759013bb21e92c594d2f7ade0a0ede5.m3u8?sig=d07e040d0f0d3d5cacc2352194ce54c12c5078aa76d241003d0f05d791ae0502`
-- REAL TV ᴴᴰ: `http://flussonic.izone.az:80/realtv/mono.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/6861/450d5670f16890adadc1cc2ea4fa34b7d759013bb21e92c594d2f7ade0a0ede5.m3u8?sig=d07e040d0f0d3d5cacc2352194ce54c12c5078aa76d241003d0f05d791ae0502`
 - KANAL S: `https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8` -> `https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8`
 - KANAL S ᴴᴰ: `https://az.cehennem.workers.dev/index.m3u8?ID=16` -> `https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8`
-- Show tv: `http://176.65.153.12:6002/play/a05m/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/6665/102bb1d221738bffc295a0150b734a63d3f6bd164e218cc93eea9fffd71b7a61.m3u8?sig=3a0e24cbde53aa00c08893604a9c4926a050ee4453b07df74b1ce289662a59d4`
 - kanal D: `http://46.32.176.50/kanald/index.m3u8` -> `https://stream1.kanald.ro/iphone/knd-live.m3u8`
-- Kanal 7: `https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/6656/16ff0a1917ddfce8496d7e2092bbd944dd9554cc815d184f4238465dea3c5998.m3u8?sig=e414c439159a04ae1f178c6084190f6f3c414f77d0a9241de63c82a745a99c0f`
-- beIN sports haber: `http://105894.fly24.be:80/BurakKarakaya/pynW9rPDw1b/99` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/6701/27865e2ee6e9f84da77ac415f5e20c2ee7250e26491f7d49c42b3298bcc388cb.m3u8?sig=90ada5545d4126b0d9a6716a46f4686b3804cb20ad57348f68431ee83cbb604a`
-- CNN TÜRK: `http://185.32.44.154/cnnturk/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/6642/b8383a03cc46bcac96300c1172dfea47e8fb7cb211d9bd1d3294b7849134cef5.m3u8?sig=dee54b43202248c64cffd2276139b3621b8201ee453efed465ff979ae898d9b3`
-- CNN Turk: `http://flussonic.izone.az:80/cnnturk/mono.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/6642/b8383a03cc46bcac96300c1172dfea47e8fb7cb211d9bd1d3294b7849134cef5.m3u8?sig=dee54b43202248c64cffd2276139b3621b8201ee453efed465ff979ae898d9b3`
 - A Haber: `http://46.32.176.50/ahaber/index.m3u8` -> `https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8`
 - TRT Avaz: `http://185.32.44.154/trtavaz/index.m3u8` -> `https://tv-trtavaz.medya.trt.com.tr/master.m3u8`
-- Россия 24 HD: `http://77.232.131.211/Rossiya24/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/4406/0b259f0c6bdac400b7166d226db74c2f9979efdc49e3d0436db57a566398a2d8.m3u8?sig=df2a71e016e76d1e8f142572b5232a55dfc6052fca9bd06032a6817601a8a949`
-- Россия 24 HD: `http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/4406/0b259f0c6bdac400b7166d226db74c2f9979efdc49e3d0436db57a566398a2d8.m3u8?sig=df2a71e016e76d1e8f142572b5232a55dfc6052fca9bd06032a6817601a8a949`
-- Rustavi 2: `https://tv.cdn.xsg.ge/rustavi2/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/6747/f73bbde373919bb63b52fdae5803667da94404111811d92cff7562b3865c4dcd.m3u8?sig=0817df2aad0c334bf5ae15e1f80f6a8261807bf572c44f60f0a11ff320bc383a`
-- Россия 24 HD: `http://77.232.131.211/Rossiya24/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/4406/0b259f0c6bdac400b7166d226db74c2f9979efdc49e3d0436db57a566398a2d8.m3u8?sig=df2a71e016e76d1e8f142572b5232a55dfc6052fca9bd06032a6817601a8a949`
-- beIN Sports 2: `https://dga1op10s1u3leo.ec876fd9240622.click/live/selcukbeinsports2/playlist.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/6692/4622a722148bf50962ededf0e36370044e1f3450027240fc9fce7d69699292b6.m3u8?sig=9d8c1f29d2a3f59fe1f2de4b61b61b47d6589fe98a671319bf677cd68864bb57`
-- beIN Sports 3: `https://dga1op10s1u3leo.ec876fd9240622.click/live/selcukbeinsports3/playlist.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/6693/6ba446d667933d8f50c9a71fb2442034db35fd1717090c2cc032af4eb69f1ffb.m3u8?sig=76528100b07f1353f83810d15110816b81367d910d9704a94f358acc06a9d2cc`
-- beIN Sports 4: `https://dga1op10s1u3leo.ec876fd9240622.click/live/selcukbeinsports4/playlist.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/6702/fa7b22a64637a4aed3c7025c21446178d3e84a4edcdcccc2f389d4689933abee.m3u8?sig=55345b8143c9b7257b06b9f1dd19873fa04e0c0d6fd75df7bbfdb11ca7b9e82f`
-- S sport 2: `https://dga1op10s1u3leo.ec876fd9240622.click/live/selcukssport2/playlist.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/6664/0371fadf3c09d6423d91b809ce916f4a958dda542683152b9fbd30080156afa6.m3u8?sig=687165185bc76149de0394ff63b79860db4ee0bdddc4b29d478376425a16d0ef`
-- CBC Sport: `http://185.32.44.154/cbcsporthd/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/6948/e552ee24bc5b4cbdfc42f4b8e03de36d3d78ad844e3daf91d4188c0f2f922c44.m3u8?sig=9ba98949cdc32cf9baa2fca1cbca9a82b4db82001c3ddc4a59855a4b0e4c86cd`
+- Россия 24 HD: `http://77.232.131.211/Rossiya24/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/507/index.m3u8`
+- Россия 24 HD: `http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/507/index.m3u8`
+- Россия 24 HD: `http://77.232.131.211/Rossiya24/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/507/index.m3u8`
 - Qazsport: `http://stream.mcquack.net/72/index.m3u8` -> `https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8`
-- ОККО.спорт HD: `http://tchaikovsky.af-stream.com:8080/s/2q8gablk/okko-sport-hd/video.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/5488/026a1425f9a4182be138b386891197517edafc9648397601de6aa5ffb22cea68.m3u8?sig=2b1ffbc68958e41196eaa37df27906c78719ea89edb6efaee74653cad5906f46`
-- Окко.Прайм Спорт HD: `http://tchaikovsky.af-stream.com:8080/s/2q8gablk/okko-sport2-hd/video.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/5490/670fde32add577c19c84dd30c3c8b30596445c29914a17ffcda72b1a042f2021.m3u8?sig=e40379013abe479f201e228e2c50f7565182a66a7c19968fa13fbc32663bc52e`
-- tivibu spor1: `http://line.team-tv.link:80/jLKLjOvdU/beAi6ilBrs/2078` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/6719/717a40f0754955eb91b3476d377ce064753441be28743da0c87f461d6665b354.m3u8?sig=77194840e34dc17a9b0c33f79e77e982669d18f3b05a36d061aed61b56dafc0f`
-- tivibu spor2: `http://line.team-tv.link:80/jLKLjOvdU/beAi6ilBrs/2079` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/6720/de77155a1ab58f8bdebdec57fdc9cc08b808bae81ed8523dab11c4e9d7a19a1f.m3u8?sig=2eda2f56a300ede8075f6515f860879316b822c375ac4ab351345a2b0d991d5d`
-- tivibu spor3: `http://line.team-tv.link:80/jLKLjOvdU/beAi6ilBrs/2080` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/6721/1659e1c8d8bcd6441c3aad5d7794ab2e2ee39ee0832cc52a6906dadb495287a2.m3u8?sig=e7f758af64e70b08f062314734b84e2bf9b99cb6fadfe041978798a33d7c25ee`
-- TRT SPOR: `http://46.32.176.50/trtspor/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/6682/09fbe99fcecc9cdb0de03d9d4a81b1206e6b6c244690d561a319e26dcdf97ef8.m3u8?sig=fecae6623b3d1d27e4e3d6ad272bb53fdeb5a3535ae434b4495b6bedfdb44545`
-- СПОРТ ТВ HD: `http://46.53.208.4:80/live/8112.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/5362/c0c52b6c720319a463691409e9878cd45d80f196814f4cf2cdb85a47eccc6188.m3u8?sig=cab6e6fb8f3daa3b582ce126237de08dfae9a0f5246230c72726ba84e8d5c196`
-- Eurosport 2: `http://46.32.176.50/eurosport2/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/6483/c10ffb8a2816677b0d5f1f985855879807ec926fc7fa58b4e12ec23d9b7292aa.m3u8?sig=9fbf8e73744f5bf5a65543d16c248b55595dc2e9a33d767b9808b74543ec8c09`
+- ОККО.спорт HD: `http://tchaikovsky.af-stream.com:8080/s/2q8gablk/okko-sport-hd/video.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/20138/index.m3u8`
+- Окко.Прайм Спорт HD: `http://tchaikovsky.af-stream.com:8080/s/2q8gablk/okko-sport2-hd/video.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/20135/index.m3u8`
+- Eurosport 2: `http://46.32.176.50/eurosport2/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/234/index.m3u8`
 - EURONEWS: `http://46.32.176.50/euronews/index.m3u8` -> `https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8`
 - Digi 24: `https://pubads.g.doubleclick.net/ssai/event/OQfdjUhHSDSlb1fJVzehsQ/master.m3u8` -> `https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8`
-- BBC EARTH: `https://proud-river-e20b.pantonum1.workers.dev/bbcesrth.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/6456/7539be87f5fa37c0b2ec62dd2babe1e9660c3cde39aa12625cbb8037fc42d82e.m3u8?sig=73c6f5c420d549418a1c7d4f79c3a32c623c160bedefdec123aa0da592066739`
 - VİASAT HİSTORY: `https://proud-river-e20b.pantonum1.workers.dev/viasathistory.m3u8` -> `https://shift03.isp.bg/ViasatHistory_HD/index.m3u8`
-- DISCOVERY CHANNEL: `https://proud-river-e20b.pantonum1.workers.dev/discovery.m3u8` -> `http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8`
-- INVESTIGATION DISCOVERY: `http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48953` -> `http://88.212.15.50/live/test_id_hevc_atktv/playlist.m3u8`
-- Первый канал: `http://vipl.one/hls/ksciajdb7h/1.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/4361/edc15c348d948a250ae438fc85a5eb9d9bd5e6342b29e02b6505291da3826fd0.m3u8?sig=45adc7ead91cb5a17cab18f880d0e33b4e8ee02afd3304d3c207e198bb2fb406`
-- Матч! ТВ: `http://vipl.one/hls/ksciajdb7h/3.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/5267/53ebcbe61632363c677e09f731751c0ef4f025f1225bb6c4197b87696e9d2346.m3u8?sig=6f2532f47de6ec7877b829ff30df4fa9f9cfe6ad778b40bdbf007f012df93ad2`
-- Пятый канал: `http://vipl.one/hls/ksciajdb7h/5.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/4385/525b4cead3eace2b72bf6b65749e0c520dfdb691f48b18607438c2f48dcdddb2.m3u8?sig=48606cbf994d3e6c260932f2b6af75af2c38269cc3adc2bc6aa15ac3b0a72664`
-- ТВ Центр: `http://vipl.one/hls/ksciajdb7h/10.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/4400/5c11dcf211573e96efd6d653326ded3b21a5783f4e478b5095eac09d38c6a751.m3u8?sig=a18c68b87736929dc10eb2581bf6aaa4ff2223252231259824e38f8942b3ef52`
-- Домашний: `http://vipl.one/hls/ksciajdb7h/14.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/4752/9e5ac24ad71f1f7f3599fdff24ef660b6bec42c04705e23ca3db4a48fb9c4937.m3u8?sig=2917069a9797ba160a9774dd4bcc124c4817b823d76ba88f63cecc401f03ca7d`
+- DISCOVERY CHANNEL: `https://proud-river-e20b.pantonum1.workers.dev/discovery.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/227/index.m3u8`
+- INVESTIGATION DISCOVERY: `http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48953` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/2102/index.m3u8`
+- Первый канал: `http://vipl.one/hls/ksciajdb7h/1.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/204/index.m3u8`
+- Матч! ТВ: `http://vipl.one/hls/ksciajdb7h/3.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/535/index.m3u8`
+- Пятый канал: `http://vipl.one/hls/ksciajdb7h/5.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/112/index.m3u8`
+- ТВ Центр: `http://vipl.one/hls/ksciajdb7h/10.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/520/index.m3u8`
+- Домашний: `http://vipl.one/hls/ksciajdb7h/14.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/514/index.m3u8`
 - Пятница: `http://vipl.one/hls/ksciajdb7h/16.m3u8` -> `http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8`
-- Звезда: `http://vipl.one/hls/ksciajdb7h/17.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/4394/ae6d729a8316381a96f58f7551d02e4b7e46bd38bebd62b2a4f0f52284f87ada.m3u8?sig=161a8dbe479dca409e9b860453fcafaddd4c76a9f570f3d0dc4d963817d85894`
-- История: `http://hls127.freeott.top:8080/Istoriya/mono.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/5716/05d6b4500e9dd7f430d6bf33a2cbeaa6e6a66c6f4e65aba84b155f380c4b4eb9.m3u8?sig=950ef8bfc5231d688f9ed9808fe1aeed5016b641b0368f6e9490200580038170`
-- Наука 2.0: `http://hls127.freeott.top:8080/NAUKA/mono.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/5700/497c4050f98ce889d288a1b66d14851ed5270159178095f90dde16af51f86fa8.m3u8?sig=d4363bc58209a74812e58bd6a7a1650a1c2e84f1e7877fb5a7ec155f45feb42e`
+- Звезда: `http://vipl.one/hls/ksciajdb7h/17.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/544/index.m3u8`
+- История: `http://hls127.freeott.top:8080/Istoriya/mono.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/111/index.m3u8`
 - Amedia 1: `http://hls127.freeott.top:8080/Amedia_1/mono.m3u8` -> `http://mfe02.cliptv.az:80/dash/A1_SDoioioi65.ism/playlist.mpd`
-- BCU Kinorating HD: `http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/1005/ebff5638be754de1f55582f9a5a1cbce2ca6dd61985fe806ecb30e84d360b063.m3u8?sig=6da056a91bb685e3dc0fe3973c609fb7706ea8c77add31f3aebca0438e665cac`
-- BCU Stars HD: `http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/1014/3a72f699879672c4ff4d1d538bf67516b813cc7b73c4b5d5e7cbe1b2e8007bab.m3u8?sig=c1be873019bc152429bf13ae9682960cec54961caf379ed37ef110b588150c02`
-- Gags Network: `http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8` -> `http://stream.mcquack.net/458/index.m3u8`
-- Наша Сибирь: `http://hls127.freeott.top:8080/HCTV/mono.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/5139/218e96e54b0b3bdc223d152b40f660485702401729e1af865576f9e0a80aa371.m3u8?sig=0ce733b6b016b8159fa56e779812a9ba4a10ac66131057fffc601953946471dc`
-- Кинопоказ HD: `http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/4568/ce75ea2bd358ea263a75beca9fdb368b37299b53323835f0375cd7de763161c8.m3u8?sig=b9fdf364295a66fbb75dff58878505ef908d4c45c36076e8335e145e6b0a4570`
+- BCU Kinorating HD: `http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/11037/index.m3u8`
+- BCU Stars HD: `http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/11044/index.m3u8`
+- Gags Network: `http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/14024/index.m3u8`
+- Наша Сибирь: `http://hls127.freeott.top:8080/HCTV/mono.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/9330/index.m3u8`
+- Кинопоказ HD: `http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/2439/index.m3u8`
 - Кухня ТВ: `http://hls127.freeott.top:8080/Kuhnya_TV/mono.m3u8` -> `http://mfe02.cliptv.az/dash/Kuxnya_TV_SDlao150.ism/playlist.mpd`
-- Мосфильм. Золотая коллекция: `http://hls127.freeott.top:8080/Mosfilm/mono.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/4792/6cc5d10c330660248bab20f2af01af8ca7d312d9765eeac5c228d4ae3874fef9.m3u8?sig=faae47ed916ebdedab4afa611f3439a52f0161b51ba2f403b83bc7f9a075521a`
-- Ностальгия: `http://hls127.freeott.top:8080/Nostalgiya/mono.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/4408/83c87c62d7d9ec367c8a2947e5351afa399e03cab8defbc45214faf4c934810f.m3u8?sig=04f16b568d133966fa4c3b089e9ae4b5b418e6069dd0a5ff68fd23cf8372c68e`
-- Про любовь: `http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/4570/c2b1c8ba40b4a82c66b90d265ea74671917ec14fcbaa023358e0e8fa34cd80be.m3u8?sig=8aa02017c9300b9cf0b5f997d5e12eeeff633335945a394ff26f73e9629801d1`
-- Совершенно секретно: `http://hls127.freeott.top:8080/Sovershenno_Sekretno/mono.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/5673/82bd93ffee9619ef0638d4dc3254ad1aed42e84ebc9d07689778c9a46957ea06.m3u8?sig=0da62b6941ba424040321fe73528861cd456f49816b524d83b97e53f1783e99d`
-- СТС Kids: `http://hls127.freeott.top:8080/STS_Kids/mono.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/5536/89d97c6b1ff9505c4769bc96f1e6be73c96f201c8fcd1bd534efd92b82a8b831.m3u8?sig=ecbe376b2412731cd47657af3c2f20191f616f9994be14d0a251ae79477510d1`
-- Da Vinci: `http://hls127.freeott.top:8080/Da_Vinci_Learning/mono.m3u8` -> `http://stream.mcquack.net/238/index.m3u8`
-- BRIDGE TV: `http://hls127.freeott.top:8080/BRIDGE_TV/mono.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/5829/f0f1a3a65024c0e7fab2845ba213f7585d62155951f4ab8c2d0bdc979bcc6e20.m3u8?sig=a23777d8089caf9575352d401cd9be3a393942a9ea3b7f22a1e50364759baf09`
+- Мосфильм. Золотая коллекция: `http://hls127.freeott.top:8080/Mosfilm/mono.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/6392/index.m3u8`
+- Ностальгия: `http://hls127.freeott.top:8080/Nostalgiya/mono.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/102/index.m3u8`
+- Про любовь: `http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/2430/index.m3u8`
+- СТС Kids: `http://hls127.freeott.top:8080/STS_Kids/mono.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/2001/index.m3u8`
+- Da Vinci: `http://hls127.freeott.top:8080/Da_Vinci_Learning/mono.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/537/index.m3u8`
+- BRIDGE TV: `http://hls127.freeott.top:8080/BRIDGE_TV/mono.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/122/index.m3u8`
 - TRT Avaz: `http://line.team-tv.link:80/jLKLjOvdU/beAi6ilBrs/2059` -> `https://tv-trtavaz.medya.trt.com.tr/master.m3u8`
 - haber global: `http://line.team-tv.link:80/jLKLjOvdU/beAi6ilBrs/2030` -> `https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8`
-- CNN Turk: `http://65.108.239.207:80/cnn/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/6642/b8383a03cc46bcac96300c1172dfea47e8fb7cb211d9bd1d3294b7849134cef5.m3u8?sig=dee54b43202248c64cffd2276139b3621b8201ee453efed465ff979ae898d9b3`
 - KANAL D HD: `http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48854` -> `https://stream1.kanald.ro/iphone/knd-live.m3u8`
-- beIN sports HABER: `https://netsporlist.koprulu2.workers.dev/?id=androstreamlivebsh.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/6701/27865e2ee6e9f84da77ac415f5e20c2ee7250e26491f7d49c42b3298bcc388cb.m3u8?sig=90ada5545d4126b0d9a6716a46f4686b3804cb20ad57348f68431ee83cbb604a`
 - kanal s: `https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8` -> `https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8`
-- cbc sport: `http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49430` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/6948/e552ee24bc5b4cbdfc42f4b8e03de36d3d78ad844e3daf91d4188c0f2f922c44.m3u8?sig=9ba98949cdc32cf9baa2fca1cbca9a82b4db82001c3ddc4a59855a4b0e4c86cd`
-- CBC Sport: `https://netsporlist.koprulu2.workers.dev/?id=androstreamlivecbcs.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/6948/e552ee24bc5b4cbdfc42f4b8e03de36d3d78ad844e3daf91d4188c0f2f922c44.m3u8?sig=9ba98949cdc32cf9baa2fca1cbca9a82b4db82001c3ddc4a59855a4b0e4c86cd`
-- Россия 1: `http://46.32.176.50/rossiya1/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/4367/c4a4d8c68f4db1d7c4ae50e7e78148a6a65fe6eaf042bf0c2818b3b57c8cddaa.m3u8?sig=df29b73747d4299e528ed56d73f7826df683aeb437a944503a5bb24106374a6e`
-- Россия 1 HD: `http://46.32.176.50/RossiyaHD/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/4367/c4a4d8c68f4db1d7c4ae50e7e78148a6a65fe6eaf042bf0c2818b3b57c8cddaa.m3u8?sig=df29b73747d4299e528ed56d73f7826df683aeb437a944503a5bb24106374a6e`
-- Россия К: `http://46.32.176.50/rossiakultura/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/4418/f86cab3d5d4d6056e35213c6eb9244813f6608c53cab55219f653ead7f65f342.m3u8?sig=e2b8f398622dbfe39d7d0b3327eddbb11612dfef1bdf1fe69d5bdc92c2d06b4d`
+- Россия 1: `http://46.32.176.50/rossiya1/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/2409/index.m3u8`
+- Россия 1 HD: `http://46.32.176.50/RossiyaHD/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/2409/index.m3u8`
+- Россия К: `http://46.32.176.50/rossiakultura/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/505/index.m3u8`
 - Кухня ТВ: `http://46.32.176.50/kuxnyatv/index.m3u8` -> `http://mfe02.cliptv.az/dash/Kuxnya_TV_SDlao150.ism/playlist.mpd`
-- Домашние Животные: `http://46.32.176.50/domashniejivotnie/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/5719/c81cfe3d2afb30553f7aecc830c7ff19d9ec0abb534cc91017ead6a71280088a.m3u8?sig=b7ec3513210d1857b8f19cb8d567f37d3d0a88c57951b9b7f09338d3f780cbb7`
-- Поехали!: `http://46.32.176.50/poexali/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/5715/27a5377693371ffcfe2c53847948a36c783660252d27abcdc0e4f69f1e4ddb87.m3u8?sig=0705bfafedfb414557b62cc337dcb9c6a119c08f27ba7dcfb2794bd254a30cae`
-- Телекафе: `http://46.32.176.50/telekafe/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/5758/2e2ef1942188d681fcf3a0886fcc0318ec33fa17823881a54e32c70ab10a5361.m3u8?sig=49e9ae9662591aa434706ef7a5059b17aee97175a4297d847788649b74ba25d3`
-- Авто24: `http://46.32.176.50/avto24/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/5705/0fe53adb701e53f431df579c4584c7bcf5e31205e962832827696aefec467a7a.m3u8?sig=a18652c4bf306d52fe0dc74dd036a079830143a0c26d026e083fb0bfa00e9fb0`
-- Авто Плюс: `http://46.32.176.50/avtoplyus/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/5707/3030b0b6eda39876bdd0bf6ba5e38be33c3fa4a0867ddb07b343a19c3fdd8530.m3u8?sig=e55426468ee34b2ff76503ffd8304200e6d87628cc26b4a0829ac87a6bac1c3a`
-- Моя планета: `http://46.32.176.50/moyaplaneta/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/5665/959870ae11688656ad6ca9a8cfc7319accd1ed90858f2789271e02448f2b375e.m3u8?sig=73dbae0e395f95a0bd01a48cc7e709db5921f7b3bc63d7024d721f7b80d57ed1`
-- Big Planet: `http://46.32.176.50/bigplanet/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/5772/8faea52a50e2154a3ae01333060cf0ab90e4b8701767d81916252f1220f493fb.m3u8?sig=02ea16b42b07fed8cd0e9e0a3ae62face54f71e166c74cfe71b2b16421e35219`
-- Animal Planet: `http://46.32.176.50/animalplanet/index.m3u8` -> `http://88.212.15.50/live/test_animal_planet_hd_hevc/playlist.m3u8`
-- Animal Planet HD: `http://46.32.176.50/AnimalPlanetHD/index.m3u8` -> `http://88.212.15.50/live/test_animal_planet_hd_hevc/playlist.m3u8`
+- Домашние Животные: `http://46.32.176.50/domashniejivotnie/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/158/index.m3u8`
+- Поехали!: `http://46.32.176.50/poexali/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/14020/index.m3u8`
+- Телекафе: `http://46.32.176.50/telekafe/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/865/index.m3u8`
+- Живая Планета: `http://46.32.176.50/jivayaplaneta/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/2101/index.m3u8`
+- Авто24: `http://46.32.176.50/avto24/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/20033/index.m3u8`
+- Авто Плюс: `http://46.32.176.50/avtoplyus/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/151/index.m3u8`
+- Моя планета: `http://46.32.176.50/moyaplaneta/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/2090/index.m3u8`
+- Big Planet: `http://46.32.176.50/bigplanet/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/20036/index.m3u8`
+- Animal Planet: `http://46.32.176.50/animalplanet/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/218/index.m3u8`
+- Animal Planet HD: `http://46.32.176.50/AnimalPlanetHD/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/218/index.m3u8`
 - Viasat explore: `http://46.32.176.50/viasatexplorer/index.m3u8` -> `https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8`
 - Viasat history: `http://46.32.176.50/viasathistory/index.m3u8` -> `https://shift03.isp.bg/ViasatHistory_HD/index.m3u8`
 - Viasat Nature: `http://46.32.176.50/viasatnature/index.m3u8` -> `https://shift03.isp.bg/ViasatNature_HD/index.m3u8`
 - Viasat Nature HD: `http://46.32.176.50/ViasatNatureHD/index.m3u8` -> `https://shift03.isp.bg/ViasatNature_HD/index.m3u8`
-- History HD: `http://46.32.176.50/HistoryHD/index.m3u8` -> `http://213.91.179.28:8000/play/a0c1`
-- Охота и Рыбалка: `http://46.32.176.50/oxotoiribalka/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/5796/34a05b0047cb3c4e4e237e03111823cae50b9bdd75806a8b4b97c6346422f498.m3u8?sig=560098703ccd375d2a97c6cd773979b57020085452d5d7abec87956ed44ac0a8`
-- Discovery Channel: `http://46.32.176.50/discoverychannel/index.m3u8` -> `http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8`
-- Discovery Channel HD: `http://46.32.176.50/discoverychannel/index.m3u8` -> `http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8`
-- National Geographic: `http://46.32.176.50/nationalgeographic/index.m3u8` -> `http://213.91.179.28:8000/play/a0ct`
-- National Geographic HD: `http://46.32.176.50/NationalGeographicHD/index.m3u8` -> `http://213.91.179.28:8000/play/a0ct`
-- История: `http://46.32.176.50/istoriya/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/5716/05d6b4500e9dd7f430d6bf33a2cbeaa6e6a66c6f4e65aba84b155f380c4b4eb9.m3u8?sig=950ef8bfc5231d688f9ed9808fe1aeed5016b641b0368f6e9490200580038170`
-- Кто есть кто: `http://46.32.176.50/ktoestkto/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/5770/baad84756251265289fa8197a0860dd3d7de4e9e5b35a4d8c1f828d7433b7dc2.m3u8?sig=4847253198cdeccb6bf9a5eae71fa382c421887d03a0eee294433561095cbecd`
+- History HD: `http://46.32.176.50/HistoryHD/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/231/index.m3u8`
+- Охота и Рыбалка: `http://46.32.176.50/oxotoiribalka/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/2019/index.m3u8`
+- Discovery Channel: `http://46.32.176.50/discoverychannel/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/227/index.m3u8`
+- Discovery Channel HD: `http://46.32.176.50/discoverychannel/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/227/index.m3u8`
+- National Geographic: `http://46.32.176.50/nationalgeographic/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/14000/index.m3u8`
+- National Geographic HD: `http://46.32.176.50/NationalGeographicHD/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/14000/index.m3u8`
+- История: `http://46.32.176.50/istoriya/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/111/index.m3u8`
+- Зоопарк: `http://46.32.176.50/zoopark/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/731/index.m3u8`
+- Кто есть кто: `http://46.32.176.50/ktoestkto/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/2042/index.m3u8`
 - TV 1000: `http://46.32.176.50/tv1000/index.m3u8` -> `http://85.14.32.26:8800/udp/239.100.10.100:5000`
-- Иллюзион+: `http://46.32.176.50/illuzion/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/4546/e378a79e10706fb89f177163125a3cfdc20f5529417d681b92a56e9070a8188f.m3u8?sig=2de509a8209fd74ff2936212a3890ba73fcdf207f7e3e50aa0fbf04adaad5043`
-- Русский Иллюзион: `http://46.32.176.50/russkiyiluzion/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/4520/37d3f1e5a971b5ded1da27e175430c5b7e16250c33d3554cd6de138fa0927a2f.m3u8?sig=b2764632a86fa2eae51d8baef7443369edb9f8a2909487fe3a18219483c2f3d8`
-- Еврокино: `http://46.32.176.50/eurokino/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/4518/f916fcbbc5c6bb5d45d81ea870527cb0b80510e5376b4cbade6395f645f86386.m3u8?sig=fea89827b7bc834620be1b6518a7e11d9e5021d4a24fcdfd2a9967943b25392e`
-- Мир сериала: `http://46.32.176.50/mirseriala/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/4539/8212912e43197aedd808b19ee541b20c6f33888125ccbde8890df4d2f7538041.m3u8?sig=38af51c3c44bb5957cacc672563c247ad2c1a5c8af4f028f326daa7f78f4859e`
+- Иллюзион+: `http://46.32.176.50/illuzion/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/2038/index.m3u8`
+- Русский Иллюзион: `http://46.32.176.50/russkiyiluzion/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/2114/index.m3u8`
+- Еврокино: `http://46.32.176.50/eurokino/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/549/index.m3u8`
+- Мир сериала: `http://46.32.176.50/mirseriala/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/856/index.m3u8`
 - Мужское кино HD: `http://46.32.176.50/MujskoeKinoHD/index.m3u8` -> `http://mfe02.cliptv.az/dash/Mujskoye_Kino_SDpoiu876.ism/playlist.mpd`
-- Hollywood HD: `http://46.32.176.50/HollywoodHD/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/4534/536935582b2d1422e8845dc6bdb220fee8f13aa2596b944cc184e726e179a7af.m3u8?sig=d8bcaa89d6db197be8232888842b827532bbda8db5ea5e7f7ce2c5acdcdfdc6a`
+- Hollywood HD: `http://46.32.176.50/HollywoodHD/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/209/index.m3u8`
 - VIP Serial HD: `http://46.32.176.50/ViasatSportHD/index.m3u8` -> `http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd`
-- Дом кино: `http://46.32.176.50/domkino/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/4540/e370cd0e3814e7be430b18b49a18acf8b7fcb31f377a9654878296338fe72a1f.m3u8?sig=763742f8249f0dec12a08b666cbea9bca870364172a3a6fc8f7e31a63dd9edb3`
-- Дом Кино Премиум HD: `http://46.32.176.50/DomKinoPremiumHD/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/4466/87b139dbfd4a66bf8abe10853581c887aade31c506c633813726b42057b517b4.m3u8?sig=5e03253b78f9a5c3f1714c534abc40b56fb3d1e4eb0250a2db8e492533871cf5`
-- Русский Детектив: `http://46.32.176.50/russkiydetektiv/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/4559/8307e9be89c7b8e9e2b6d7428c45a0cd572dd765c9ee60180450a1333c687d75.m3u8?sig=4b71b924ca3dd299165da0f8139346ca93acfb78b71810c10c31591fd9d7b18a`
-- Русский Роман: `http://46.32.176.50/russkiyroman/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/4529/4954a7e333b52fddeb0ba8caeafb175cc689e7fba5648651aa52e0560622af5c.m3u8?sig=33dde9f91ee0f523b93adfe7d97a9c72b15f678454249095f4351b432095cb24`
+- Дом кино: `http://46.32.176.50/domkino/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/154/index.m3u8`
+- Дом Кино Премиум HD: `http://46.32.176.50/DomKinoPremiumHD/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/911/index.m3u8`
+- Русский Детектив: `http://46.32.176.50/russkiydetektiv/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/907/index.m3u8`
+- Русский Роман: `http://46.32.176.50/russkiyroman/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/2076/index.m3u8`
 - Кинохит: `http://46.32.176.50/kinoxit/index.m3u8` -> `http://mfe01.cliptv.az/dash/Kinohit_SDqwecvrt672.ism/playlist.mpd`
 - Киносерия HD: `http://46.32.176.50/kinoseria/index.m3u8` -> `http://mfe01.cliptv.az:80/dash/Kinoseriya_SDkukuku6.ism/playlist.mpd`
-- Киномикс HD: `http://46.32.176.50/kinomiks/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/4492/747f6ae56740931f1f99a6ad74582868e2d424c1977f496bc51be24dac3165d0.m3u8?sig=e8ab2c9c79e166b077fab10a7008d9c6ff8b38ee3c17fd45a64df92bc8bd0dbd`
+- Киномикс HD: `http://46.32.176.50/kinomiks/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/509/index.m3u8`
 - Киносемья HD: `http://46.32.176.50/kinosemya/index.m3u8` -> `http://mfe01.cliptv.az:80/dash/Kinosemya_SD_PIVhjdh8f7eg.ism/playlist.mpd`
 - Кинокомедия: `http://46.32.176.50/kinokomedia/index.m3u8` -> `http://mfe02.cliptv.az/dash/Kinokomediya_SDdfdf678h.ism/playlist.mpd`
 - Индийское Кино: `http://46.32.176.50/indiskoekino/index.m3u8` -> `http://mfe01.cliptv.az:80/dash/Indiyskoe_Kino_SDfdghj4.ism/playlist.mpd`
 - Киносвидание: `http://46.32.176.50/kinosvidanie/index.m3u8` -> `http://mfe02.cliptv.az:80/dash/Kinosvidaniye_SDdho39d.ism/playlist.mpd`
-- Родное Кино: `http://46.32.176.50/rodnoekino/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/4522/0f9d303f9165d0babd0f06575f666109bb7b47a5191eb52c10de4e09a9a87a97.m3u8?sig=0e50c10b5033e2ab4e9aaa7096cd767729f9c9bbcc60e6ea61e1bbe0fc4b7e24`
+- Родное Кино: `http://46.32.176.50/rodnoekino/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/126/index.m3u8`
 - Amedia 1: `http://46.32.176.50/amedia1/index.m3u8` -> `http://mfe02.cliptv.az:80/dash/A1_SDoioioi65.ism/playlist.mpd`
 - Amedia 2: `http://46.32.176.50/amedia2/index.m3u8` -> `http://mfe01.cliptv.az/dash/Amedia_2_SD_PIgjf67deV.ism/playlist.mpd`
 - Amedia Hit: `http://46.32.176.50/amediahit/index.m3u8` -> `http://85.117.61.97:8000/play/a015/index.m3u8`
-- Amedia Premium: `http://46.32.176.50/AmediaPremium/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/4467/718bdb3f79a2e1b83a41b14d8fb06d5f6fa6965d1b04af14527d79ee4f3685e4.m3u8?sig=0c597f924d3af1941290a506e19664c3732173b28d5ce950aa7c7141a12327d2`
-- Amedia Premium HD: `http://46.32.176.50/AmediaPremiumHD/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/4467/718bdb3f79a2e1b83a41b14d8fb06d5f6fa6965d1b04af14527d79ee4f3685e4.m3u8?sig=0c597f924d3af1941290a506e19664c3732173b28d5ce950aa7c7141a12327d2`
-- Любимое Кино: `http://46.32.176.50/lubimoekino/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/4525/f3a7af32b538fc914811ef8e21ae032de49aed721db8683aefc433b0932fe6fd.m3u8?sig=16b14777775ce7f828da809af29287d3e140a8d5c31a24ae1c63d7eb5a900f8f`
-- Сапфир: `http://46.32.176.50/foxlife/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/4750/21846412356852b1d1bba3917e2c01c2ef62a105c78c722139c6016edd5eed52.m3u8?sig=75125d6fdb460206a470d70cd5310484f22db36545ac25d28f2636dd9c446c73`
-- Кинеко: `http://46.32.176.50/foxrussia/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/4474/87738a387734d7d45365dcd2176d8170572b2b56ad746cc3bb777e6d38d7dd63.m3u8?sig=8989eaf42bbf859fc6cbdcf25ff08b26429afeb40d644d69eb74a8725fa00a3f`
-- Звезда: `http://46.32.176.50/zvezda/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/4394/ae6d729a8316381a96f58f7551d02e4b7e46bd38bebd62b2a4f0f52284f87ada.m3u8?sig=161a8dbe479dca409e9b860453fcafaddd4c76a9f570f3d0dc4d963817d85894`
+- Amedia Premium: `http://46.32.176.50/AmediaPremium/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/229/index.m3u8`
+- Amedia Premium HD: `http://46.32.176.50/AmediaPremiumHD/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/229/index.m3u8`
+- Любимое Кино: `http://46.32.176.50/lubimoekino/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/20014/index.m3u8`
+- Сапфир: `http://46.32.176.50/foxlife/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/553/index.m3u8`
+- Кинеко: `http://46.32.176.50/foxrussia/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/550/index.m3u8`
+- Звезда: `http://46.32.176.50/zvezda/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/544/index.m3u8`
 - Euronews: `http://46.32.176.50/euronews/index.m3u8` -> `https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8`
-- Домашний: `http://46.32.176.50/domashniy/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/4752/9e5ac24ad71f1f7f3599fdff24ef660b6bec42c04705e23ca3db4a48fb9c4937.m3u8?sig=2917069a9797ba160a9774dd4bcc124c4817b823d76ba88f63cecc401f03ca7d`
-- Bridge TV: `http://46.32.176.50/bridgetv/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/5829/f0f1a3a65024c0e7fab2845ba213f7585d62155951f4ab8c2d0bdc979bcc6e20.m3u8?sig=a23777d8089caf9575352d401cd9be3a393942a9ea3b7f22a1e50364759baf09`
-- Bridge Deluxe: `http://46.32.176.50/BridgeTVDance/index.m3u8` -> `http://stream.mcquack.net/92/index.m3u8`
-- Bridge Deluxe HD: `http://46.32.176.50/BridgeTVHD/index.m3u8` -> `http://stream.mcquack.net/92/index.m3u8`
+- РТР Планета: `http://46.32.176.50/rtrplaneta/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/18042/index.m3u8`
+- Домашний: `http://46.32.176.50/domashniy/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/514/index.m3u8`
+- Bridge TV: `http://46.32.176.50/bridgetv/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/122/index.m3u8`
+- Bridge Deluxe: `http://46.32.176.50/BridgeTVDance/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/236/index.m3u8`
+- Bridge Deluxe HD: `http://46.32.176.50/BridgeTVHD/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/236/index.m3u8`
 - Muz TV AZ: `http://46.32.176.50/muztvaz/index.m3u8` -> `http://185.32.44.154/muztvaz/index.m3u8`
-- MCM Top: `http://46.32.176.50/mcmtop/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/5838/f3da863a476dea27b1ad6793d85d717945773ad6f2fff20f2f212708bb217bf2.m3u8?sig=ae5350f0ecfd2d9f04e0d25730aa27958c54041fd4678d0ec1e625858a99187c`
-- Europa Plus TV: `http://46.32.176.50/europaplus/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/5827/7832d7b8352fff8c3228f7347ce87659681b363fd87de2d979708227952edf31.m3u8?sig=488f30f3074507ce9207e9eab3f2bed9fe7c300a285bde48225fb0706105640c`
-- Ностальгия: `http://46.32.176.50/nostalgiya/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/4408/83c87c62d7d9ec367c8a2947e5351afa399e03cab8defbc45214faf4c934810f.m3u8?sig=04f16b568d133966fa4c3b089e9ae4b5b418e6069dd0a5ff68fd23cf8372c68e`
-- Шансон ТВ: `http://46.32.176.50/shanson/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/5846/ec20643f5e4b415689a4116a881f29a45bf131edf76a57763eb4a5a6c9df30ec.m3u8?sig=3af64ad3148df42d825f8dd97fa2e534b20ceb30d31f2fe9e8c6b9058daec617`
-- Музыка Первого: `http://46.32.176.50/muzika1/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/5826/1443ed2ba212dbcbd756c7264ce51eaea0fb5e60f7defa37762e16b575f2832a.m3u8?sig=7aa66c74988e67ff4bd7294d572b76ea239182a537ee4d65871c36e724bc9f04`
+- MCM Top: `http://46.32.176.50/mcmtop/index.m3u8` -> `http://185.228.163.146:8000/play/a00g/index.m3u8`
+- Europa Plus TV: `http://46.32.176.50/europaplus/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/20029/index.m3u8`
+- Ностальгия: `http://46.32.176.50/nostalgiya/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/102/index.m3u8`
+- Шансон ТВ: `http://46.32.176.50/shanson/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/859/index.m3u8`
+- Музыка Первого: `http://46.32.176.50/muzika1/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/155/index.m3u8`
+- Уникум: `http://46.32.176.50/detskiy/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/730/index.m3u8`
 - Солнце: `http://46.32.176.50/solnce/index.m3u8` -> `http://tv.mediacdn.ru/live/solntse/playlist.m3u8`
-- Суббота: `http://46.32.176.50/subbota/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/4765/5b7baebbf10ae6895216aa8860ec6fd287fd3750af3a70dcb116f67c3c7d0ddd.m3u8?sig=fcf30455b7d7d9aef8f9b653ace0f6e77e2aaeac1bd1f2afdc03bf291af639ba`
+- Суббота: `http://46.32.176.50/subbota/index.m3u8` -> `http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/826/index.m3u8`
 - Детский Мир HD: `http://46.32.176.50/detskiymir/index.m3u8` -> `http://mfe02.cliptv.az:80/dash/Detskiy_Mir_SDqwvb78iu.ism/playlist.mpd`
 - Карусель: `http://46.32.176.50/karusel/index.m3u8` -> `http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8`
 - Nick jr: `http://46.32.176.50/nickelodeonjunior/index.m3u8` -> `https://stream8.cinerama.uz/1501/playlist.m3u8`
-- TRT spor: `http://46.32.176.50/trtspor/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/6682/09fbe99fcecc9cdb0de03d9d4a81b1206e6b6c244690d561a319e26dcdf97ef8.m3u8?sig=fecae6623b3d1d27e4e3d6ad272bb53fdeb5a3535ae434b4495b6bedfdb44545`
 - TRT haber: `http://46.32.176.50/trthaber/index.m3u8` -> `https://tv-trthaber.medya.trt.com.tr/master.m3u8`
-- CNN TÜRK: `http://46.32.176.50/cnnturk/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/6642/b8383a03cc46bcac96300c1172dfea47e8fb7cb211d9bd1d3294b7849134cef5.m3u8?sig=dee54b43202248c64cffd2276139b3621b8201ee453efed465ff979ae898d9b3`
-- TRT belgesel: `http://46.32.176.50/trtbelgesel/index.m3u8` -> `http://45.151.137.119:2095/stream/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y/6678/cabbe78fd8e1906af6f18304d38a9365eb0f0280c4da02bbdd3d0c7555bbe600.m3u8?sig=3dee5d377fe1466af7499595378308c9246269a670f4266e80383f06f27c6dc8`
 - Haber global: `http://46.32.176.50/haberglobal/index.m3u8` -> `https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8`
 
 ## Hələ də ölü olanlar (mənbə axtarın)
+- CBC SPORT HD
+- CBC Sport HD
+- CBC SPORT ᴴᴰ
+- IDMAN TV ᴴᴰ
 - Ictimai SD
 - Ictimai HD
+- İCTİMAİ TV ᴴᴰ
+- Real TV
+- REAL TV ᴴᴰ
 - XƏZƏR TV
 - Xəzər TV HD
 - XƏZƏR TV ᴴᴰ
@@ -168,19 +146,35 @@
 - NAXÇIVAN TV ᴴᴰ
 - ARB Gunes
 - ARB Gunes
+- Show tv
 - Star TV Türk
 - tvg-logo=,ATV Turk SD
 - TV8 int
 - TV 8 INT
+- Kanal 7
+- beIN sports haber
+- CNN TÜRK
+- CNN Turk
 - KOZA TV
 - CGTN TURK
+- Rustavi 2
 - Первый канал Евразия
 - RU.TV by
+- beIN Sports 2
+- beIN Sports 3
+- beIN Sports 4
 - S sport 1
-- beIN SPORTS HD1(biraz)
+- S sport 2
+- CBC Sport
 - Okko.футбол
+- tivibu spor1
+- tivibu spor2
+- tivibu spor3
+- TRT SPOR
+- СПОРТ ТВ HD
 - FUTBOL UZ
 - PRESS TV
+- BBC EARTH
 - Setanta sports 2 GE
 - Setanta Sports 1 GE
 - Setanta Sports 1 Georgia
@@ -189,25 +183,30 @@
 - Телеканал
 - Телекомпания НТВ
 - Телеканал
+- Наука 2.0
+- Совершенно секретно
+- CNN Turk
 - Star TV Turk
+- beIN sports HABER
 - CGTN TURK
 - ATV turk
 - ictimai
 - Naxçıvan TV
 - kanal 35
+- cbc sport
 - BİZNES TV
+- CBC Sport
 - Первый HD
-- Живая Планета
 - Nat Geo Wild HD
 - Nat Geo Wild
-- Зоопарк
 - TV 1000 Action
 - VIP Megahit HD
 - VIP Premiere HD
 - VIP Comedy HD
-- РТР Планета
 - Bridge Classic
-- Уникум
+- TRT spor
+- CNN TÜRK
+- TRT belgesel
 
 ## Qısa adlı ölü kanallar (avtomatik əvəz edilmədi, overrides.txt-də link verin)
 - IDMAN HD
@@ -230,8 +229,6 @@
 - Tele1
 - TRT 2
 - НТВ HD
-- РБК
-- РБК HD
 - ТНТ
 - TV1 KG HD (Кыргызстан)
 - :24
@@ -301,14 +298,13 @@
 - AzTV
 
 ## Gözləyənlər (hələ əvəz edilməyib)
-- Arb HD: 1/3
-- A HD: 1/3
-- TGRT HABER: 1/3
-- РОССИЯ К HD: 1/3
-- Мир 24: 1/3
-- Суббота: 1/3
-- Известия HD: 1/3
-- RU TV HD: 1/3
-- Qazaqstan TV Int HD (Қазақстан): 2/3
-- 1+1 Ukraina: 1/3
-- Известия HD: 1/3
+- Arb HD: 2/3
+- Пятый канал: 1/3
+- ЧЕ!: 1/3
+- News Front SD: 1/3
+- Хабар HD: 1/3
+- Formula tv: 1/3
+- 1+1 Ukraina: 2/3
+- 2+2: 1/3
+- Euronews Russian: 1/3
+- İHA: 1/3
