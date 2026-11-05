@@ -1,10 +1,9 @@
 # Hər sətirdə bir mənbə m3u linki (# ilə başlayan sətirlər şərhdir)
 # https://example.com/source1.m3u
 # https://example.com/source2.m3u
-https://boss.com.az/all.m3u
 https://tinyurl.com/2anjgx5z
 https://iptv-org.github.io/iptv/index.m3u
 http://78.153.139.136:8090/a07fdf5582.m3u
 http://tvtm.one/pl/121/cmp3qviimqtdo/playlist.m3u8
 https://kec.az/mvxgJ
-http://45.151.137.119:2095/playlist/YF21ywu_jiNx3UoHgFTIphsx1FBPPgUla0R8UG2eH8Y.m3u
+https://boss.com.az/all.m3u
