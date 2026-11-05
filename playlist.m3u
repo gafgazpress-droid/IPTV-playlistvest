@@ -91,6 +91,8 @@ http://185.32.44.154/dunyatv/index.m3u8
 http://185.32.44.154/sehiyye/mono.m3u8
 #EXTINF: -1 tvg-id="2158" tvg-logo="http://assets.tvcdn.net/f6608442-2bd6-4e63-b229-7a4c2eb945de.png" group-title="AZERBAYCAN 📡", CBC
 http://str.yodacdn.net/cbc/index.m3u8
+#EXTINF:-1 group-title="AZERBAYCAN 📡" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/a/a4/CBC.jpeg/120px-CBC.jpeg", CBC AZ
+http://185.32.44.154/cbc/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/cLCZDtGQ/In-Shot-20251005-112521461.png" group-title="AZERBAYCAN 📡",Biznes TV
 http://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8
 #EXTINF: -1 tvg-id="2557" tvg-logo="https://upload.wikimedia.org/wikipedia/az/a/af/M%C9%99d%C9%99niyy%C9%99t_TV_loqo.png" group-title="AZERBAYCAN 📡", MƏDƏNİYYƏT TV
