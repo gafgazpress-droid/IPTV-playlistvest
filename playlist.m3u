@@ -91,8 +91,6 @@ http://185.32.44.154/dunyatv/index.m3u8
 http://185.32.44.154/sehiyye/mono.m3u8
 #EXTINF: -1 tvg-id="2158" tvg-logo="http://assets.tvcdn.net/f6608442-2bd6-4e63-b229-7a4c2eb945de.png" group-title="AZERBAYCAN 📡", CBC
 http://str.yodacdn.net/cbc/index.m3u8
-#EXTINF:-1 group-title="AZERBAYCAN 📡" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/a/a4/CBC.jpeg/120px-CBC.jpeg", CBC AZ
-http://185.32.44.154/cbc/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/cLCZDtGQ/In-Shot-20251005-112521461.png" group-title="AZERBAYCAN 📡",Biznes TV
 http://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8
 #EXTINF: -1 tvg-id="2557" tvg-logo="https://upload.wikimedia.org/wikipedia/az/a/af/M%C9%99d%C9%99niyy%C9%99t_TV_loqo.png" group-title="AZERBAYCAN 📡", MƏDƏNİYYƏT TV
@@ -140,7 +138,7 @@ http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 #EXTINF: -1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/TRT_eski_logo_%281990-2001%29.png" group-title="TURKİYE 📡", TRT
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF: -1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRT_1_HD_kurumsal_logo_%282012-2021%29.png" group-title="TURKİYE 📡", TRT 1 HD
-https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/Lsqyt9QW/In-Shot-20260901-195916738.png" group-title="TURKİYE 📡", TRT NOSTALJI
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Tabii_-_TRT_Logo.png" group-title="TURKİYE 📡", tabii tv
@@ -655,7 +653,7 @@ http://qvnpbz2k.rostelekom.xyz/iptv/PYNV3ND2WZ7YHR/2561/index.m3u
 #EXTINF: -1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_HR_logo_v2.png" group-title="FUTBOL ⚽", Arena sport 1
 http://qvnpbz2k.rostelekom.xyz/iptv/PYNV3ND2WZ7YHR/2550/index.m3u
 #EXTINF:-1 group-title="FUTBOL ⚽" tvg-logo="https://af-play.com/storage/images/channel_logos/735e3bdecc8af1494fc6e302ac9a781f.png",СПОРТ ТВ HD
-http://46.53.208.4:80/live/8112.m3u8
+http://tchaikovsky.af-stream.com:8080/s/2q8gablk/sport-tv-by-hd-orig/video.m3u8
 #EXTINF:-1 group-title="FUTBOL ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/9/9c/FutbolTV.jpg", FUTBOL UZ
 http://s8.rafail1982.uz/1010/tracks-v1a1a1/mono.m3u8
 #EXTINF:-1 group-title="FUTBOL ⚽",UzSport
@@ -861,7 +859,7 @@ http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:C4:21:31&stream=197441&extens
 #EXTINF:0 tvg-logo="https://i.postimg.cc/PqyrBMLN/In-Shot-20260102-231141578.png" group-title="DOCUMENTARY 🌍",BBC EARTH
 https://proud-river-e20b.pantonum1.workers.dev/bbcesrth.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/NF6gk7wt/In-Shot-20260102-231456174.png" group-title="DOCUMENTARY 🌍",LOVE NATURE
-https://proud-river-e20b.pantonum1.workers.dev/lovenature.m3u8
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:C4:21:31&stream=197434&extension=ts&play_token=KklUEgawwd
 #EXTINF:0 tvg-logo="https://i.postimg.cc/tT0QvZkG/In-Shot-20260102-231626031.png" group-title="DOCUMENTARY 🌍",VİASAT HİSTORY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
@@ -1191,7 +1189,7 @@ http://hls127.freeott.top:8080/Sovershenno_Sekretno/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",СТС Kids
 http://hls127.freeott.top:8080/STS_Kids/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡", Da Vinci
-http://hls127.freeott.top:8080/Da_Vinci_Learning/mono.m3u8
+http://stream.mcquack.net/238/index.m3u8
 #EXTINF:-1 group-title="MIX 📡",Бобёр
 http://hls127.freeott.top:8080/Bober/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",Bolt
@@ -1365,8 +1363,8 @@ http://88.212.15.50/live/test_animal_planet_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="IZONE", Animal Planet HD
 http://88.212.15.50/live/test_animal_planet_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="IZONE", Viasat explore
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_viasat_explore_atk_tv/playlist.m3u8
 #EXTINF:-1 group-title="IZONE", Viasat history
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
@@ -1511,11 +1509,11 @@ http://46.32.176.50/cbc/index.m3u8
 #EXTINF:-1 group-title="IZONE", Bridge TV
 http://46.32.176.50/bridgetv/index.m3u8
 #EXTINF:-1 group-title="IZONE", Bridge Classic
-http://stream.mcquack.net/272/index.m3u8
+http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 group-title="IZONE", Bridge Deluxe
-http://46.32.176.50/BridgeTVDance/index.m3u8
+http://stream.mcquack.net/92/index.m3u8
 #EXTINF:-1 group-title="IZONE", Bridge Deluxe HD
-http://46.32.176.50/BridgeTVHD/index.m3u8
+http://stream.mcquack.net/92/index.m3u8
 #EXTINF:-1 group-title="IZONE", Муз ТВ
 http://46.32.176.50/muztv/index.m3u8
 #EXTINF:-1 group-title="IZONE", Muz TV AZ
@@ -1555,7 +1553,8 @@ http://46.32.176.50/anitv/index.m3u8
 #EXTINF:-1 group-title="IZONE", Карусель
 http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
 #EXTINF:-1 group-title="IZONE", Nick jr
-https://stream8.cinerama.uz/1501/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_nick_jr/playlist.m3u8
 #EXTINF:-1 group-title="IZONE" tvg-logo="https://i.imgur.com/ZhkZzLf.png",Aspor
 http://46.32.176.50/aspor/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/3xZKmkcd/In-Shot-20260201-173739187.png" group-title="IZONE", TRT spor

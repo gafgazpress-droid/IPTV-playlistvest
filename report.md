@@ -1,9 +1,9 @@
 # Yenilənmə hesabatı
 
 - Cəmi kanal: 717
-- Linki əvəz edilən: 54
-- Ölü qalan (əvəzedici tapılmadı, köhnə link saxlanıldı): 146
-- Gözləyən (ölü çıxdı, amma hələ 3 dəfə təsdiqlənməyib): 14
+- Linki əvəz edilən: 57
+- Ölü qalan (əvəzedici tapılmadı, köhnə link saxlanıldı): 141
+- Gözləyən (ölü çıxdı, amma hələ 3 dəfə təsdiqlənməyib): 12
 
 ## Əvəz edilənlər
 - BAKU TV ᴴᴰ: `https://az.cehennem.workers.dev/index.m3u8?ID=12` -> `https://rtmp.baku.tv/hls/bakutv.m3u8`
@@ -22,6 +22,7 @@
 - Amedia 1: `http://hls127.freeott.top:8080/Amedia_1/mono.m3u8` -> `http://mfe02.cliptv.az:80/dash/A1_SDoioioi65.ism/playlist.mpd`
 - Gags Network: `http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8` -> `http://stream.mcquack.net/458/index.m3u8`
 - Кухня ТВ: `http://hls127.freeott.top:8080/Kuhnya_TV/mono.m3u8` -> `http://mfe02.cliptv.az/dash/Kuxnya_TV_SDlao150.ism/playlist.mpd`
+- Da Vinci: `http://hls127.freeott.top:8080/Da_Vinci_Learning/mono.m3u8` -> `http://stream.mcquack.net/238/index.m3u8`
 - TRT Avaz: `http://line.team-tv.link:80/jLKLjOvdU/beAi6ilBrs/2059` -> `https://tv-trtavaz.medya.trt.com.tr/master.m3u8`
 - haber global: `http://line.team-tv.link:80/jLKLjOvdU/beAi6ilBrs/2030` -> `https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8`
 - KANAL D HD: `http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48854` -> `https://stream1.kanald.ro/iphone/knd-live.m3u8`
@@ -29,7 +30,7 @@
 - Кухня ТВ: `http://46.32.176.50/kuxnyatv/index.m3u8` -> `http://mfe02.cliptv.az/dash/Kuxnya_TV_SDlao150.ism/playlist.mpd`
 - Animal Planet: `http://46.32.176.50/animalplanet/index.m3u8` -> `http://88.212.15.50/live/test_animal_planet_hd_hevc/playlist.m3u8`
 - Animal Planet HD: `http://46.32.176.50/AnimalPlanetHD/index.m3u8` -> `http://88.212.15.50/live/test_animal_planet_hd_hevc/playlist.m3u8`
-- Viasat explore: `http://46.32.176.50/viasatexplorer/index.m3u8` -> `https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8`
+- Viasat explore: `http://46.32.176.50/viasatexplorer/index.m3u8` -> `http://88.212.15.50/live/test_viasat_explore_atk_tv/playlist.m3u8`
 - Viasat history: `http://46.32.176.50/viasathistory/index.m3u8` -> `https://shift03.isp.bg/ViasatHistory_HD/index.m3u8`
 - Viasat Nature: `http://46.32.176.50/viasatnature/index.m3u8` -> `https://shift03.isp.bg/ViasatNature_HD/index.m3u8`
 - Viasat Nature HD: `http://46.32.176.50/ViasatNatureHD/index.m3u8` -> `https://shift03.isp.bg/ViasatNature_HD/index.m3u8`
@@ -51,13 +52,15 @@
 - Amedia 2: `http://46.32.176.50/amedia2/index.m3u8` -> `http://mfe01.cliptv.az/dash/Amedia_2_SD_PIgjf67deV.ism/playlist.mpd`
 - Amedia Hit: `http://46.32.176.50/amediahit/index.m3u8` -> `http://stream.mcquack.net/162/index.m3u8`
 - Euronews: `http://46.32.176.50/euronews/index.m3u8` -> `https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8`
-- Bridge Classic: `http://46.32.176.50/rusong/index.m3u8` -> `http://stream.mcquack.net/272/index.m3u8`
+- Bridge Classic: `http://46.32.176.50/rusong/index.m3u8` -> `http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8`
+- Bridge Deluxe: `http://46.32.176.50/BridgeTVDance/index.m3u8` -> `http://stream.mcquack.net/92/index.m3u8`
+- Bridge Deluxe HD: `http://46.32.176.50/BridgeTVHD/index.m3u8` -> `http://stream.mcquack.net/92/index.m3u8`
 - Muz TV AZ: `http://46.32.176.50/muztvaz/index.m3u8` -> `http://185.32.44.154/muztvaz/index.m3u8`
 - MCM Top: `http://46.32.176.50/mcmtop/index.m3u8` -> `http://185.228.163.146:8000/play/a00g/index.m3u8`
 - Солнце: `http://46.32.176.50/solnce/index.m3u8` -> `http://tv.mediacdn.ru/live/solntse/playlist.m3u8`
 - Детский Мир HD: `http://46.32.176.50/detskiymir/index.m3u8` -> `http://mfe02.cliptv.az:80/dash/Detskiy_Mir_SDqwvb78iu.ism/playlist.mpd`
 - Карусель: `http://46.32.176.50/karusel/index.m3u8` -> `http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8`
-- Nick jr: `http://46.32.176.50/nickelodeonjunior/index.m3u8` -> `https://stream8.cinerama.uz/1501/playlist.m3u8`
+- Nick jr: `http://46.32.176.50/nickelodeonjunior/index.m3u8` -> `http://88.212.15.50/live/test_nick_jr/playlist.m3u8`
 - TRT haber: `http://46.32.176.50/trthaber/index.m3u8` -> `https://tv-trthaber.medya.trt.com.tr/master.m3u8`
 - Haber global: `http://46.32.176.50/haberglobal/index.m3u8` -> `https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8`
 
@@ -106,13 +109,11 @@
 - S sport 2
 - CBC Sport
 - Okko.футбол
-- ОККО.спорт HD
 - Окко.Прайм Спорт HD
 - tivibu spor1
 - tivibu spor2
 - tivibu spor3
 - TRT SPOR
-- СПОРТ ТВ HD
 - FUTBOL UZ
 - Eurosport 2
 - PRESS TV
@@ -142,7 +143,6 @@
 - Про любовь
 - Совершенно секретно
 - СТС Kids
-- Da Vinci
 - BRIDGE TV
 - CNN Turk
 - Star TV Turk
@@ -197,8 +197,6 @@
 - РТР Планета
 - Домашний
 - Bridge TV
-- Bridge Deluxe
-- Bridge Deluxe HD
 - Europa Plus TV
 - Ностальгия
 - Шансон ТВ
@@ -235,6 +233,7 @@
 - TV1 KG HD (Кыргызстан)
 - :24
 - 24KZ
+- İHA
 - BFMTV
 - RT Doc
 - 
@@ -300,17 +299,15 @@
 - AzTV
 
 ## Gözləyənlər (hələ əvəz edilməyib)
-- TGRT HABER: 1/3
-- Sözcü: 1/3
-- РБК: 1/3
-- РБК HD: 1/3
-- Пятница: 1/3
-- RU.TV: 1/3
-- Qazaqstan TV Int HD (Қазақстан): 1/3
-- Go3 Sport 1: 1/3
-- İHA: 2/3
-- TRT belgesel HD: 1/3
-- LOVE NATURE: 1/3
-- NATIONAL GEOGRAPHIC: 1/3
-- NATIONAL GEOGRAPHIC WILD: 1/3
-- MTV Lebanon: 1/3
+- TGRT HABER: 2/3
+- TRT GENÇ: 1/3
+- Пятый канал: 1/3
+- РБК: 2/3
+- РБК HD: 2/3
+- ЧЕ!: 1/3
+- Хабар HD: 1/3
+- Formula tv: 1/3
+- 2+2: 1/3
+- Tabii Spor: 1/3
+- Go3 Sport 1: 2/3
+- TRT 1 HD: 1/3
