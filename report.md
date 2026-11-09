@@ -1,32 +1,33 @@
 # Yenilənmə hesabatı
 
 - Cəmi kanal: 717
-- Linki əvəz edilən: 58
-- Ölü qalan (əvəzedici tapılmadı, köhnə link saxlanıldı): 137
-- Gözləyən (ölü çıxdı, amma hələ 3 dəfə təsdiqlənməyib): 56
+- Linki əvəz edilən: 59
+- Ölü qalan (əvəzedici tapılmadı, köhnə link saxlanıldı): 146
+- Gözləyən (ölü çıxdı, amma hələ 3 dəfə təsdiqlənməyib): 48
 
 ## Əvəz edilənlər
 - BAKU TV ᴴᴰ: `https://az.cehennem.workers.dev/index.m3u8?ID=12` -> `https://rtmp.baku.tv/hls/bakutv.m3u8`
 - KANAL S: `https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8` -> `https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8`
 - KANAL S ᴴᴰ: `https://az.cehennem.workers.dev/index.m3u8?ID=16` -> `https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8`
 - kanal D: `http://46.32.176.50/kanald/index.m3u8` -> `https://stream1.kanald.ro/iphone/knd-live.m3u8`
+- CNN TÜRK: `http://185.32.44.154/cnnturk/index.m3u8` -> `http://85.117.61.84/cnnturk/index.m3u8`
+- CNN Turk: `http://flussonic.izone.az:80/cnnturk/mono.m3u8` -> `http://85.117.61.84/cnnturk/index.m3u8`
 - A Haber: `http://46.32.176.50/ahaber/index.m3u8` -> `https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8`
 - TRT Avaz: `http://185.32.44.154/trtavaz/index.m3u8` -> `https://tv-trtavaz.medya.trt.com.tr/master.m3u8`
-- beIN Sports 2: `https://dga1op10s1u3leo.ec876fd9240622.click/live/selcukbeinsports2/playlist.m3u8` -> `http://86.192.195.47:9034/stream/2/index.m3u8`
-- beIN Sports 3: `https://dga1op10s1u3leo.ec876fd9240622.click/live/selcukbeinsports3/playlist.m3u8` -> `http://86.192.195.47:9034/stream/4/index.m3u8`
-- beIN Sports 4: `https://dga1op10s1u3leo.ec876fd9240622.click/live/selcukbeinsports4/playlist.m3u8` -> `http://86.192.195.47:9034/stream/5/index.m3u8`
 - Qazsport: `http://stream.mcquack.net/72/index.m3u8` -> `https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8`
 - EURONEWS: `http://46.32.176.50/euronews/index.m3u8` -> `https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8`
 - Digi 24: `https://pubads.g.doubleclick.net/ssai/event/OQfdjUhHSDSlb1fJVzehsQ/master.m3u8` -> `https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8`
 - VİASAT HİSTORY: `https://proud-river-e20b.pantonum1.workers.dev/viasathistory.m3u8` -> `https://shift03.isp.bg/ViasatHistory_HD/index.m3u8`
 - DISCOVERY CHANNEL: `https://proud-river-e20b.pantonum1.workers.dev/discovery.m3u8` -> `http://213.91.179.28:8000/play/a044`
 - INVESTIGATION DISCOVERY: `http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48953` -> `http://88.212.15.50/live/test_id_hevc_atktv/playlist.m3u8`
+- Матч Футбол 3 HD: `http://j3dha0rd.otttv.pw/iptv/99KH7UMY2Y5A2X5KECD2SRRX/11075/index.m3u8` -> `http://185.57.68.33/110/mpegts`
 - Пятница: `http://vipl.one/hls/ksciajdb7h/16.m3u8` -> `http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8`
 - Amedia 1: `http://hls127.freeott.top:8080/Amedia_1/mono.m3u8` -> `http://mfe02.cliptv.az:80/dash/A1_SDoioioi65.ism/playlist.mpd`
-- Gags Network: `http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8` -> `http://stream.mcquack.net/458/index.m3u8`
 - Кухня ТВ: `http://hls127.freeott.top:8080/Kuhnya_TV/mono.m3u8` -> `http://mfe02.cliptv.az/dash/Kuxnya_TV_SDlao150.ism/playlist.mpd`
+- Da Vinci: `http://hls127.freeott.top:8080/Da_Vinci_Learning/mono.m3u8` -> `http://stream.mcquack.net/238/index.m3u8`
 - TRT Avaz: `http://line.team-tv.link:80/jLKLjOvdU/beAi6ilBrs/2059` -> `https://tv-trtavaz.medya.trt.com.tr/master.m3u8`
 - haber global: `http://line.team-tv.link:80/jLKLjOvdU/beAi6ilBrs/2030` -> `https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8`
+- CNN Turk: `http://65.108.239.207:80/cnn/index.m3u8` -> `http://85.117.61.84/cnnturk/index.m3u8`
 - KANAL D HD: `http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48854` -> `https://stream1.kanald.ro/iphone/knd-live.m3u8`
 - kanal s: `https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8` -> `https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8`
 - Кухня ТВ: `http://46.32.176.50/kuxnyatv/index.m3u8` -> `http://mfe02.cliptv.az/dash/Kuxnya_TV_SDlao150.ism/playlist.mpd`
@@ -42,9 +43,9 @@
 - National Geographic: `http://46.32.176.50/nationalgeographic/index.m3u8` -> `http://213.91.179.28:8000/play/a0ct`
 - National Geographic HD: `http://46.32.176.50/NationalGeographicHD/index.m3u8` -> `http://213.91.179.28:8000/play/a0ct`
 - TV 1000: `http://46.32.176.50/tv1000/index.m3u8` -> `http://stream.mcquack.net/100/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1`
+- Мужское кино HD: `http://46.32.176.50/MujskoeKinoHD/index.m3u8` -> `http://mfe02.cliptv.az/dash/Mujskoye_Kino_SDpoiu876.ism/playlist.mpd`
 - VIP Serial HD: `http://46.32.176.50/ViasatSportHD/index.m3u8` -> `http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd`
 - Кинохит: `http://46.32.176.50/kinoxit/index.m3u8` -> `http://mfe01.cliptv.az/dash/Kinohit_SDqwecvrt672.ism/playlist.mpd`
-- Киносерия HD: `http://46.32.176.50/kinoseria/index.m3u8` -> `http://mfe01.cliptv.az:80/dash/Kinoseriya_SDkukuku6.ism/playlist.mpd`
 - Киносемья HD: `http://46.32.176.50/kinosemya/index.m3u8` -> `http://mfe01.cliptv.az:80/dash/Kinosemya_SD_PIVhjdh8f7eg.ism/playlist.mpd`
 - Кинокомедия: `http://46.32.176.50/kinokomedia/index.m3u8` -> `http://mfe02.cliptv.az/dash/Kinokomediya_SDdfdf678h.ism/playlist.mpd`
 - Индийское Кино: `http://46.32.176.50/indiskoekino/index.m3u8` -> `http://mfe01.cliptv.az:80/dash/Indiyskoe_Kino_SDfdghj4.ism/playlist.mpd`
@@ -53,7 +54,6 @@
 - Amedia 2: `http://46.32.176.50/amedia2/index.m3u8` -> `http://mfe01.cliptv.az/dash/Amedia_2_SD_PIgjf67deV.ism/playlist.mpd`
 - Amedia Hit: `http://46.32.176.50/amediahit/index.m3u8` -> `http://stream.mcquack.net/162/index.m3u8`
 - Euronews: `http://46.32.176.50/euronews/index.m3u8` -> `https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8`
-- Bridge Classic: `http://46.32.176.50/rusong/index.m3u8` -> `http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8`
 - Bridge Deluxe: `http://46.32.176.50/BridgeTVDance/index.m3u8` -> `http://stream.mcquack.net/92/index.m3u8`
 - Bridge Deluxe HD: `http://46.32.176.50/BridgeTVHD/index.m3u8` -> `http://stream.mcquack.net/92/index.m3u8`
 - Muz TV AZ: `http://46.32.176.50/muztvaz/index.m3u8` -> `http://185.32.44.154/muztvaz/index.m3u8`
@@ -63,6 +63,7 @@
 - Карусель: `http://46.32.176.50/karusel/index.m3u8` -> `http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8`
 - Nick jr: `http://46.32.176.50/nickelodeonjunior/index.m3u8` -> `http://88.212.15.50/live/test_nick_jr/playlist.m3u8`
 - TRT haber: `http://46.32.176.50/trthaber/index.m3u8` -> `https://tv-trthaber.medya.trt.com.tr/master.m3u8`
+- CNN TÜRK: `http://46.32.176.50/cnnturk/index.m3u8` -> `http://85.117.61.84/cnnturk/index.m3u8`
 - Haber global: `http://46.32.176.50/haberglobal/index.m3u8` -> `https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8`
 
 ## Hələ də ölü olanlar (mənbə axtarın)
@@ -92,8 +93,6 @@
 - TV 8 INT
 - Kanal 7
 - beIN sports haber
-- CNN TÜRK
-- CNN Turk
 - KOZA TV
 - CGTN TURK
 - Россия 24 HD
@@ -102,13 +101,25 @@
 - Первый канал Евразия
 - Россия 24 HD
 - RU.TV by
+- beIN Sports 2
+- beIN Sports 3
+- beIN Sports 4
 - S sport 1
 - S sport 2
+- beIN SPORTS HD1(biraz)
+- beIN SPORTS HD2(biraz)
+- beIN SPORTS HD3(biraz)
+- beIN SPORTS HD4(biraz)
+- beIN SPORTS HD5(biraz)
+- S SPORT(biraz)
+- S SPORT 2(biraz)
 - CBC Sport
 - tivibu spor1
 - tivibu spor2
 - tivibu spor3
+- Tabii spor HD
 - TRT SPOR
+- GSPORT (biraz)
 - FUTBOL UZ
 - Eurosport 2
 - PRESS TV
@@ -131,6 +142,7 @@
 - Наука 2.0
 - BCU Kinorating HD
 - BCU Stars HD
+- Gags Network
 - Наша Сибирь
 - Кинопоказ HD
 - Мосфильм. Золотая коллекция
@@ -138,9 +150,7 @@
 - Про любовь
 - Совершенно секретно
 - СТС Kids
-- Da Vinci
 - BRIDGE TV
-- CNN Turk
 - Star TV Turk
 - beIN sports HABER
 - CGTN TURK
@@ -174,7 +184,6 @@
 - Русский Иллюзион
 - Еврокино
 - Мир сериала
-- Мужское кино HD
 - Hollywood HD
 - VIP Megahit HD
 - VIP Premiere HD
@@ -183,6 +192,7 @@
 - Дом Кино Премиум HD
 - Русский Детектив
 - Русский Роман
+- Киносерия HD
 - Киномикс HD
 - Родное Кино
 - Amedia Premium
@@ -194,6 +204,7 @@
 - РТР Планета
 - Домашний
 - Bridge TV
+- Bridge Classic
 - Europa Plus TV
 - Ностальгия
 - Шансон ТВ
@@ -201,7 +212,6 @@
 - Уникум
 - Суббота
 - TRT spor
-- CNN TÜRK
 - TRT belgesel
 
 ## Qısa adlı ölü kanallar (avtomatik əvəz edilmədi, overrides.txt-də link verin)
@@ -223,11 +233,9 @@
 - STAR
 - NTV
 - TV net
-- Tele1
 - TRT 2
 - НТВ HD
 - ТНТ
-- Хабар HD
 - TV1 KG HD (Кыргызстан)
 - :24
 - 24KZ
@@ -296,59 +304,51 @@
 - AzTV
 
 ## Gözləyənlər (hələ əvəz edilməyib)
-- APA TV HD: 2/3
-- APA tv (1080p): 2/3
-- РОССИЯ К HD: 1/3
-- Суббота: 1/3
-- RU TV HD: 1/3
-- ТВ3: 1/3
-- 1+1 Ukraina: 1/3
-- beIN SPORTS HD1(biraz): 2/3
-- beIN SPORTS HD2(biraz): 2/3
-- beIN SPORTS HD3(biraz): 2/3
-- beIN SPORTS HD4(biraz): 2/3
-- beIN SPORTS HD5(biraz): 2/3
-- S SPORT(biraz): 2/3
-- S SPORT 2(biraz): 2/3
-- Tabii spor HD: 2/3
-- GSPORT (biraz): 2/3
-- Bayern TV: 1/3
-- Матч!: 1/3
-- Матч! HD: 1/3
-- Матч! Футбол 1 SD: 1/3
-- Матч! Футбол 2 SD: 1/3
-- Матч! Футбол 3 SD: 1/3
-- FOX NEWS: 1/3
-- NATIONAL GEOGRAPHIC: 1/3
-- NATIONAL GEOGRAPHIC WILD: 1/3
-- Матч! Премьер HD: 1/3
-- Матч! Премьер FHD: 1/3
-- Матч ТВ: 1/3
-- Матч ТВ HD: 1/3
-- Матч ТВ FHD: 1/3
-- Матч +2: 1/3
-- Матч +4: 1/3
-- Матч +8: 1/3
-- Матч Футбол 1: 1/3
-- Матч Футбол 1 HD: 1/3
-- Матч Футбол 1 HD 50 orig: 1/3
-- Матч Футбол 1 FHD: 1/3
-- Матч Футбол 2: 1/3
-- Матч Футбол 2 HD: 1/3
-- Матч Футбол 2 HD orig: 1/3
-- Матч Футбол 2 FHD: 1/3
-- Матч Футбол 3: 1/3
+- TGRT HABER: 1/3
+- Пятый канал: 1/3
+- РБК: 1/3
+- РБК HD: 1/3
+- Суббота: 2/3
+- RU TV HD: 2/3
+- Imedi TV: 1/3
+- Formula tv: 1/3
+- 2+2: 1/3
+- Окко.Прайм Спорт HD: 1/3
+- Bayern TV: 2/3
+- Матч!: 2/3
+- Матч! HD: 2/3
+- Матч! Футбол 1 SD: 2/3
+- Матч! Футбол 2 SD: 2/3
+- Матч! Футбол 3 SD: 2/3
+- FOX NEWS: 2/3
+- Матч! Премьер HD: 2/3
+- Матч! Премьер FHD: 2/3
+- Матч ТВ: 2/3
+- Матч ТВ HD: 2/3
+- Матч ТВ FHD: 2/3
+- Матч +2: 2/3
+- Матч +4: 2/3
+- Матч +8: 2/3
+- Матч Футбол 1: 2/3
+- Матч Футбол 1 HD: 2/3
+- Матч Футбол 1 HD 50 orig: 2/3
+- Матч Футбол 1 FHD: 2/3
+- Матч Футбол 2: 2/3
+- Матч Футбол 2 HD: 2/3
+- Матч Футбол 2 HD orig: 2/3
+- Матч Футбол 2 FHD: 2/3
+- Матч Футбол 3: 2/3
 - Матч Футбол 3 HD: 2/3
-- Матч Футбол 3 HD: 1/3
-- Матч Футбол 3 HD 50 orig: 1/3
-- Матч Футбол 3 FHD: 1/3
-- Матч Боец: 1/3
-- Матч Боец HD: 1/3
-- Матч Боец FHD: 1/3
-- Матч Арена HD: 1/3
-- Матч Арена HD orig: 1/3
-- Матч! Страна: 1/3
-- Матч! Страна orig: 1/3
-- Матч! Планета: 1/3
-- Eurosport 4K: 1/3
-- Футбол: 1/3
+- Матч Футбол 3 HD 50 orig: 2/3
+- Матч Футбол 3 FHD: 2/3
+- Матч Боец: 2/3
+- Матч Боец HD: 2/3
+- Матч Боец FHD: 2/3
+- Матч Арена HD: 2/3
+- Матч Арена HD orig: 2/3
+- Матч! Страна: 2/3
+- Матч! Страна orig: 2/3
+- Матч! Планета: 2/3
+- Eurosport 4K: 2/3
+- Футбол: 2/3
+- ANS TV: 1/3

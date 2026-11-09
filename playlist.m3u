@@ -221,9 +221,9 @@ http://105894.fly24.be:80/BurakKarakaya/pynW9rPDw1b/144
 #EXTINF: -1 tvg-id="SozcuTV.tr" tvg-name="Sözcü TV" tvg-logo="https://i.postimg.cc/XJqHZS6q/IMG-d9d9fe70-304a-42a4-9be6-690bb0708fa8.png" group-title="TURKİYE 📡", SozcuTV
 http://ru3.hls.gd/ch2485/mono.m3u8?token=gasanov.v2_LkE6UjQW2zOV0YBKN6HY8qfaoPYjMPd328RrSoBGLtyjRWEcDZLPQJNntuCeieN-w3cA-8sCSZVi
 #EXTINF:0 tvg-logo="https://i.postimg.cc/hG4xP5Lx/In-Shot-20260112-111559893.png" group-title="TURKİYE 📡",CNN TÜRK
-http://185.32.44.154/cnnturk/index.m3u8
+http://85.117.61.84/cnnturk/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/tg4jqG03/id-Ngze-R95c-1792653960020.png" group-title="TURKİYE 📡",CNN Turk
-http://flussonic.izone.az:80/cnnturk/mono.m3u8
+http://85.117.61.84/cnnturk/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/Zn02NH82/In-Shot-20251214-115802475.png" group-title="TURKİYE 📡",KOZA TV
 http://176.65.153.12:6001/play/a04m/index.m3u8
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/HalkTVLogo.jpg" group-title="TURKİYE 📡",Halk TV
@@ -530,14 +530,14 @@ https://stream8.cinerama.uz/1011/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://selcuksportshd1903.xyz
 https://dga1op10s1u3leo.ec876fd9240622.click/live/selcukbeinsports1/playlist.m3u8
 #EXTINF:-1 group-title="FUTBOL ⚽",beIN Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://86.192.195.47:9034/stream/2/index.m3u8
+#EXTVLCOPT:http-referrer=https://selcuksportshd1903.xyz
+https://dga1op10s1u3leo.ec876fd9240622.click/live/selcukbeinsports2/playlist.m3u8
 #EXTINF:-1 group-title="FUTBOL ⚽",beIN Sports 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://86.192.195.47:9034/stream/4/index.m3u8
+#EXTVLCOPT:http-referrer=https://selcuksportshd1903.xyz
+https://dga1op10s1u3leo.ec876fd9240622.click/live/selcukbeinsports3/playlist.m3u8
 #EXTINF:-1 group-title="FUTBOL ⚽",beIN Sports 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://86.192.195.47:9034/stream/5/index.m3u8
+#EXTVLCOPT:http-referrer=https://selcuksportshd1903.xyz
+https://dga1op10s1u3leo.ec876fd9240622.click/live/selcukbeinsports4/playlist.m3u8
 #EXTINF: -1 tvg-name="https://ssport.tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/s-sport-tr.png" group-title="FUTBOL ⚽", S sport 1
 #EXTVLCOPT:http-referrer=https://selcuksportshd1903.xyz
 https://dga1op10s1u3leo.ec876fd9240622.click/live/selcukssport/playlist.m3u8
@@ -1018,7 +1018,7 @@ http://faxyljp3.otttv.pw/iptv/DGVFKTU5Q3AR27/522/index.m3u8
 #EXTINF:-1 group-title="МАТЧ!" tvg-logo="http://epg.one/img/2005.png",Матч Футбол 3
 http://j3dha0rd.otttv.pw/iptv/99KH7UMY2Y5A2X5KECD2SRRX/522/index.m3u8
 #EXTINF:-1 group-title="МАТЧ!" tvg-logo="http://epg.one/img/2005.png",Матч Футбол 3 HD
-http://j3dha0rd.otttv.pw/iptv/99KH7UMY2Y5A2X5KECD2SRRX/11075/index.m3u8
+http://185.57.68.33/110/mpegts
 #EXTINF:-1 group-title="МАТЧ!" tvg-logo="http://epg.one/img/2005.png",Матч Футбол 3 HD
 http://j3dha0rd.otttv.pw/iptv/99KH7UMY2Y5A2X5KECD2SRRX/206/index.m3u8
 #EXTINF:-1 group-title="МАТЧ!" tvg-logo="http://epg.one/img/2005.png",Матч Футбол 3 HD 50
@@ -1163,7 +1163,7 @@ http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",BCU Stars HD
 http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",Gags Network
-http://stream.mcquack.net/458/index.m3u8
+http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",Наша Сибирь
 http://hls127.freeott.top:8080/HCTV/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",Кинопоказ HD
@@ -1189,7 +1189,7 @@ http://hls127.freeott.top:8080/Sovershenno_Sekretno/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",СТС Kids
 http://hls127.freeott.top:8080/STS_Kids/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡", Da Vinci
-http://hls127.freeott.top:8080/Da_Vinci_Learning/mono.m3u8
+http://stream.mcquack.net/238/index.m3u8
 #EXTINF:-1 group-title="MIX 📡",Бобёр
 http://hls127.freeott.top:8080/Bober/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",Bolt
@@ -1210,7 +1210,7 @@ https://tv.ensonhaber.com/tv100/tv100.m3u8
 #EXTGRP:MIX 📡
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 #EXTINF:0 " group-title="MIX 📡", CNN Turk
-http://65.108.239.207:80/cnn/index.m3u8
+http://85.117.61.84/cnnturk/index.m3u8
 #EXTINF: -1 tvg-id="NTV.tr" tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="MIX 📡", NTV
 http://dygvideo.dygdigital.com/live/hls/puhuntvdai?m3u8
 #EXTINF:-1 group-title="MIX 📡",24 TV
@@ -1418,7 +1418,7 @@ http://46.32.176.50/eurokino/index.m3u8
 #EXTINF:-1 group-title="IZONE", Мир сериала
 http://46.32.176.50/mirseriala/index.m3u8
 #EXTINF:-1 group-title="IZONE", Мужское кино HD
-http://46.32.176.50/MujskoeKinoHD/index.m3u8
+http://mfe02.cliptv.az/dash/Mujskoye_Kino_SDpoiu876.ism/playlist.mpd
 #EXTINF:-1 group-title="IZONE", Hollywood HD
 http://46.32.176.50/HollywoodHD/index.m3u8
 #EXTINF:-1 group-title="IZONE", VIP Megahit HD
@@ -1452,7 +1452,7 @@ http://46.32.176.50/russkiyroman/index.m3u8
 #EXTINF:-1 group-title="IZONE", Кинохит
 http://mfe01.cliptv.az/dash/Kinohit_SDqwecvrt672.ism/playlist.mpd
 #EXTINF:-1 group-title="IZONE", Киносерия HD
-http://mfe01.cliptv.az:80/dash/Kinoseriya_SDkukuku6.ism/playlist.mpd
+http://46.32.176.50/kinoseria/index.m3u8
 #EXTINF:-1 group-title="IZONE", Киномикс HD
 http://46.32.176.50/kinomiks/index.m3u8
 #EXTINF:-1 group-title="IZONE", Киносемья HD
@@ -1508,7 +1508,7 @@ http://46.32.176.50/cbc/index.m3u8
 #EXTINF:-1 group-title="IZONE", Bridge TV
 http://46.32.176.50/bridgetv/index.m3u8
 #EXTINF:-1 group-title="IZONE", Bridge Classic
-http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
+http://46.32.176.50/rusong/index.m3u8
 #EXTINF:-1 group-title="IZONE", Bridge Deluxe
 http://stream.mcquack.net/92/index.m3u8
 #EXTINF:-1 group-title="IZONE", Bridge Deluxe HD
@@ -1561,7 +1561,7 @@ http://46.32.176.50/trtspor/index.m3u8
 #EXTINF:-1 group-title="IZONE", TRT haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="IZONE", CNN TÜRK
-http://46.32.176.50/cnnturk/index.m3u8
+http://85.117.61.84/cnnturk/index.m3u8
 #EXTINF:-1 group-title="IZONE", TRT belgesel
 http://46.32.176.50/trtbelgesel/index.m3u8
 #EXTINF:-1 group-title="IZONE", TRT 1
