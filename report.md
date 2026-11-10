@@ -13,7 +13,7 @@
 - CNN Turk: `http://flussonic.izone.az:80/cnnturk/mono.m3u8` -> `http://85.117.61.84/cnnturk/index.m3u8`
 - A Haber: `http://46.32.176.50/ahaber/index.m3u8` -> `https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8`
 - TRT Avaz: `http://185.32.44.154/trtavaz/index.m3u8` -> `https://tv-trtavaz.medya.trt.com.tr/master.m3u8`
-- Qazsport: `http://stream.mcquack.net/72/index.m3u8` -> `https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8`
+- Qazsport: `http://stream.mcquack.net/72/index.m3u8` -> 
 - EURONEWS: `http://46.32.176.50/euronews/index.m3u8` -> `https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8`
 - FOX NEWS: `http://qvnpbz2k.rostelekom.xyz/iptv/PYNV3ND2WZ7YHR/19147/index.m3u` -> `http://ru3.hls.gd/ch2093/mono.m3u8?token=gasanov.v2_qNzroQdY6OLAf1lHC4UExl2fi8--vWZpfFejZTRNJH6JtXkCydN-2smmiRRix50TxyYFCkqzPph9`
 - Digi 24: `https://pubads.g.doubleclick.net/ssai/event/OQfdjUhHSDSlb1fJVzehsQ/master.m3u8` -> `https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8`
