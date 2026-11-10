@@ -99,7 +99,7 @@ http://str.yodacdn.net/medeniyyettele/index.m3u8
 #EXTGRP:AZERBAYCAN 📡
 http://str.yodacdn.net/medeniyyettele/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/0Q12yXPJ/M-d-niyy-t-TV-loqo.png" group-title="AZERBAYCAN 📡", MƏDƏNİYYƏT
-https://az.cehennem.workers.dev/index.m3u8?ID=2
+http://185.32.44.154/medeniyyet/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/cCPh2BsY/Kanal-S-2022.png" group-title="AZERBAYCAN 📡",KANAL S
 #EXTGRP:AZERBAYCAN 📡
 https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
