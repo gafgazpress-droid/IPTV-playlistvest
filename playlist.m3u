@@ -32,7 +32,7 @@ https://rtmp.baku.tv/hls/bakutv.m3u8
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/pXfSw016/hd-logo.png" group-title="AZERBAYCAN 📡",BAKU TV ᴴᴰ
 #EXTGRP:AZERBAYCAN 📡
-https://rtmp.baku.tv/hls/bakutv.m3u8
+https://az.cehennem.workers.dev/index.m3u8?ID=12
 #EXTINF: -1 tvg-id="aztv.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" group-title="AZERBAYCAN 📡", AZTV HD
 http://185.32.44.154/aztv/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vvRXNTp.png" group-title="AZERBAYCAN 📡", AzTV FHD
@@ -778,7 +778,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
 #EXTINF:0 tvg-rec="0" group-title="NEWS 📡",FOX NEWS
 #EXTGRP:NEWS 📡
-http://qvnpbz2k.rostelekom.xyz/iptv/PYNV3ND2WZ7YHR/19147/index.m3u
+http://ru3.hls.gd/ch2093/mono.m3u8?token=gasanov.v2_qNzroQdY6OLAf1lHC4UExl2fi8--vWZpfFejZTRNJH6JtXkCydN-2smmiRRix50TxyYFCkqzPph9
 #EXTINF:-1  group-title="NEWS 📡"  tvg-logo="https://logos-world.net/wp-content/uploads/2020/08/CBS-Symbol.png" ,CBS Newsᴴᴰ
 http://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 tvg-id="GloboNews.br@SD" tvg-logo="https://i.imgur.com/3yZyaCm.png" group-title="NEWS 📡",GloboNews
@@ -859,12 +859,11 @@ http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:C4:21:31&stream=197441&extens
 #EXTINF:0 tvg-logo="https://i.postimg.cc/PqyrBMLN/In-Shot-20260102-231141578.png" group-title="DOCUMENTARY 🌍",BBC EARTH
 https://proud-river-e20b.pantonum1.workers.dev/bbcesrth.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/NF6gk7wt/In-Shot-20260102-231456174.png" group-title="DOCUMENTARY 🌍",LOVE NATURE
-http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:C4:21:31&stream=197434&extension=ts&play_token=KklUEgawwd
+https://proud-river-e20b.pantonum1.workers.dev/lovenature.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/tT0QvZkG/In-Shot-20260102-231626031.png" group-title="DOCUMENTARY 🌍",VİASAT HİSTORY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
+https://proud-river-e20b.pantonum1.workers.dev/viasathistory.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/yNrKNHFV/In-Shot-20260111-160438896.png" group-title="DOCUMENTARY 🌍",DISCOVERY CHANNEL
-http://213.91.179.28:8000/play/a044
+https://proud-river-e20b.pantonum1.workers.dev/discovery.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/Wb7Q3VvK/In-Shot-20260111-160647988.png" group-title="DOCUMENTARY 🌍",INVESTIGATION DISCOVERY
 http://88.212.15.50/live/test_id_hevc_atktv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/FshXNX4q/In-Shot-20260127-125514615.png" group-title="DOCUMENTARY 🌍",NATIONAL GEOGRAPHIC
@@ -1077,7 +1076,8 @@ http://j3dha0rd.otttv.pw/iptv/99KH7UMY2Y5A2X5KECD2SRRX/123/index.m3u8
 http://faxyljp3.otttv.pw/iptv/DGVFKTU5Q3AR27/150/index.m3u8
 #EXTINF:0,Eurosport 4K
 #EXTGRP:МАТЧ!
-http://faxyljp3.otttv.pw/iptv/DGVFKTU5Q3AR27/4004/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://103.253.74.210:7070/stream/122/index.m3u8
 #EXTINF:0,Eurosport 1 HD
 #EXTGRP:МАТЧ!
 http://faxyljp3.otttv.pw/iptv/DGVFKTU5Q3AR27/228/index.m3u8
@@ -1163,7 +1163,7 @@ http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",BCU Stars HD
 http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",Gags Network
-http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8
+http://stream.mcquack.net/458/index.m3u8
 #EXTINF:-1 group-title="MIX 📡",Наша Сибирь
 http://hls127.freeott.top:8080/HCTV/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",Кинопоказ HD
@@ -1470,7 +1470,7 @@ http://mfe02.cliptv.az:80/dash/A1_SDoioioi65.ism/playlist.mpd
 #EXTINF:-1 group-title="IZONE", Amedia 2
 http://mfe01.cliptv.az/dash/Amedia_2_SD_PIgjf67deV.ism/playlist.mpd
 #EXTINF:-1 group-title="IZONE", Amedia Hit
-http://stream.mcquack.net/162/index.m3u8
+http://85.117.61.97:8000/play/a015/index.m3u8
 #EXTINF:-1 group-title="IZONE", Amedia Premium
 http://46.32.176.50/AmediaPremium/index.m3u8
 #EXTINF:-1 group-title="IZONE", Amedia Premium HD
