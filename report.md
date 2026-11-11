@@ -1,11 +1,12 @@
 # Yenilənmə hesabatı
 
 - Cəmi kanal: 717
-- Linki əvəz edilən: 59
-- Ölü qalan (əvəzedici tapılmadı, köhnə link saxlanıldı): 147
-- Gözləyən (ölü çıxdı, amma hələ 3 dəfə təsdiqlənməyib): 13
+- Linki əvəz edilən: 60
+- Ölü qalan (əvəzedici tapılmadı, köhnə link saxlanıldı): 146
+- Gözləyən (ölü çıxdı, amma hələ 3 dəfə təsdiqlənməyib): 10
 
 ## Əvəz edilənlər
+- BAKU TV ᴴᴰ: `https://az.cehennem.workers.dev/index.m3u8?ID=12` -> `https://rtmp.baku.tv/hls/bakutv.m3u8`
 - KANAL S: `https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8` -> `https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8`
 - KANAL S ᴴᴰ: `https://az.cehennem.workers.dev/index.m3u8?ID=16` -> `https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8`
 - kanal D: `http://46.32.176.50/kanald/index.m3u8` -> `https://stream1.kanald.ro/iphone/knd-live.m3u8`
@@ -13,9 +14,9 @@
 - CNN Turk: `http://flussonic.izone.az:80/cnnturk/mono.m3u8` -> `http://85.117.61.84/cnnturk/index.m3u8`
 - A Haber: `http://46.32.176.50/ahaber/index.m3u8` -> `https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8`
 - TRT Avaz: `http://185.32.44.154/trtavaz/index.m3u8` -> `https://tv-trtavaz.medya.trt.com.tr/master.m3u8`
-- Qazsport: `http://stream.mcquack.net/72/index.m3u8` -> 
+- Qazsport: `http://stream.mcquack.net/72/index.m3u8` -> `https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8`
 - EURONEWS: `http://46.32.176.50/euronews/index.m3u8` -> `https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8`
-- FOX NEWS: `http://qvnpbz2k.rostelekom.xyz/iptv/PYNV3ND2WZ7YHR/19147/index.m3u` -> `http://ru3.hls.gd/ch2093/mono.m3u8?token=gasanov.v2_qNzroQdY6OLAf1lHC4UExl2fi8--vWZpfFejZTRNJH6JtXkCydN-2smmiRRix50TxyYFCkqzPph9`
+- FOX NEWS: `http://qvnpbz2k.rostelekom.xyz/iptv/PYNV3ND2WZ7YHR/19147/index.m3u` -> `http://ru3.hls.gd/ch2093/mono.m3u8?token=gasanov.v2_aroOr7rJaCwKkZEfKMgxiJDt00u-mjvkBs-KOqV6gZqYr2pBu3lAK_zMwHxwCLr0kbLGMqaxK4Lm`
 - Digi 24: `https://pubads.g.doubleclick.net/ssai/event/OQfdjUhHSDSlb1fJVzehsQ/master.m3u8` -> `https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8`
 - INVESTIGATION DISCOVERY: `http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48953` -> `http://88.212.15.50/live/test_id_hevc_atktv/playlist.m3u8`
 - Матч Футбол 3 HD: `http://j3dha0rd.otttv.pw/iptv/99KH7UMY2Y5A2X5KECD2SRRX/11075/index.m3u8` -> `http://185.57.68.33/110/mpegts`
@@ -34,7 +35,7 @@
 - Animal Planet: `http://46.32.176.50/animalplanet/index.m3u8` -> `http://213.91.179.28:8000/play/a05r`
 - Animal Planet HD: `http://46.32.176.50/AnimalPlanetHD/index.m3u8` -> `http://213.91.179.28:8000/play/a05r`
 - Viasat explore: `http://46.32.176.50/viasatexplorer/index.m3u8` -> `https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8`
-- Viasat history: `http://46.32.176.50/viasathistory/index.m3u8` -> `https://shift03.isp.bg/ViasatHistory_HD/index.m3u8`
+- Viasat history: `http://46.32.176.50/viasathistory/index.m3u8` -> `http://88.212.15.50/live/test_viasat_history_atk_tv/playlist.m3u8`
 - Viasat Nature: `http://46.32.176.50/viasatnature/index.m3u8` -> `https://shift03.isp.bg/ViasatNature_HD/index.m3u8`
 - Viasat Nature HD: `http://46.32.176.50/ViasatNatureHD/index.m3u8` -> `https://shift03.isp.bg/ViasatNature_HD/index.m3u8`
 - History HD: `http://46.32.176.50/HistoryHD/index.m3u8` -> `http://213.91.179.28:8000/play/a0c1`
@@ -52,7 +53,7 @@
 - Киносвидание: `http://46.32.176.50/kinosvidanie/index.m3u8` -> `http://mfe02.cliptv.az:80/dash/Kinosvidaniye_SDdho39d.ism/playlist.mpd`
 - Amedia 1: `http://46.32.176.50/amedia1/index.m3u8` -> `http://mfe02.cliptv.az:80/dash/A1_SDoioioi65.ism/playlist.mpd`
 - Amedia 2: `http://46.32.176.50/amedia2/index.m3u8` -> `http://mfe01.cliptv.az/dash/Amedia_2_SD_PIgjf67deV.ism/playlist.mpd`
-- Amedia Hit: `http://46.32.176.50/amediahit/index.m3u8` -> `http://85.117.61.97:8000/play/a015/index.m3u8`
+- Amedia Hit: `http://46.32.176.50/amediahit/index.m3u8` -> `http://stream.mcquack.net/162/index.m3u8`
 - Euronews: `http://46.32.176.50/euronews/index.m3u8` -> `https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8`
 - Bridge Deluxe: `http://46.32.176.50/BridgeTVDance/index.m3u8` -> `http://stream.mcquack.net/92/index.m3u8`
 - Bridge Deluxe HD: `http://46.32.176.50/BridgeTVHD/index.m3u8` -> `http://stream.mcquack.net/92/index.m3u8`
@@ -71,7 +72,6 @@
 - CBC Sport HD
 - CBC SPORT ᴴᴰ
 - IDMAN TV ᴴᴰ
-- BAKU TV ᴴᴰ
 - Ictimai SD
 - Ictimai HD
 - İCTİMAİ TV ᴴᴰ
@@ -306,16 +306,13 @@
 - AzTV
 
 ## Gözləyənlər (hələ əvəz edilməyib)
-- APA TV HD: 1/3
-- APA tv (1080p): 1/3
-- Baku TV HD: 1/3
-- baku TV: 1/3
-- Tele1: 1/3
-- РОССИЯ К HD: 1/3
-- ТВ3: 1/3
-- Хабар HD: 1/3
-- Imedi TV: 2/3
-- 1tv sport ge: 1/3
-- Go3 Sport 1: 1/3
-- UzSport: 1/3
-- baku: 1/3
+- APA TV HD: 2/3
+- APA tv (1080p): 2/3
+- TGRT HABER: 1/3
+- Tele1: 2/3
+- РБК: 1/3
+- РБК HD: 1/3
+- RU.TV: 1/3
+- Первый Информационный HD: 1/3
+- Хабар HD: 2/3
+- UzSport: 2/3
