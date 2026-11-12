@@ -1,9 +1,9 @@
 # Yenilənmə hesabatı
 
 - Cəmi kanal: 717
-- Linki əvəz edilən: 60
+- Linki əvəz edilən: 55
 - Ölü qalan (əvəzedici tapılmadı, köhnə link saxlanıldı): 146
-- Gözləyən (ölü çıxdı, amma hələ 3 dəfə təsdiqlənməyib): 8
+- Gözləyən (ölü çıxdı, amma hələ 3 dəfə təsdiqlənməyib): 12
 
 ## Əvəz edilənlər
 - BAKU TV ᴴᴰ: `https://az.cehennem.workers.dev/index.m3u8?ID=12` -> `https://rtmp.baku.tv/hls/bakutv.m3u8`
@@ -16,18 +16,15 @@
 - TRT Avaz: `http://185.32.44.154/trtavaz/index.m3u8` -> `https://tv-trtavaz.medya.trt.com.tr/master.m3u8`
 - Qazsport: `http://stream.mcquack.net/72/index.m3u8` -> `https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8`
 - EURONEWS: `http://46.32.176.50/euronews/index.m3u8` -> `https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8`
-- FOX NEWS: `http://qvnpbz2k.rostelekom.xyz/iptv/PYNV3ND2WZ7YHR/19147/index.m3u` -> `http://ru3.hls.gd/ch2093/mono.m3u8?token=gasanov.v2_afVSWWf9In8tZxwZlvxDPeP-GrYVj6LRTqQ-Sz4CHmN4EmfZVfjT0yAfzj4jXIKkl-cHZPyGfo8Z`
+- FOX NEWS: `http://qvnpbz2k.rostelekom.xyz/iptv/PYNV3ND2WZ7YHR/19147/index.m3u` -> `http://ru3.hls.gd/ch2093/mono.m3u8?token=gasanov.v2_pizhjb0oMGVYxuZ_abH0yrKAiWfE0rdXXdyvXi6NIoyZ7defXCcT4Hs8wyk641aZtePMzVSf0_VN`
 - Digi 24: `https://pubads.g.doubleclick.net/ssai/event/OQfdjUhHSDSlb1fJVzehsQ/master.m3u8` -> `https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8`
 - INVESTIGATION DISCOVERY: `http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48953` -> `http://88.212.15.50/live/test_id_hevc_atktv/playlist.m3u8`
 - Матч Футбол 3 HD: `http://j3dha0rd.otttv.pw/iptv/99KH7UMY2Y5A2X5KECD2SRRX/11075/index.m3u8` -> `http://185.57.68.33/110/mpegts`
 - Eurosport 4K: `http://faxyljp3.otttv.pw/iptv/DGVFKTU5Q3AR27/4004/index.m3u8` -> `http://103.253.74.210:7070/stream/122/index.m3u8`
 - Пятница: `http://vipl.one/hls/ksciajdb7h/16.m3u8` -> `http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8`
 - Amedia 1: `http://hls127.freeott.top:8080/Amedia_1/mono.m3u8` -> `http://mfe02.cliptv.az:80/dash/A1_SDoioioi65.ism/playlist.mpd`
-- Gags Network: `http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8` -> `http://stream.mcquack.net/458/index.m3u8`
 - Кухня ТВ: `http://hls127.freeott.top:8080/Kuhnya_TV/mono.m3u8` -> `http://mfe02.cliptv.az/dash/Kuxnya_TV_SDlao150.ism/playlist.mpd`
 - Da Vinci: `http://hls127.freeott.top:8080/Da_Vinci_Learning/mono.m3u8` -> `http://stream.mcquack.net/238/index.m3u8`
-- TRT Avaz: `http://line.team-tv.link:80/jLKLjOvdU/beAi6ilBrs/2059` -> `https://tv-trtavaz.medya.trt.com.tr/master.m3u8`
-- haber global: `http://line.team-tv.link:80/jLKLjOvdU/beAi6ilBrs/2030` -> `https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8`
 - CNN Turk: `http://65.108.239.207:80/cnn/index.m3u8` -> `http://85.117.61.84/cnnturk/index.m3u8`
 - KANAL D HD: `http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48854` -> `https://stream1.kanald.ro/iphone/knd-live.m3u8`
 - kanal s: `https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8` -> `https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8`
@@ -53,10 +50,8 @@
 - Киносвидание: `http://46.32.176.50/kinosvidanie/index.m3u8` -> `http://mfe02.cliptv.az:80/dash/Kinosvidaniye_SDdho39d.ism/playlist.mpd`
 - Amedia 1: `http://46.32.176.50/amedia1/index.m3u8` -> `http://mfe02.cliptv.az:80/dash/A1_SDoioioi65.ism/playlist.mpd`
 - Amedia 2: `http://46.32.176.50/amedia2/index.m3u8` -> `http://mfe01.cliptv.az/dash/Amedia_2_SD_PIgjf67deV.ism/playlist.mpd`
-- Amedia Hit: `http://46.32.176.50/amediahit/index.m3u8` -> `http://stream.mcquack.net/162/index.m3u8`
+- Amedia Hit: `http://46.32.176.50/amediahit/index.m3u8` -> `http://85.117.61.97:8000/play/a015/index.m3u8`
 - Euronews: `http://46.32.176.50/euronews/index.m3u8` -> `https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8`
-- Bridge Deluxe: `http://46.32.176.50/BridgeTVDance/index.m3u8` -> `http://stream.mcquack.net/92/index.m3u8`
-- Bridge Deluxe HD: `http://46.32.176.50/BridgeTVHD/index.m3u8` -> `http://stream.mcquack.net/92/index.m3u8`
 - Muz TV AZ: `http://46.32.176.50/muztvaz/index.m3u8` -> `http://185.32.44.154/muztvaz/index.m3u8`
 - MCM Top: `http://46.32.176.50/mcmtop/index.m3u8` -> `http://185.228.163.146:8000/play/a00g/index.m3u8`
 - Солнце: `http://46.32.176.50/solnce/index.m3u8` -> `http://tv.mediacdn.ru/live/solntse/playlist.m3u8`
@@ -115,9 +110,6 @@
 - S SPORT(biraz)
 - S SPORT 2(biraz)
 - CBC Sport
-- tivibu spor1
-- tivibu spor2
-- tivibu spor3
 - Tabii spor HD
 - TRT SPOR
 - GSPORT (biraz)
@@ -144,6 +136,7 @@
 - Наука 2.0
 - BCU Kinorating HD
 - BCU Stars HD
+- Gags Network
 - Наша Сибирь
 - Кинопоказ HD
 - Мосфильм. Золотая коллекция
@@ -206,6 +199,8 @@
 - Домашний
 - Bridge TV
 - Bridge Classic
+- Bridge Deluxe
+- Bridge Deluxe HD
 - Europa Plus TV
 - Ностальгия
 - Шансон ТВ
@@ -239,7 +234,6 @@
 - НТВ HD
 - ТНТ
 - RU TV HD
-- Хабар HD
 - :24
 - 24KZ
 - İHA
@@ -307,11 +301,15 @@
 - AzTV
 
 ## Gözləyənlər (hələ əvəz edilməyib)
-- MELTEM TV: 1/3
-- TRT GENÇ: 1/3
-- РБК: 2/3
-- РБК HD: 2/3
-- Imedi TV: 1/3
-- 1tv sport ge: 1/3
-- Муз ТВ uz: 1/3
-- TRT 1 HD: 1/3
+- APA TV HD: 1/3
+- APA tv (1080p): 1/3
+- A HD: 1/3
+- MELTEM TV: 2/3
+- TGRT HABER: 1/3
+- TRT GENÇ: 2/3
+- РОССИЯ К HD: 1/3
+- 1+1 Ukraina: 1/3
+- TRT SPOR YILDIZ HD: 1/3
+- UzSport: 1/3
+- ТАСС ᴴᴰ: 1/3
+- Матч! FHD: 1/3

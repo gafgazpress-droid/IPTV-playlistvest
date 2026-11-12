@@ -98,8 +98,8 @@ http://str.yodacdn.net/medeniyyettele/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/0Q12yXPJ/M-d-niyy-t-TV-loqo.png" group-title="AZERBAYCAN 📡", MƏDƏNİYYƏT TV ᴴᴰ
 #EXTGRP:AZERBAYCAN 📡
 http://str.yodacdn.net/medeniyyettele/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/hPK0bP9d/Mədəniyyət-TV-loqo.png" group-title="AZERBAYCAN 📡", Medeniyyet TV
-http://185.32.44.154/medeniyyet/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/0Q12yXPJ/M-d-niyy-t-TV-loqo.png" group-title="AZERBAYCAN 📡", MƏDƏNİYYƏT
+https://az.cehennem.workers.dev/index.m3u8?ID=2
 #EXTINF:0 tvg-logo="https://i.postimg.cc/cCPh2BsY/Kanal-S-2022.png" group-title="AZERBAYCAN 📡",KANAL S
 #EXTGRP:AZERBAYCAN 📡
 https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
@@ -111,9 +111,9 @@ http://185.32.44.154/muztvaz/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/8cBDyLJJ/In-Shot-20250209-204416916.png" group-title="AZERBAYCAN 📡",Muz tv
 #EXTGRP:AZERBAYCAN 📡
 http://flussonic.izone.az:80/muztvaz/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/TY83Zpks/png-clipart-tv-top-television-channel-tmb-tv-turkvision-song-contest-tmb-logo-television-text.png" group-title="AZERBAYCAN 📡",TMB
+#EXTINF:0 tvg-logo="https://i.postimg.cc/6prVYgqM/tmbtaz-png.png" group-title="AZERBAYCAN 📡",TMB ᴴᴰ
 #EXTGRP:AZERBAYCAN 📡
-http://185.32.44.154/tmb/index.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HkgvYQ7P/K-p-z-TV-2019.png" group-title="AZERBAYCAN 📡",KƏPƏZ TV ᴴᴰ
 #EXTGRP:AZERBAYCAN 📡
 http://85.132.78.122:8050/dashjs/stream/index.mpd
@@ -138,7 +138,7 @@ http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 #EXTINF: -1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/TRT_eski_logo_%281990-2001%29.png" group-title="TURKİYE 📡", TRT
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF: -1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRT_1_HD_kurumsal_logo_%282012-2021%29.png" group-title="TURKİYE 📡", TRT 1 HD
-https://tv-trt1.medya.trt.com.tr/master.m3u8
+https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/Lsqyt9QW/In-Shot-20260901-195916738.png" group-title="TURKİYE 📡", TRT NOSTALJI
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Tabii_-_TRT_Logo.png" group-title="TURKİYE 📡", tabii tv
@@ -562,11 +562,6 @@ https://biraz.6781237.xyz/checklist/androstreamlivess2.m3u8
 http://185.32.44.154/cbcsporthd/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/sfBzJqXY/In-Shot-20260413-175230360.png" group-title="FUTBOL ⚽",TVNET SPORT
 http://ru3.hls.gd/ch1693/mono.m3u8?token=gasanov.v2_ecu2MFVXuGztsBf-cHdiuUrMo6GBvjOZybfFiRoGl7sySXvXix2DCWTESAW_xEprDBaThc01c9cp
-
-#EXTINF:0 tvg-logo="https://i.postimg.cc/XJQpGDPt/Screenshot-20261112-145200-Google.jpg" group-title="FUTBOL ⚽",SPORT TV AZ
-#EXTGRP:FUTBOL ⚽
-http://2585f967.ottolok.net/iptv/7PAHZWAPLAVFE3FEYGQSKL9C/31926/index.m3u8
-
 #EXTINF:-1 group-title="FUTBOL ⚽" tvg-logo="http://epg.one/img2/2541.png",Беларусь 5 HD
 http://j3dha0rd.otttv.pw/iptv/99KH7UMY2Y5A2X5KECD2SRRX/2177/index.m3u8
 #EXTINF:-1  group-title="FUTBOL ⚽ "  tvg-id="digisport1"  tvg-logo="https://iptvx.one/picons/digisport1.png" ,Digi Sport 1
@@ -604,16 +599,6 @@ http://tchaikovsky.af-stream.com:8080/s/2q8gablk/okko-futbol-hd/video.m3u8
 http://tchaikovsky.af-stream.com:8080/s/2q8gablk/okko-sport-hd/video.m3u8
 #EXTINF:-1  group-title="FUTBOL ⚽"  tvg-id="okko-sport-2"  tvg-logo="https://iptvx.one/picons/okko-sport-2.png" ,Окко.Прайм Спорт HD
 http://tchaikovsky.af-stream.com:8080/s/2q8gablk/okko-sport2-hd/video.m3u8
-#EXTINF:0 tvg-rec="3",Окко Футбол HD
-#EXTGRP:FUTBOL ⚽
-http://2585f967.ottolok.net/iptv/7PAHZWAPLAVFE3FEYGQSKL9C/6554/index.m3u8
-#EXTINF:0 tvg-rec="0",Окко Спорт HD
-#EXTGRP:FUTBOL ⚽
-http://2585f967.ottolok.net/iptv/7PAHZWAPLAVFE3FEYGQSKL9C/20138/index.m3u8
-#EXTINF:0 tvg-rec="0",Окко Прайм Спорт HD
-#EXTGRP:FUTBOL ⚽
-http://2585f967.ottolok.net/iptv/7PAHZWAPLAVFE3FEYGQSKL9C/20135/index.m3u8
-
 #EXTINF: -1 tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/ziggo-logo.png" group-title="FUTBOL ⚽", ziggo sport
 http://qvnpbz2k.rostelekom.xyz/iptv/PYNV3ND2WZ7YHR/2561/index.m3u
 #EXTINF: -1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_HR_logo_v2.png" group-title="FUTBOL ⚽", Arena sport 1
@@ -627,7 +612,7 @@ http://line.team-tv.link:80/jLKLjOvdU/beAi6ilBrs/2080
 #EXTINF:0 tvg-logo="https://i.postimg.cc/B6pVkH3V/In-Shot-20251010-224635742.png" group-title="FUTBOL ⚽",tivibu spor
 http://105894.fly24.be:80/BurakKarakaya/pynW9rPDw1b/216195
 #EXTINF: -1 tvg-name="❤️‍��: FENERBAHcE HD" tvg-logo="https://iconape.com/wp-content/files/fy/331201/png/fenerbahce-tv-logo.png" group-title="FUTBOL ⚽", Fenerbahce TV
-https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+http://line.team-tv.link:80/jLKLjOvdU/beAi6ilBrs/2089
 #EXTINF: -1 tvg-id="ASpor.tr" tvg-name="A Spor" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="FUTBOL ⚽", A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 group-title="FUTBOL ⚽" tvg-logo="https://i.imgur.com/ZhkZzLf.png",a spor HD
@@ -793,7 +778,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
 #EXTINF:0 tvg-rec="0" group-title="NEWS 📡",FOX NEWS
 #EXTGRP:NEWS 📡
-http://ru3.hls.gd/ch2093/mono.m3u8?token=gasanov.v2_afVSWWf9In8tZxwZlvxDPeP-GrYVj6LRTqQ-Sz4CHmN4EmfZVfjT0yAfzj4jXIKkl-cHZPyGfo8Z
+http://ru3.hls.gd/ch2093/mono.m3u8?token=gasanov.v2_pizhjb0oMGVYxuZ_abH0yrKAiWfE0rdXXdyvXi6NIoyZ7defXCcT4Hs8wyk641aZtePMzVSf0_VN
 #EXTINF:-1  group-title="NEWS 📡"  tvg-logo="https://logos-world.net/wp-content/uploads/2020/08/CBS-Symbol.png" ,CBS Newsᴴᴰ
 http://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 tvg-id="GloboNews.br@SD" tvg-logo="https://i.imgur.com/3yZyaCm.png" group-title="NEWS 📡",GloboNews
@@ -1178,7 +1163,7 @@ http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",BCU Stars HD
 http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",Gags Network
-http://stream.mcquack.net/458/index.m3u8
+http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",Наша Сибирь
 http://hls127.freeott.top:8080/HCTV/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",Кинопоказ HD
@@ -1214,11 +1199,11 @@ http://hls127.freeott.top:8080/BRIDGE_TV/mono.m3u8
 #EXTINF: -1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/TRT_eski_logo_%281990-2001%29.png" group-title="MIX 📡", TRT1 SD
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title="MIX 📡" audio-track="rus",TRT Avaz
-https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+http://line.team-tv.link:80/jLKLjOvdU/beAi6ilBrs/2059
 #EXTINF: -1 tvg-id="HaberGlobal.tr" tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="MIX 📡", Haber global
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF: -1 tvg-id="HaberGlobal.tr" tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="MIX 📡", haber global
-https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+http://line.team-tv.link:80/jLKLjOvdU/beAi6ilBrs/2030
 #EXTINF:-1  group-title="MIX ??"  tvg-id="tv100.com.tr" ,tv100
 https://tv.ensonhaber.com/tv100/tv100.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png",HABER TURK
@@ -1485,7 +1470,7 @@ http://mfe02.cliptv.az:80/dash/A1_SDoioioi65.ism/playlist.mpd
 #EXTINF:-1 group-title="IZONE", Amedia 2
 http://mfe01.cliptv.az/dash/Amedia_2_SD_PIgjf67deV.ism/playlist.mpd
 #EXTINF:-1 group-title="IZONE", Amedia Hit
-http://stream.mcquack.net/162/index.m3u8
+http://85.117.61.97:8000/play/a015/index.m3u8
 #EXTINF:-1 group-title="IZONE", Amedia Premium
 http://46.32.176.50/AmediaPremium/index.m3u8
 #EXTINF:-1 group-title="IZONE", Amedia Premium HD
@@ -1525,9 +1510,9 @@ http://46.32.176.50/bridgetv/index.m3u8
 #EXTINF:-1 group-title="IZONE", Bridge Classic
 http://46.32.176.50/rusong/index.m3u8
 #EXTINF:-1 group-title="IZONE", Bridge Deluxe
-http://stream.mcquack.net/92/index.m3u8
+http://46.32.176.50/BridgeTVDance/index.m3u8
 #EXTINF:-1 group-title="IZONE", Bridge Deluxe HD
-http://stream.mcquack.net/92/index.m3u8
+http://46.32.176.50/BridgeTVHD/index.m3u8
 #EXTINF:-1 group-title="IZONE", Муз ТВ
 http://46.32.176.50/muztv/index.m3u8
 #EXTINF:-1 group-title="IZONE", Muz TV AZ
