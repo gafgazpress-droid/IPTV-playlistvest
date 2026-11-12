@@ -3,7 +3,7 @@
 - Cəmi kanal: 717
 - Linki əvəz edilən: 60
 - Ölü qalan (əvəzedici tapılmadı, köhnə link saxlanıldı): 146
-- Gözləyən (ölü çıxdı, amma hələ 3 dəfə təsdiqlənməyib): 10
+- Gözləyən (ölü çıxdı, amma hələ 3 dəfə təsdiqlənməyib): 8
 
 ## Əvəz edilənlər
 - BAKU TV ᴴᴰ: `https://az.cehennem.workers.dev/index.m3u8?ID=12` -> `https://rtmp.baku.tv/hls/bakutv.m3u8`
@@ -16,7 +16,7 @@
 - TRT Avaz: `http://185.32.44.154/trtavaz/index.m3u8` -> `https://tv-trtavaz.medya.trt.com.tr/master.m3u8`
 - Qazsport: `http://stream.mcquack.net/72/index.m3u8` -> `https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8`
 - EURONEWS: `http://46.32.176.50/euronews/index.m3u8` -> `https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8`
-- FOX NEWS: `http://qvnpbz2k.rostelekom.xyz/iptv/PYNV3ND2WZ7YHR/19147/index.m3u` -> `http://ru3.hls.gd/ch2093/mono.m3u8?token=gasanov.v2_aroOr7rJaCwKkZEfKMgxiJDt00u-mjvkBs-KOqV6gZqYr2pBu3lAK_zMwHxwCLr0kbLGMqaxK4Lm`
+- FOX NEWS: `http://qvnpbz2k.rostelekom.xyz/iptv/PYNV3ND2WZ7YHR/19147/index.m3u` -> `http://ru3.hls.gd/ch2093/mono.m3u8?token=gasanov.v2_afVSWWf9In8tZxwZlvxDPeP-GrYVj6LRTqQ-Sz4CHmN4EmfZVfjT0yAfzj4jXIKkl-cHZPyGfo8Z`
 - Digi 24: `https://pubads.g.doubleclick.net/ssai/event/OQfdjUhHSDSlb1fJVzehsQ/master.m3u8` -> `https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8`
 - INVESTIGATION DISCOVERY: `http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48953` -> `http://88.212.15.50/live/test_id_hevc_atktv/playlist.m3u8`
 - Матч Футбол 3 HD: `http://j3dha0rd.otttv.pw/iptv/99KH7UMY2Y5A2X5KECD2SRRX/11075/index.m3u8` -> `http://185.57.68.33/110/mpegts`
@@ -35,7 +35,7 @@
 - Animal Planet: `http://46.32.176.50/animalplanet/index.m3u8` -> `http://213.91.179.28:8000/play/a05r`
 - Animal Planet HD: `http://46.32.176.50/AnimalPlanetHD/index.m3u8` -> `http://213.91.179.28:8000/play/a05r`
 - Viasat explore: `http://46.32.176.50/viasatexplorer/index.m3u8` -> `https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8`
-- Viasat history: `http://46.32.176.50/viasathistory/index.m3u8` -> `http://88.212.15.50/live/test_viasat_history_atk_tv/playlist.m3u8`
+- Viasat history: `http://46.32.176.50/viasathistory/index.m3u8` -> `https://shift03.isp.bg/ViasatHistory_HD/index.m3u8`
 - Viasat Nature: `http://46.32.176.50/viasatnature/index.m3u8` -> `https://shift03.isp.bg/ViasatNature_HD/index.m3u8`
 - Viasat Nature HD: `http://46.32.176.50/ViasatNatureHD/index.m3u8` -> `https://shift03.isp.bg/ViasatNature_HD/index.m3u8`
 - History HD: `http://46.32.176.50/HistoryHD/index.m3u8` -> `http://213.91.179.28:8000/play/a0c1`
@@ -234,11 +234,12 @@
 - STAR
 - NTV
 - TV net
+- Tele1
 - TRT 2
 - НТВ HD
 - ТНТ
 - RU TV HD
-- TV1 KG HD (Кыргызстан)
+- Хабар HD
 - :24
 - 24KZ
 - İHA
@@ -306,13 +307,11 @@
 - AzTV
 
 ## Gözləyənlər (hələ əvəz edilməyib)
-- APA TV HD: 2/3
-- APA tv (1080p): 2/3
-- TGRT HABER: 1/3
-- Tele1: 2/3
-- РБК: 1/3
-- РБК HD: 1/3
-- RU.TV: 1/3
-- Первый Информационный HD: 1/3
-- Хабар HD: 2/3
-- UzSport: 2/3
+- MELTEM TV: 1/3
+- TRT GENÇ: 1/3
+- РБК: 2/3
+- РБК HD: 2/3
+- Imedi TV: 1/3
+- 1tv sport ge: 1/3
+- Муз ТВ uz: 1/3
+- TRT 1 HD: 1/3

@@ -138,7 +138,7 @@ http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 #EXTINF: -1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/TRT_eski_logo_%281990-2001%29.png" group-title="TURKİYE 📡", TRT
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF: -1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRT_1_HD_kurumsal_logo_%282012-2021%29.png" group-title="TURKİYE 📡", TRT 1 HD
-https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/Lsqyt9QW/In-Shot-20260901-195916738.png" group-title="TURKİYE 📡", TRT NOSTALJI
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Tabii_-_TRT_Logo.png" group-title="TURKİYE 📡", tabii tv
@@ -778,7 +778,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
 #EXTINF:0 tvg-rec="0" group-title="NEWS 📡",FOX NEWS
 #EXTGRP:NEWS 📡
-http://ru3.hls.gd/ch2093/mono.m3u8?token=gasanov.v2_aroOr7rJaCwKkZEfKMgxiJDt00u-mjvkBs-KOqV6gZqYr2pBu3lAK_zMwHxwCLr0kbLGMqaxK4Lm
+http://ru3.hls.gd/ch2093/mono.m3u8?token=gasanov.v2_afVSWWf9In8tZxwZlvxDPeP-GrYVj6LRTqQ-Sz4CHmN4EmfZVfjT0yAfzj4jXIKkl-cHZPyGfo8Z
 #EXTINF:-1  group-title="NEWS 📡"  tvg-logo="https://logos-world.net/wp-content/uploads/2020/08/CBS-Symbol.png" ,CBS Newsᴴᴰ
 http://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 tvg-id="GloboNews.br@SD" tvg-logo="https://i.imgur.com/3yZyaCm.png" group-title="NEWS 📡",GloboNews
@@ -1366,8 +1366,8 @@ http://213.91.179.28:8000/play/a05r
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
 #EXTINF:-1 group-title="IZONE", Viasat history
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.50/live/test_viasat_history_atk_tv/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
 #EXTINF:-1 group-title="IZONE", Viasat Nature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://shift03.isp.bg/ViasatNature_HD/index.m3u8
