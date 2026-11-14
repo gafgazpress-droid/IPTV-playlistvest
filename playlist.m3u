@@ -32,7 +32,7 @@ https://rtmp.baku.tv/hls/bakutv.m3u8
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/pXfSw016/hd-logo.png" group-title="AZERBAYCAN 📡",BAKU TV ᴴᴰ
 #EXTGRP:AZERBAYCAN 📡
-https://rtmp.baku.tv/hls/bakutv.m3u8
+https://az.cehennem.workers.dev/index.m3u8?ID=12
 #EXTINF: -1 tvg-id="aztv.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" group-title="AZERBAYCAN 📡", AZTV HD
 http://185.32.44.154/aztv/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vvRXNTp.png" group-title="AZERBAYCAN 📡", AzTV FHD
@@ -138,7 +138,7 @@ http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 #EXTINF: -1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/TRT_eski_logo_%281990-2001%29.png" group-title="TURKİYE 📡", TRT
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF: -1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRT_1_HD_kurumsal_logo_%282012-2021%29.png" group-title="TURKİYE 📡", TRT 1 HD
-https://tv-trt1.medya.trt.com.tr/master.m3u8
+https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/Lsqyt9QW/In-Shot-20260901-195916738.png" group-title="TURKİYE 📡", TRT NOSTALJI
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Tabii_-_TRT_Logo.png" group-title="TURKİYE 📡", tabii tv
@@ -320,7 +320,7 @@ http://u.vipl.one/high/9i7mez8jhs/1506.m3u8
 #EXTINF:-1  group-title="РОССИЯ 📡"  tvg-logo="https://i.imgur.com/DTtK0z7.png" ,Россия РТР
 https://streaming.televizor-24-tochka.ru/live/211.m3u8
 #EXTINF:0 tvg-id="7" tvg-logo="http://tv.kubtel.ru/tv_icon/rossia-24.png" group-title="РОССИЯ 📡",Россия 24 HD
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/507/index.m3u8
+http://77.232.131.211/Rossiya24/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/e39abc80-afd8-11ee-82b1-593d3bffe5c3/6010463/1045166704.png" group-title="РОССИЯ 📡", Россия 24
 http://j3dha0rd.otttv.pw/iptv/99KH7UMY2Y5A2X5KECD2SRRX/507/index.m3u8
 #EXTINF:-1  group-title="РОССИЯ 📡"  tvg-id="kultura"  tvg-logo="http://rafail1982.uz/logo/Россия К.png" ,РОССИЯ К HD
@@ -362,7 +362,7 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="zvezda-plus" group-title="РОССИЯ 📡", Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 #EXTINF:0 tvg-id="7" tvg-logo="http://tv.kubtel.ru/tv_icon/rossia-24.png" group-title="РОССИЯ 📡",Россия 24 HD
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/507/index.m3u8
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png",Russia Today HD
 #EXTGRP:РОССИЯ 📡
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
@@ -509,7 +509,7 @@ http://mfe02.cliptv.az/dash/Perviy_Kanal_HDhshd6637.ism/playlist.mpd
 #EXTINF:-1 group-title="MDB 📡",Россия 1 HD
 http://mfe01.cliptv.az/dash/Rossiya_1_HDhfhf937456.ism/playlist.mpd
 #EXTINF:-1 group-title="MDB 📡",Россия 24 HD
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/507/index.m3u8
+http://77.232.131.211/Rossiya24/index.m3u8
 #EXTINF:0 tvg-id="375" tvg-logo="http://tv.kubtel.ru/tv_icon/ntvHD.png" group-title="MDB 📡",НТВ HD
 http://mfe01.cliptv.az/dash/HTB_HDdhh020500.ism/playlist.mpd
 #EXTINF:0 tvg-id="Xtnt4" tvg-name="ТНТ4" tvg-logo="https://ip-tv.dev/epg/icon/tnt4.png" tvg-rec="5" timeshift="5" group-title="MDB 📡",ТНТ4
@@ -665,7 +665,7 @@ http://j3dha0rd.otttv.pw/iptv/99KH7UMY2Y5A2X5KECD2SRRX/234/index.m3u8
 #EXTINF:-1 tvg-id="91" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00091.png" group-title="FUTBOL ⚽",Eurosport 1
 http://j3dha0rd.otttv.pw/iptv/99KH7UMY2Y5A2X5KECD2SRRX/228/index.m3u8
 #EXTINF:-1 tvg-id="92" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00092.png" tvg-name="Eurosport 2" group-title="FUTBOL ⚽",Eurosport 2
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/234/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2/live.livx/playlist.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsportshaber.tr" tvg-name="BEIN SPORTS HABER HD" tvg-logo="https://i.imgur.com/Ym0q2jI.png" group-title="FUTBOL ⚽",beIN SPORTS HABER HD
 http://105894.fly24.be:80/BurakKarakaya/pynW9rPDw1b/76
 #EXTINF: -1 tvg-name="7/24 SPOR TV" tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png" group-title="FUTBOL ⚽", HT spor
@@ -778,7 +778,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
 #EXTINF:0 tvg-rec="0" group-title="NEWS 📡",FOX NEWS
 #EXTGRP:NEWS 📡
-http://ru3.hls.gd/ch2093/mono.m3u8?token=gasanov.v2_h_HuKnYpJx6NVEn3B10JBSpTYfWMImiNowMUCOd7MEFdVNCGQgwBVe_kppWmbNrRSWRMkXtUnHsK
+http://ru3.hls.gd/ch2093/mono.m3u8?token=gasanov.v2_AI4MC1N34cRq3oaymEDPaOgf-mcABc786wAxQR37zXDVXGWWfcjz3wS4ygNED6xAGTktTX4j5rI8
 #EXTINF:-1  group-title="NEWS 📡"  tvg-logo="https://logos-world.net/wp-content/uploads/2020/08/CBS-Symbol.png" ,CBS Newsᴴᴰ
 http://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 tvg-id="GloboNews.br@SD" tvg-logo="https://i.imgur.com/3yZyaCm.png" group-title="NEWS 📡",GloboNews
@@ -865,7 +865,7 @@ https://proud-river-e20b.pantonum1.workers.dev/viasathistory.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/yNrKNHFV/In-Shot-20260111-160438896.png" group-title="DOCUMENTARY 🌍",DISCOVERY CHANNEL
 https://proud-river-e20b.pantonum1.workers.dev/discovery.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/Wb7Q3VvK/In-Shot-20260111-160647988.png" group-title="DOCUMENTARY 🌍",INVESTIGATION DISCOVERY
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/2102/index.m3u8
+http://88.212.15.50/live/test_id_hevc_atktv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/FshXNX4q/In-Shot-20260127-125514615.png" group-title="DOCUMENTARY 🌍",NATIONAL GEOGRAPHIC
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:C4:21:31&stream=197433&extension=ts&play_token=KlYOAvroqa
 #EXTINF:0 tvg-logo="https://i.postimg.cc/Pf41V1rt/In-Shot-20260127-124426100.png" group-title="DOCUMENTARY 🌍",NATIONAL GEOGRAPHIC WILD
@@ -1017,7 +1017,7 @@ http://faxyljp3.otttv.pw/iptv/DGVFKTU5Q3AR27/522/index.m3u8
 #EXTINF:-1 group-title="МАТЧ!" tvg-logo="http://epg.one/img/2005.png",Матч Футбол 3
 http://j3dha0rd.otttv.pw/iptv/99KH7UMY2Y5A2X5KECD2SRRX/522/index.m3u8
 #EXTINF:-1 group-title="МАТЧ!" tvg-logo="http://epg.one/img/2005.png",Матч Футбол 3 HD
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/522/index.m3u8
+http://185.57.68.33/110/mpegts
 #EXTINF:-1 group-title="МАТЧ!" tvg-logo="http://epg.one/img/2005.png",Матч Футбол 3 HD
 http://j3dha0rd.otttv.pw/iptv/99KH7UMY2Y5A2X5KECD2SRRX/206/index.m3u8
 #EXTINF:-1 group-title="МАТЧ!" tvg-logo="http://epg.one/img/2005.png",Матч Футбол 3 HD 50
@@ -1076,7 +1076,8 @@ http://j3dha0rd.otttv.pw/iptv/99KH7UMY2Y5A2X5KECD2SRRX/123/index.m3u8
 http://faxyljp3.otttv.pw/iptv/DGVFKTU5Q3AR27/150/index.m3u8
 #EXTINF:0,Eurosport 4K
 #EXTGRP:МАТЧ!
-https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://103.253.74.210:7070/stream/122/index.m3u8
 #EXTINF:0,Eurosport 1 HD
 #EXTGRP:МАТЧ!
 http://faxyljp3.otttv.pw/iptv/DGVFKTU5Q3AR27/228/index.m3u8
@@ -1105,15 +1106,15 @@ http://j3dha0rd.otttv.pw/iptv/99KH7UMY2Y5A2X5KECD2SRRX/9251/index.m3u8
 #EXTINF:-1 group-title="МАТЧ!" tvg-logo="http://epg.one/img/2782.png",Футбол fhd
 http://j3dha0rd.otttv.pw/iptv/99KH7UMY2Y5A2X5KECD2SRRX/19244/index.m3u8
 #EXTINF:-1 group-title="MIX 📡" tvg-logo="https://peers.tv/data/illustrations/ills/2015/10/08/55753/55753431.png",Первый канал
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/204/index.m3u8
+http://vipl.one/hls/ksciajdb7h/1.m3u8
 #EXTINF:-1 group-title="MIX 📡" tvg-logo="https://peers.tv/data/illustrations/ills/2020/04/01/198300/198300771.png",Телеканал "Россия"
 http://vipl.one/hls/ksciajdb7h/2.m3u8
 #EXTINF:-1 group-title="MIX 📡",Матч! ТВ
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/535/index.m3u8
+http://vipl.one/hls/ksciajdb7h/3.m3u8
 #EXTINF:-1 group-title="MIX 📡" tvg-logo="https://peers.tv/data/illustrations/ills/2016/05/30/70554/70554232.png",Телекомпания НТВ
 http://vipl.one/hls/ksciajdb7h/4.m3u8
 #EXTINF:-1 group-title="MIX 📡",Пятый канал
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/112/index.m3u8
+http://vipl.one/hls/ksciajdb7h/5.m3u8
 #EXTINF:-1 group-title="MIX 📡" tvg-logo="https://peers.tv/data/illustrations/ills/2020/04/01/198300/198300803.png",Телеканал "Россия - Культура"
 http://vipl.one/hls/ksciajdb7h/6.m3u8
 #EXTINF:-1 group-title="MIX 📡" tvg-logo="https://peers.tv/data/illustrations/ills/2020/04/01/198300/198300790.png","Россия-24"
@@ -1121,7 +1122,7 @@ http://vipl.one/hls/ksciajdb7h/7.m3u8
 #EXTINF:-1 group-title="MIX 📡",ОТР
 http://vipl.one/hls/ksciajdb7h/9.m3u8
 #EXTINF:-1 group-title="MIX 📡",ТВ Центр
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/520/index.m3u8
+http://vipl.one/hls/ksciajdb7h/10.m3u8
 #EXTINF:0 tvg-id="11" tvg-logo="http://tv.kubtel.ru/tv_icon/ren-tv.png" group-title="MIX 📡",РЕН ТВ
 http://vipl.one/hls/ksciajdb7h/11.m3u8
 #EXTINF:-1 group-title="MIX 📡",СТС
@@ -1131,7 +1132,7 @@ http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/514/index.m3u8
 #EXTINF:-1 group-title="MIX 📡",ТВ3
 http://vipl.one/hls/ksciajdb7h/15.m3u8
 #EXTINF:0 tvg-id="16" tvg-logo="http://tv.kubtel.ru/tv_icon/pyatnitsa.png" group-title="MIX 📡",Пятница
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/5031/index.m3u8
+http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
 #EXTINF:-1 group-title="MIX 📡",Звезда
 http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/544/index.m3u8
 #EXTINF:-1 group-title="MIX 📡",Мир
@@ -1158,21 +1159,21 @@ http://hls127.freeott.top:8080/RTG_TV/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",Amedia 1
 http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/554/index.m3u8
 #EXTINF:-1 group-title="MIX 📡",BCU Kinorating HD
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/11037/index.m3u8
+http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",BCU Stars HD
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/11044/index.m3u8
+http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",Gags Network
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/14024/index.m3u8
+http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",Наша Сибирь
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/9330/index.m3u8
+http://hls127.freeott.top:8080/HCTV/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",Кинопоказ HD
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/2439/index.m3u8
+http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",Ключ
 http://hls127.freeott.top:8080/Kluch/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",Кухня ТВ
 http://mfe02.cliptv.az/dash/Kuxnya_TV_SDlao150.ism/playlist.mpd
 #EXTINF:-1 group-title="MIX 📡",Мосфильм. Золотая коллекция
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/6392/index.m3u8
+http://hls127.freeott.top:8080/Mosfilm/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",MyTV
 http://hls127.freeott.top:8080/MyTV/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",Наше HD
@@ -1180,15 +1181,15 @@ http://hls127.freeott.top:8080/Nashe_HD/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",Ностальгия
 http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/102/index.m3u8
 #EXTINF:-1 group-title="MIX 📡",Про любовь
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/2430/index.m3u8
+http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",Союз
 http://hls127.freeott.top:8080/Souz/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",Совершенно секретно
 http://hls127.freeott.top:8080/Sovershenno_Sekretno/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",СТС Kids
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/2001/index.m3u8
+http://hls127.freeott.top:8080/STS_Kids/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡", Da Vinci
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/537/index.m3u8
+http://stream.mcquack.net/238/index.m3u8
 #EXTINF:-1 group-title="MIX 📡",Бобёр
 http://hls127.freeott.top:8080/Bober/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",Bolt
@@ -1326,11 +1327,11 @@ http://tchaikovsky.af-stream.com:8080/s/2q8gablk/okko-sport2-hd/video.m3u8
 #EXTINF:-1 group-title="IZONE", Первый HD
 http://46.32.176.50/perviy/index.m3u8
 #EXTINF:-1 group-title="IZONE", Россия 1
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/2409/index.m3u8
+http://46.32.176.50/rossiya1/index.m3u8
 #EXTINF:-1 group-title="IZONE", Россия 1 HD
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/2409/index.m3u8
+http://46.32.176.50/RossiyaHD/index.m3u8
 #EXTINF:-1 group-title="IZONE", Россия К
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/505/index.m3u8
+http://46.32.176.50/rossiakultura/index.m3u8
 #EXTINF:-1 group-title="IZONE", ТНТ 4
 http://46.32.176.50/tnt/index.m3u8
 #EXTINF:-1 group-title="IZONE", НТВ
@@ -1340,33 +1341,33 @@ http://46.32.176.50/rentv/index.m3u8
 #EXTINF:-1 group-title="IZONE", Кухня ТВ
 http://mfe02.cliptv.az/dash/Kuxnya_TV_SDlao150.ism/playlist.mpd
 #EXTINF:-1 group-title="IZONE", Домашние Животные
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/158/index.m3u8
+http://46.32.176.50/domashniejivotnie/index.m3u8
 #EXTINF:-1 group-title="IZONE", Поехали!
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/14020/index.m3u8
+http://46.32.176.50/poexali/index.m3u8
 #EXTINF:-1 group-title="IZONE", Телекафе
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/865/index.m3u8
+http://46.32.176.50/telekafe/index.m3u8
 #EXTINF:-1 group-title="IZONE", Живая Планета
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/2101/index.m3u8
+http://46.32.176.50/jivayaplaneta/index.m3u8
 #EXTINF:-1 group-title="IZONE", Авто24
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/20033/index.m3u8
+http://46.32.176.50/avto24/index.m3u8
 #EXTINF:-1 group-title="IZONE", Авто Плюс
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/151/index.m3u8
+http://46.32.176.50/avtoplyus/index.m3u8
 #EXTINF:-1 group-title="IZONE", Наука
 http://46.32.176.50/nauka/index.m3u8
 #EXTINF:-1 group-title="IZONE", Моя планета
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/2090/index.m3u8
+http://46.32.176.50/moyaplaneta/index.m3u8
 #EXTINF:-1 group-title="IZONE", Big Planet
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/20036/index.m3u8
+http://46.32.176.50/bigplanet/index.m3u8
 #EXTINF:-1 group-title="IZONE", Animal Planet
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/218/index.m3u8
+http://213.91.179.28:8000/play/a05r
 #EXTINF:-1 group-title="IZONE", Animal Planet HD
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/218/index.m3u8
+http://213.91.179.28:8000/play/a05r
 #EXTINF:-1 group-title="IZONE", Viasat explore
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
 #EXTINF:-1 group-title="IZONE", Viasat history
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.50/live/test_viasat_history_atk_tv/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
 #EXTINF:-1 group-title="IZONE", Viasat Nature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://shift03.isp.bg/ViasatNature_HD/index.m3u8
