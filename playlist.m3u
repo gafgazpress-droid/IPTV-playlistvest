@@ -32,7 +32,7 @@ https://rtmp.baku.tv/hls/bakutv.m3u8
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/pXfSw016/hd-logo.png" group-title="AZERBAYCAN 📡",BAKU TV ᴴᴰ
 #EXTGRP:AZERBAYCAN 📡
-https://az.cehennem.workers.dev/index.m3u8?ID=12
+https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF: -1 tvg-id="aztv.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" group-title="AZERBAYCAN 📡", AZTV HD
 http://185.32.44.154/aztv/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vvRXNTp.png" group-title="AZERBAYCAN 📡", AzTV FHD
@@ -138,7 +138,7 @@ http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 #EXTINF: -1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/TRT_eski_logo_%281990-2001%29.png" group-title="TURKİYE 📡", TRT
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF: -1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRT_1_HD_kurumsal_logo_%282012-2021%29.png" group-title="TURKİYE 📡", TRT 1 HD
-https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/Lsqyt9QW/In-Shot-20260901-195916738.png" group-title="TURKİYE 📡", TRT NOSTALJI
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Tabii_-_TRT_Logo.png" group-title="TURKİYE 📡", tabii tv
@@ -221,9 +221,9 @@ http://105894.fly24.be:80/BurakKarakaya/pynW9rPDw1b/144
 #EXTINF: -1 tvg-id="SozcuTV.tr" tvg-name="Sözcü TV" tvg-logo="https://i.postimg.cc/XJqHZS6q/IMG-d9d9fe70-304a-42a4-9be6-690bb0708fa8.png" group-title="TURKİYE 📡", SozcuTV
 http://ru3.hls.gd/ch2485/mono.m3u8?token=gasanov.v2_LkE6UjQW2zOV0YBKN6HY8qfaoPYjMPd328RrSoBGLtyjRWEcDZLPQJNntuCeieN-w3cA-8sCSZVi
 #EXTINF:0 tvg-logo="https://i.postimg.cc/hG4xP5Lx/In-Shot-20260112-111559893.png" group-title="TURKİYE 📡",CNN TÜRK
-http://85.117.61.84/cnnturk/index.m3u8
+http://185.32.44.154/cnnturk/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/tg4jqG03/id-Ngze-R95c-1792653960020.png" group-title="TURKİYE 📡",CNN Turk
-http://85.117.61.84/cnnturk/index.m3u8
+http://flussonic.izone.az:80/cnnturk/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/Zn02NH82/In-Shot-20251214-115802475.png" group-title="TURKİYE 📡",KOZA TV
 http://176.65.153.12:6001/play/a04m/index.m3u8
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/HalkTVLogo.jpg" group-title="TURKİYE 📡",Halk TV
@@ -778,7 +778,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
 #EXTINF:0 tvg-rec="0" group-title="NEWS 📡",FOX NEWS
 #EXTGRP:NEWS 📡
-http://ru3.hls.gd/ch2093/mono.m3u8?token=gasanov.v2_AI4MC1N34cRq3oaymEDPaOgf-mcABc786wAxQR37zXDVXGWWfcjz3wS4ygNED6xAGTktTX4j5rI8
+http://ru3.hls.gd/ch2093/mono.m3u8?token=gasanov.v2_AGS3MJaiHhdyApFLbfj1b6HS3x0oYJ9k37iINuGtTTHHqbiyRcQ4T7ioxGlxoI8bVzcgk7nkDp0Y
 #EXTINF:-1  group-title="NEWS 📡"  tvg-logo="https://logos-world.net/wp-content/uploads/2020/08/CBS-Symbol.png" ,CBS Newsᴴᴰ
 http://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 tvg-id="GloboNews.br@SD" tvg-logo="https://i.imgur.com/3yZyaCm.png" group-title="NEWS 📡",GloboNews
@@ -1128,13 +1128,13 @@ http://vipl.one/hls/ksciajdb7h/11.m3u8
 #EXTINF:-1 group-title="MIX 📡",СТС
 http://vipl.one/hls/ksciajdb7h/13.m3u8
 #EXTINF:0 tvg-id="14" tvg-logo="http://tv.kubtel.ru/tv_icon/domashniy.png" group-title="MIX 📡",Домашний
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/514/index.m3u8
+http://vipl.one/hls/ksciajdb7h/14.m3u8
 #EXTINF:-1 group-title="MIX 📡",ТВ3
 http://vipl.one/hls/ksciajdb7h/15.m3u8
 #EXTINF:0 tvg-id="16" tvg-logo="http://tv.kubtel.ru/tv_icon/pyatnitsa.png" group-title="MIX 📡",Пятница
 http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
 #EXTINF:-1 group-title="MIX 📡",Звезда
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/544/index.m3u8
+http://vipl.one/hls/ksciajdb7h/17.m3u8
 #EXTINF:-1 group-title="MIX 📡",Мир
 http://vipl.one/hls/ksciajdb7h/18.m3u8
 #EXTINF:-1 group-title="MIX 📡",ТНТ
@@ -1149,7 +1149,7 @@ http://mfe02.cliptv.az/dash/Nostalgiya_SDhdj020060.ism/playlist.mpd
 #EXTGRP:MIX 📡
 http://faxyljp3.otttv.pw/iptv/DGVFKTU5Q3AR27/151/index.m3u8
 #EXTINF:-1 group-title="MIX 📡",История
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/111/index.m3u8
+http://hls127.freeott.top:8080/Istoriya/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",Дикий
 http://hls127.freeott.top:8080/Dikiy/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",Наука 2.0
@@ -1157,7 +1157,7 @@ http://hls127.freeott.top:8080/NAUKA/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",RTG TV
 http://hls127.freeott.top:8080/RTG_TV/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",Amedia 1
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/554/index.m3u8
+http://mfe02.cliptv.az:80/dash/A1_SDoioioi65.ism/playlist.mpd
 #EXTINF:-1 group-title="MIX 📡",BCU Kinorating HD
 http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",BCU Stars HD
@@ -1179,7 +1179,7 @@ http://hls127.freeott.top:8080/MyTV/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",Наше HD
 http://hls127.freeott.top:8080/Nashe_HD/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",Ностальгия
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/102/index.m3u8
+http://hls127.freeott.top:8080/Nostalgiya/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",Про любовь
 http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",Союз
@@ -1195,22 +1195,22 @@ http://hls127.freeott.top:8080/Bober/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",Bolt
 http://hls127.freeott.top:8080/Bolt/mono.m3u8
 #EXTINF:-1 group-title="MIX 📡",BRIDGE TV
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/122/index.m3u8
+http://hls127.freeott.top:8080/BRIDGE_TV/mono.m3u8
 #EXTINF: -1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/TRT_eski_logo_%281990-2001%29.png" group-title="MIX 📡", TRT1 SD
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title="MIX 📡" audio-track="rus",TRT Avaz
-http://line.team-tv.link:80/jLKLjOvdU/beAi6ilBrs/2059
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF: -1 tvg-id="HaberGlobal.tr" tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="MIX 📡", Haber global
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF: -1 tvg-id="HaberGlobal.tr" tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="MIX 📡", haber global
-http://line.team-tv.link:80/jLKLjOvdU/beAi6ilBrs/2030
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1  group-title="MIX ??"  tvg-id="tv100.com.tr" ,tv100
 https://tv.ensonhaber.com/tv100/tv100.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png",HABER TURK
 #EXTGRP:MIX 📡
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 #EXTINF:0 " group-title="MIX 📡", CNN Turk
-http://85.117.61.84/cnnturk/index.m3u8
+http://65.108.239.207:80/cnn/index.m3u8
 #EXTINF: -1 tvg-id="NTV.tr" tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="MIX 📡", NTV
 http://dygvideo.dygdigital.com/live/hls/puhuntvdai?m3u8
 #EXTINF:-1 group-title="MIX 📡",24 TV
@@ -1377,47 +1377,50 @@ https://shift03.isp.bg/ViasatNature_HD/index.m3u8
 #EXTINF:-1 group-title="IZONE", Дикий
 http://46.32.176.50/dikiy/index.m3u8
 #EXTINF:-1 group-title="IZONE", History HD
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/231/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0c1
 #EXTINF:-1 group-title="IZONE", TLC
 http://46.32.176.50/tlc/index.m3u8
 #EXTINF:-1 group-title="IZONE", Охота и Рыбалка
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/2019/index.m3u8
+http://46.32.176.50/oxotoiribalka/index.m3u8
 #EXTINF:-1 group-title="IZONE", Nat Geo Wild HD
 http://46.32.176.50/NatGeoWildHD/index.m3u8
 #EXTINF:-1 group-title="IZONE", Nat Geo Wild
 http://46.32.176.50/natgeowild/index.m3u8
 #EXTINF:-1 group-title="IZONE", Discovery Channel
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/227/index.m3u8
+http://213.91.179.28:8000/play/a044
 #EXTINF:-1 group-title="IZONE", Discovery Channel HD
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/227/index.m3u8
+http://213.91.179.28:8000/play/a044
 #EXTINF:-1 group-title="IZONE", National Geographic
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/14000/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0ct
 #EXTINF:-1 group-title="IZONE", National Geographic HD
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/14000/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0ct
 #EXTINF:-1 group-title="IZONE", Живи
 http://46.32.176.50/jivi/index.m3u8
 #EXTINF:-1 group-title="IZONE", История
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/111/index.m3u8
+http://46.32.176.50/istoriya/index.m3u8
 #EXTINF:-1 group-title="IZONE", Зоопарк
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/731/index.m3u8
+http://46.32.176.50/zoopark/index.m3u8
 #EXTINF:-1 group-title="IZONE", Кто есть кто
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/2042/index.m3u8
+http://46.32.176.50/ktoestkto/index.m3u8
 #EXTINF:-1 group-title="IZONE", TV 1000
 http://stream.mcquack.net/100/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
 #EXTINF:-1 group-title="IZONE", TV 1000 Action
 http://46.32.176.50/tv1000action/index.m3u8
 #EXTINF:-1 group-title="IZONE", Иллюзион+
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/2038/index.m3u8
+http://46.32.176.50/illuzion/index.m3u8
 #EXTINF:-1 group-title="IZONE", Русский Иллюзион
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/2114/index.m3u8
+http://46.32.176.50/russkiyiluzion/index.m3u8
 #EXTINF:-1 group-title="IZONE", Еврокино
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/549/index.m3u8
+http://46.32.176.50/eurokino/index.m3u8
 #EXTINF:-1 group-title="IZONE", Мир сериала
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/856/index.m3u8
+http://46.32.176.50/mirseriala/index.m3u8
 #EXTINF:-1 group-title="IZONE", Мужское кино HD
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/164/index.m3u8
+http://mfe02.cliptv.az/dash/Mujskoye_Kino_SDpoiu876.ism/playlist.mpd
 #EXTINF:-1 group-title="IZONE", Hollywood HD
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/209/index.m3u8
+http://46.32.176.50/HollywoodHD/index.m3u8
 #EXTINF:-1 group-title="IZONE", VIP Megahit HD
 http://46.32.176.50/VIPMegahitHD/index.m3u8
 #EXTINF:-1 group-title="IZONE", VIP Premiere HD
@@ -1427,9 +1430,9 @@ http://46.32.176.50/VIPComedyHD/index.m3u8
 #EXTINF:-1 group-title="IZONE", VIP Serial HD
 http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
 #EXTINF:-1 group-title="IZONE", Дом кино
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/154/index.m3u8
+http://46.32.176.50/domkino/index.m3u8
 #EXTINF:-1 group-title="IZONE", Дом Кино Премиум HD
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/911/index.m3u8
+http://46.32.176.50/DomKinoPremiumHD/index.m3u8
 #EXTINF:-1 group-title="IZONE", НСТ
 http://46.32.176.50/nst/index.m3u8
 #EXTINF:-1 group-title="IZONE", .Black
@@ -1443,57 +1446,57 @@ http://46.32.176.50/paramountchannel/index.m3u8
 #EXTINF:-1 group-title="IZONE", Время
 http://46.32.176.50/Vremya/index.m3u8
 #EXTINF:-1 group-title="IZONE", Русский Детектив
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/907/index.m3u8
+http://46.32.176.50/russkiydetektiv/index.m3u8
 #EXTINF:-1 group-title="IZONE", Русский Роман
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/2076/index.m3u8
+http://46.32.176.50/russkiyroman/index.m3u8
 #EXTINF:-1 group-title="IZONE", Кинохит
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/516/index.m3u8
+http://mfe01.cliptv.az/dash/Kinohit_SDqwecvrt672.ism/playlist.mpd
 #EXTINF:-1 group-title="IZONE", Киносерия HD
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/148/index.m3u8
+http://mfe01.cliptv.az:80/dash/Kinoseriya_SDkukuku6.ism/playlist.mpd
 #EXTINF:-1 group-title="IZONE", Киномикс HD
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/509/index.m3u8
+http://46.32.176.50/kinomiks/index.m3u8
 #EXTINF:-1 group-title="IZONE", Киносемья HD
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/125/index.m3u8
+http://mfe01.cliptv.az:80/dash/Kinosemya_SD_PIVhjdh8f7eg.ism/playlist.mpd
 #EXTINF:-1 group-title="IZONE", Кинокомедия
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/145/index.m3u8
+http://mfe02.cliptv.az/dash/Kinokomediya_SDdfdf678h.ism/playlist.mpd
 #EXTINF:-1 group-title="IZONE", Индийское Кино
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/146/index.m3u8
+http://mfe01.cliptv.az:80/dash/Indiyskoe_Kino_SDfdghj4.ism/playlist.mpd
 #EXTINF:-1 group-title="IZONE", Киносвидание
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/728/index.m3u8
+http://mfe02.cliptv.az:80/dash/Kinosvidaniye_SDdho39d.ism/playlist.mpd
 #EXTINF:-1 group-title="IZONE", Родное Кино
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/126/index.m3u8
+http://46.32.176.50/rodnoekino/index.m3u8
 #EXTINF:-1 group-title="IZONE", Amedia 1
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/554/index.m3u8
+http://mfe02.cliptv.az:80/dash/A1_SDoioioi65.ism/playlist.mpd
 #EXTINF:-1 group-title="IZONE", Amedia 2
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/2046/index.m3u8
+http://mfe01.cliptv.az/dash/Amedia_2_SD_PIgjf67deV.ism/playlist.mpd
 #EXTINF:-1 group-title="IZONE", Amedia Hit
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/6010/index.m3u8
+http://85.117.61.97:8000/play/a015/index.m3u8
 #EXTINF:-1 group-title="IZONE", Amedia Premium
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/229/index.m3u8
+http://46.32.176.50/AmediaPremium/index.m3u8
 #EXTINF:-1 group-title="IZONE", Amedia Premium HD
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/229/index.m3u8
+http://46.32.176.50/AmediaPremiumHD/index.m3u8
 #EXTINF:-1 group-title="IZONE", Любимое Кино
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/20014/index.m3u8
+http://46.32.176.50/lubimoekino/index.m3u8
 #EXTINF:-1 group-title="IZONE", Сапфир
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/553/index.m3u8
+http://46.32.176.50/foxlife/index.m3u8
 #EXTINF:-1 group-title="IZONE", Кинеко
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/550/index.m3u8
+http://46.32.176.50/foxrussia/index.m3u8
 #EXTINF:-1 group-title="IZONE", ТВ3
 http://46.32.176.50/tv3/index.m3u8
 #EXTINF:-1 group-title="IZONE", Че
 http://46.32.176.50/ce/index.m3u8
 #EXTINF:-1 group-title="IZONE", Звезда
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/544/index.m3u8
+http://46.32.176.50/zvezda/index.m3u8
 #EXTINF:-1 group-title="IZONE", ОТР
 http://46.32.176.50/OTR/index.m3u8
 #EXTINF:-1 group-title="IZONE", Euronews
 https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8
 #EXTINF:-1 group-title="IZONE", РТР Планета
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/18042/index.m3u8
+http://46.32.176.50/rtrplaneta/index.m3u8
 #EXTINF:-1 group-title="IZONE", ТВЦ
 http://46.32.176.50/tvc/index.m3u8
 #EXTINF:-1 group-title="IZONE", Домашний
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/514/index.m3u8
+http://46.32.176.50/domashniy/index.m3u8
 #EXTINF:-1 group-title="IZONE", Мир
 http://46.32.176.50/mir/index.m3u8
 #EXTINF:-1 group-title="IZONE", Мир 24
@@ -1503,13 +1506,13 @@ http://46.32.176.50/rbk/index.m3u8
 #EXTINF:-1 group-title="IZONE", CBC
 http://46.32.176.50/cbc/index.m3u8
 #EXTINF:-1 group-title="IZONE", Bridge TV
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/122/index.m3u8
+http://46.32.176.50/bridgetv/index.m3u8
 #EXTINF:-1 group-title="IZONE", Bridge Classic
 http://46.32.176.50/rusong/index.m3u8
 #EXTINF:-1 group-title="IZONE", Bridge Deluxe
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/236/index.m3u8
+http://46.32.176.50/BridgeTVDance/index.m3u8
 #EXTINF:-1 group-title="IZONE", Bridge Deluxe HD
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/236/index.m3u8
+http://46.32.176.50/BridgeTVHD/index.m3u8
 #EXTINF:-1 group-title="IZONE", Муз ТВ
 http://46.32.176.50/muztv/index.m3u8
 #EXTINF:-1 group-title="IZONE", Muz TV AZ
@@ -1519,23 +1522,23 @@ http://46.32.176.50/rutv/index.m3u8
 #EXTINF:-1 group-title="IZONE", MCM Top
 http://185.228.163.146:8000/play/a00g/index.m3u8
 #EXTINF:-1 group-title="IZONE", Europa Plus TV
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/20029/index.m3u8
+http://46.32.176.50/europaplus/index.m3u8
 #EXTINF:-1 group-title="IZONE", Ностальгия
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/102/index.m3u8
+http://46.32.176.50/nostalgiya/index.m3u8
 #EXTINF:-1 group-title="IZONE", Шансон ТВ
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/859/index.m3u8
+http://46.32.176.50/shanson/index.m3u8
 #EXTINF:-1 group-title="IZONE", Музыка Первого
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/155/index.m3u8
+http://46.32.176.50/muzika1/index.m3u8
 #EXTINF:-1 group-title="IZONE", Уникум
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/730/index.m3u8
+http://46.32.176.50/detskiy/index.m3u8
 #EXTINF:-1 group-title="IZONE", Бобер
 http://46.32.176.50/bobertv/index.m3u8
 #EXTINF:-1 group-title="IZONE", Солнце
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/872/index.m3u8
+http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 #EXTINF:-1 group-title="IZONE", Суббота
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/826/index.m3u8
+http://46.32.176.50/subbota/index.m3u8
 #EXTINF:-1 group-title="IZONE", Детский Мир HD
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/543/index.m3u8
+http://mfe02.cliptv.az:80/dash/Detskiy_Mir_SDqwvb78iu.ism/playlist.mpd
 #EXTINF:-1 group-title="IZONE", Мама
 http://46.32.176.50/mama/index.m3u8
 #EXTINF:-1 group-title="IZONE", Мульт
@@ -1547,9 +1550,10 @@ http://46.32.176.50/2x2/index.m3u8
 #EXTINF:-1 group-title="IZONE", Ani
 http://46.32.176.50/anitv/index.m3u8
 #EXTINF:-1 group-title="IZONE", Карусель
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/20012/index.m3u8
+http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
 #EXTINF:-1 group-title="IZONE", Nick jr
-http://zuzixf8j.lunexas.top/iptv/5ZA5H8DG2HUYDZTRZVHEWDFP/114/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_nick_jr/playlist.m3u8
 #EXTINF:-1 group-title="IZONE" tvg-logo="https://i.imgur.com/ZhkZzLf.png",Aspor
 http://46.32.176.50/aspor/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/3xZKmkcd/In-Shot-20260201-173739187.png" group-title="IZONE", TRT spor
@@ -1557,7 +1561,7 @@ http://46.32.176.50/trtspor/index.m3u8
 #EXTINF:-1 group-title="IZONE", TRT haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="IZONE", CNN TÜRK
-http://85.117.61.84/cnnturk/index.m3u8
+http://46.32.176.50/cnnturk/index.m3u8
 #EXTINF:-1 group-title="IZONE", TRT belgesel
 http://46.32.176.50/trtbelgesel/index.m3u8
 #EXTINF:-1 group-title="IZONE", TRT 1
