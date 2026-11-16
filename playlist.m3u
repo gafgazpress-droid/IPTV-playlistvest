@@ -13,7 +13,7 @@ https://str.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8
 http://flussonic.izone.az:80/idmanaz/index.m3u8
 #EXTINF: -1 tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/idmantv.png" group-title="AZERBAYCAN 📡", Idman SD
 http://185.32.44.154/idmanaz/index.m3u8
-#EXTINF:0 tvg-rec="0",Sport TV HD AZ
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/CLRBSWks/IMG-732daa38-5f53-4eb2-86f0-942529ebd1f0.jpg" group-title="AZERBAYCAN 📡", SPORT TV AZ
 #EXTGRP:AZERBAYCAN 📡
 http://2585f967.ottolok.net/iptv/7PAHZWAPLAVFE3FEYGQSKL9C/31926/index.m3u8
 #EXTINF: -1 tvg-logo="https://static.g-cdn.app/streams/arb24-hd-az.png" group-title="AZERBAYCAN 📡", ARB 24 HD
@@ -101,8 +101,8 @@ http://str.yodacdn.net/medeniyyettele/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/0Q12yXPJ/M-d-niyy-t-TV-loqo.png" group-title="AZERBAYCAN 📡", MƏDƏNİYYƏT TV ᴴᴰ
 #EXTGRP:AZERBAYCAN 📡
 http://str.yodacdn.net/medeniyyettele/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/0Q12yXPJ/M-d-niyy-t-TV-loqo.png" group-title="AZERBAYCAN 📡", MƏDƏNİYYƏT
-https://az.cehennem.workers.dev/index.m3u8?ID=2
+#EXTINF:0 tvg-logo="https://i.postimg.cc/0Q12yXPJ/M-d-niyy-t-TV-loqo.png" group-title="AZERBAYCAN 📡", MƏDƏNİYYƏT az
+http://185.32.44.154/medeniyyet/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/cCPh2BsY/Kanal-S-2022.png" group-title="AZERBAYCAN 📡",KANAL S
 #EXTGRP:AZERBAYCAN 📡
 https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
@@ -116,7 +116,7 @@ http://185.32.44.154/muztvaz/index.m3u8
 http://flussonic.izone.az:80/muztvaz/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/6prVYgqM/tmbtaz-png.png" group-title="AZERBAYCAN 📡",TMB ᴴᴰ
 #EXTGRP:AZERBAYCAN 📡
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
+http://185.32.44.154/tmb/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/HkgvYQ7P/K-p-z-TV-2019.png" group-title="AZERBAYCAN 📡",KƏPƏZ TV ᴴᴰ
 #EXTGRP:AZERBAYCAN 📡
 http://85.132.78.122:8050/dashjs/stream/index.mpd
@@ -132,8 +132,8 @@ https://tv.gunaz.tv/hls/live.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/WzQTM6gL/In-Shot-20260413-180228862.png" group-title="AZERBAYCAN 📡",ANEWZ ᴴᴰ
 #EXTGRP:AZERBAYCAN 📡
 http://176.65.146.189:8701/play/a0a6
-#EXTINF:-1 group-title="AZERBAYCAN 📡" tvg-logo="https://i.imgur.com/dSg7KUK.png",ARB Gunes
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
+
+
 #EXTINF:-1 group-title="AZERBAYCAN 📡" tvg-logo="https://i.imgur.com/dSg7KUK.png",ARB Gunes
 http://185.32.44.154/arbgunesh/index.m3u8
 #EXTINF: -1 tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="TURKİYE 📡", TRT 1
@@ -148,8 +148,7 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
 #EXTINF: -1 tvg-id="Showtv.com.tr" tvg-name="Show TV" tvg-logo="https://i.postimg.cc/PJrpQfNj/Show-TV-logo-svg.png" group-title="TURKİYE 📡", SHOW
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/PJrpQfNj/Show-TV-logo-svg.png" group-title="TURKİYE 📡", Show tv
-http://176.65.153.12:6002/play/a05m/index.m3u8
+
 #EXTINF:0 tvg-logo="https://i.postimg.cc/nhMqh61g/ei-1791020680040-removebg-preview.png" group-title="TURKİYE 📡",SHOW TV
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:C4:21:31&stream=196664&extension=ts&play_token=840XcvGPdX
 #EXTINF:0 tvg-logo="https://i.postimg.cc/P5ZWxxw3/In-Shot-20250209-230304310.png" group-title="TURKİYE 📡",SHOW TURK
@@ -602,6 +601,16 @@ http://tchaikovsky.af-stream.com:8080/s/2q8gablk/okko-futbol-hd/video.m3u8
 http://tchaikovsky.af-stream.com:8080/s/2q8gablk/okko-sport-hd/video.m3u8
 #EXTINF:-1  group-title="FUTBOL ⚽"  tvg-id="okko-sport-2"  tvg-logo="https://iptvx.one/picons/okko-sport-2.png" ,Окко.Прайм Спорт HD
 http://tchaikovsky.af-stream.com:8080/s/2q8gablk/okko-sport2-hd/video.m3u8
+
+#EXTINF:0 tvg-rec="0",Окко Спорт HD
+#EXTGRP:FUTBOL ⚽
+http://2585f967.ottolok.net/iptv/7PAHZWAPLAVFE3FEYGQSKL9C/20138/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Прайм Спорт HD
+#EXTGRP:FUTBOL ⚽
+http://2585f967.ottolok.net/iptv/7PAHZWAPLAVFE3FEYGQSKL9C/20135/index.m3u8
+#EXTINF:0 tvg-rec="3",Окко Футбол HD
+#EXTGRP:FUTBOL ⚽
+http://2585f967.ottolok.net/iptv/7PAHZWAPLAVFE3FEYGQSKL9C/6554/index.m3u8
 #EXTINF: -1 tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/ziggo-logo.png" group-title="FUTBOL ⚽", ziggo sport
 http://qvnpbz2k.rostelekom.xyz/iptv/PYNV3ND2WZ7YHR/2561/index.m3u
 #EXTINF: -1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_HR_logo_v2.png" group-title="FUTBOL ⚽", Arena sport 1
