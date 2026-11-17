@@ -14,7 +14,7 @@ https://str.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8
 http://flussonic.izone.az:80/idmanaz/index.m3u8
 #EXTINF: -1 tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/idmantv.png" group-title="AZERBAYCAN 📡", Idman SD 
 http://185.32.44.154/idmanaz/index.m3u8
-#EXTINF:0 tvg-rec="0",Sport TV HD AZ
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/CLRBSWks/IMG-732daa38-5f53-4eb2-86f0-942529ebd1f0.jpg" group-title="AZERBAYCAN 📡", SPORT TV AZ
 #EXTGRP:AZERBAYCAN 📡
 http://2585f967.ottolok.net/iptv/7PAHZWAPLAVFE3FEYGQSKL9C/31926/index.m3u8
 #EXTINF: -1 tvg-logo="https://static.g-cdn.app/streams/arb24-hd-az.png" group-title="AZERBAYCAN 📡", ARB 24 HD
