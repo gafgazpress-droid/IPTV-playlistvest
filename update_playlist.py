@@ -307,3 +307,354 @@ def main():
 
 if __name__ == "__main__":
     main()
+#!/usr/bin/env python3
+"""
+M3U playlist yeniləyici.
+
+- playlist.m3u  : sizin mövcud playlist (kanal adları buradan götürülür)
+- sources.txt   : daim yenilənən m3u mənbə linkləri (hər sətirdə bir URL)
+- manual.txt    : (ixtiyari) toxunulmamalı kanal adları, hər sətirdə bir ad
+
+Əl ilə əlavə etdiyiniz kanalı qorumağın 3 yolu:
+  1) EXTINF sətrinə  manual="1"  əlavə edin
+  2) Kanaldan əvvəlki sətrə  #MANUAL  yazın
+  3) Kanal adını manual.txt faylına yazın
+Bu kanallar sözbasöz olduğu kimi qalır.
+
+Hər kanal üçün HD və SD variantı axtarılır, hər biri üçün mənbələrdən
+sınaqdan keçirilib ən sürətli/stabil (donmayan) link seçilir.
+"""
+import argparse
+import difflib
+import re
+import sys
+import time
+import unicodedata
+from concurrent.futures import ThreadPoolExecutor
+from pathlib import Path
+from urllib.parse import urljoin
+
+import requests
+
+UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124 Safari/537.36"
+SESSION = requests.Session()
+SESSION.headers["User-Agent"] = UA
+
+EXTINF_RE = re.compile(r"^#EXTINF:(\S+)\s*(.*),(.*)$")
+QUALITY_RE = re.compile(
+    r"\b(4k|uhd|fhd|full\s?hd|hd|sd|1080p?|720p?|576p?|480p?|360p?)\b", re.I
+)
+HD_TOKENS = {"4k", "uhd", "fhd", "fullhd", "full hd", "hd", "1080", "1080p", "720", "720p"}
+SD_TOKENS = {"sd", "576", "576p", "480", "480p", "360", "360p"}
+MAX_CANDIDATES = 8
+
+
+# ---------------------------------------------------------------- parsing
+def norm(name: str) -> str:
+    name = QUALITY_RE.sub(" ", name)
+    for a, b in (("ə", "e"), ("Ə", "e"), ("ı", "i"), ("İ", "i")):
+        name = name.replace(a, b)
+    name = unicodedata.normalize("NFKD", name)
+    name = "".join(c for c in name if not unicodedata.combining(c)).lower()
+    return re.sub(r"[^a-z0-9]", "", name)
+
+
+def base_name(name: str) -> str:
+    return re.sub(r"\s+", " ", QUALITY_RE.sub(" ", name)).strip()
+
+
+def classify(name: str) -> str:
+    m = QUALITY_RE.search(name)
+    if not m:
+        return "?"
+    tok = re.sub(r"\s+", "", m.group(1).lower())
+    if tok in HD_TOKENS or tok == "fullhd":
+        return "HD"
+    return "SD"
+
+
+def parse_m3u(text: str):
+    entries, cur, flag = [], None, False
+    header = "#EXTM3U"
+    for raw in text.splitlines():
+        line = raw.strip()
+        if not line:
+            continue
+        if line.startswith("#EXTM3U"):
+            header = line
+            continue
+        if line.upper().startswith("#MANUAL"):
+            flag = True
+            continue
+        if line.startswith("#EXTINF"):
+            m = EXTINF_RE.match(line)
+            attrs = m.group(2).strip() if m else ""
+            name = m.group(3).strip() if m else line.split(",")[-1].strip()
+            cur = {
+                "inf": line, "attrs": attrs, "name": name, "extras": [],
+                "manual_flag": flag, "manual": flag or 'manual="1"' in attrs,
+            }
+            flag = False
+            continue
+        if line.startswith("#"):
+            if cur is not None:
+                cur["extras"].append(line)
+            continue
+        if cur is not None:
+            cur["url"] = line
+            entries.append(cur)
+            cur = None
+    return entries, header
+
+
+def headers_of(extras):
+    h = {}
+    for e in extras:
+        low = e.lower()
+        if "http-user-agent=" in low:
+            h["User-Agent"] = e.split("=", 1)[1]
+        elif "http-referrer=" in low or "http-referer=" in low:
+            h["Referer"] = e.split("=", 1)[1]
+    return h
+
+
+# ---------------------------------------------------------------- probing
+def read_more(it, limit, seconds):
+    buf, t = b"", time.time()
+    for chunk in it:
+        buf += chunk
+        if len(buf) >= limit or time.time() - t > seconds:
+            break
+    return buf
+
+
+def probe_hls(text, base, headers, res, depth):
+    lines = [l.strip() for l in text.splitlines() if l.strip()]
+    if any(l.startswith("#EXT-X-STREAM-INF") for l in lines):
+        variants = []
+        for i, l in enumerate(lines):
+            if not l.startswith("#EXT-X-STREAM-INF"):
+                continue
+            bw = re.search(r"BANDWIDTH=(\d+)", l)
+            rs = re.search(r"RESOLUTION=\d+x(\d+)", l)
+            uri = next((x for x in lines[i + 1:] if not x.startswith("#")), None)
+            if uri:
+                variants.append((int(rs.group(1)) if rs else 0,
+                                 int(bw.group(1)) if bw else 0, urljoin(base, uri)))
+        if not variants or depth > 0:
+            return res
+        res["variants"] = [(h, u) for h, _, u in variants if h]
+        best = max(variants, key=lambda v: v[1])
+        res["height"] = best[0] or None
+        r = SESSION.get(best[2], headers=headers, timeout=(5, 8))
+        if r.status_code != 200:
+            return res
+        return probe_hls(r.text, best[2], headers, res, depth + 1)
+
+    segs, dur = [], None
+    for l in lines:
+        if l.startswith("#EXTINF:"):
+            try:
+                dur = float(l[8:].split(",")[0])
+            except ValueError:
+                dur = None
+        elif not l.startswith("#"):
+            segs.append((dur or 6.0, urljoin(base, l)))
+            dur = None
+    if not segs:
+        return res
+    ratios = []
+    for d, u in segs[-2:]:
+        t0 = time.time()
+        with SESSION.get(u, headers=headers, stream=True, timeout=(5, 8)) as r:
+            if r.status_code != 200:
+                return res
+            data = read_more(r.iter_content(65536), 4_000_000, 10)
+        if len(data) < 20000 or data[:1] == b"<":
+            return res
+        ratios.append((time.time() - t0) / max(d, 1.0))
+    worst, avg = max(ratios), sum(ratios) / len(ratios)
+    if worst < 0.7:
+        res["ok"] = True
+        res["score"] = min(1.0 / max(avg, 0.05), 20.0)
+    return res
+
+
+def probe(url, headers):
+    res = {"ok": False, "score": 0.0, "height": None, "variants": []}
+    t0 = time.time()
+    try:
+        with SESSION.get(url, headers=headers, stream=True, timeout=(5, 8)) as resp:
+            if resp.status_code != 200:
+                return res
+            if "text/html" in resp.headers.get("content-type", "").lower():
+                return res
+            it = resp.iter_content(8192)
+            first = next(it, b"")
+            if not first:
+                return res
+            if first.lstrip().startswith(b"#EXTM3U"):
+                body = first + read_more(it, 1_000_000, 5)
+                return probe_hls(body.decode("utf-8", "ignore"), resp.url, headers, res, 0)
+            data, t1 = len(first), time.time()
+            while time.time() - t1 < 3 and data < 2_000_000:
+                chunk = next(it, b"")
+                if not chunk:
+                    break
+                data += len(chunk)
+            speed = data / 1024 / max(time.time() - t0, 0.3)  # KB/s
+            if speed >= 250:
+                res["ok"], res["score"] = True, min(speed / 250.0, 20.0)
+    except Exception:
+        pass
+    return res
+
+
+# ---------------------------------------------------------------- main
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--playlist", default="playlist.m3u")
+    ap.add_argument("--sources", default="sources.txt")
+    ap.add_argument("--manual", default="manual.txt")
+    ap.add_argument("--workers", type=int, default=16)
+    ap.add_argument("--dry-run", action="store_true")
+    a = ap.parse_args()
+
+    pl_path = Path(a.playlist)
+    entries, header = parse_m3u(pl_path.read_text(encoding="utf-8", errors="ignore"))
+
+    manual_names = set()
+    if Path(a.manual).exists():
+        manual_names = {norm(l) for l in Path(a.manual).read_text(encoding="utf-8").splitlines()
+                        if l.strip() and not l.startswith("#")}
+    for e in entries:
+        e["key"], e["q"] = norm(e["name"]), classify(e["name"])
+        if e["key"] in manual_names:
+            e["manual"] = True
+
+    # mənbələri yüklə
+    pool = {}
+    for src in Path(a.sources).read_text(encoding="utf-8").splitlines():
+        src = src.strip()
+        if not src or src.startswith("#"):
+            continue
+        try:
+            r = SESSION.get(src, timeout=(8, 30))
+            r.raise_for_status()
+            got, _ = parse_m3u(r.text)
+        except Exception as ex:
+            print(f"[XƏTA] mənbə oxunmadı: {src} ({ex})")
+            continue
+        for e in got:
+            if "url" not in e:
+                continue
+            e["key"], e["q"] = norm(e["name"]), classify(e["name"])
+            pool.setdefault(e["key"], []).append(e)
+        print(f"[OK] {src}: {len(got)} kanal")
+
+    # idarə olunan kanallar
+    managed, manual_cover = {}, {}
+    for e in entries:
+        if e["manual"]:
+            manual_cover.setdefault(e["key"], set()).add(e["q"])
+        else:
+            managed.setdefault(e["key"], []).append(e)
+
+    def candidates(key):
+        src_key = key if key in pool else None
+        if not src_key:
+            m = difflib.get_close_matches(key, list(pool), n=1, cutoff=0.88)
+            src_key = m[0] if m else None
+        out = list(pool.get(src_key, [])) if src_key else []
+        out += managed.get(key, [])  # mövcud linklər də namizəddir (geriləmə olmasın)
+        seen, uniq = set(), []
+        for c in sorted(out, key=lambda c: c["q"] == "?"):
+            if c["url"] not in seen:
+                seen.add(c["url"])
+                uniq.append(c)
+        return uniq[:MAX_CANDIDATES]
+
+    cand_map = {k: candidates(k) for k in managed}
+    todo = {(c["url"], tuple(sorted(headers_of(c["extras"]).items())))
+            for cs in cand_map.values() for c in cs}
+    print(f"[INFO] {len(todo)} link yoxlanılır...")
+    cache = {}
+    with ThreadPoolExecutor(a.workers) as ex:
+        futs = {t: ex.submit(probe, t[0], dict(t[1])) for t in todo}
+        for t, f in futs.items():
+            cache[t] = f.result()
+
+    def result_of(c):
+        return cache[(c["url"], tuple(sorted(headers_of(c["extras"]).items())))]
+
+    resolved = {}
+    for key, olds in managed.items():
+        tpl_all = olds
+        base = base_name(olds[0]["name"])
+        out = []
+        for q in ("HD", "SD"):
+            if q in manual_cover.get(key, set()) or "?" in manual_cover.get(key, set()):
+                continue
+            scored = []
+            for c in cand_map[key]:
+                r = result_of(c)
+                if not r["ok"]:
+                    continue
+                fq = c["q"] if c["q"] != "?" else ("HD" if (r["height"] or 0) >= 720 else "SD")
+                if fq == q:
+                    scored.append((r["score"], c))
+            tpl = next((o for o in tpl_all if o["q"] == q), tpl_all[0])
+            if scored:
+                best = max(scored, key=lambda s: s[0])[1]
+                out.append({"attrs": tpl["attrs"], "name": f"{base} {q}",
+                            "extras": best["extras"], "url": best["url"]})
+                continue
+            # SD yoxdursa HD master-dan aşağı keyfiyyət çıxar
+            if q == "SD":
+                for c in cand_map[key]:
+                    r = result_of(c)
+                    lows = [(h, u) for h, u in r["variants"] if 0 < h <= 576]
+                    if r["ok"] and lows:
+                        h, u = max(lows)
+                        if probe(u, headers_of(c["extras"]))["ok"]:
+                            out.append({"attrs": tpl["attrs"], "name": f"{base} SD",
+                                        "extras": c["extras"], "url": u})
+                            break
+                if out and out[-1]["name"].endswith("SD"):
+                    continue
+            old = next((o for o in tpl_all if o["q"] == q), None)
+            if old:
+                print(f"[XƏBƏRDARLIQ] {base} {q}: işləyən link tapılmadı, köhnəsi saxlanıldı")
+                out.append(old)
+            else:
+                print(f"[XƏBƏRDARLIQ] {base} {q}: tapılmadı")
+        resolved[key] = out
+
+    # yazma
+    lines, done = [header], set()
+    for e in entries:
+        if e["manual"]:
+            if e["manual_flag"]:
+                lines.append("#MANUAL")
+            lines.append(e["inf"])
+            lines += e["extras"]
+            lines.append(e["url"])
+        elif e["key"] not in done:
+            done.add(e["key"])
+            for n in resolved.get(e["key"], []):
+                attrs = (n["attrs"] + " ") if n["attrs"] else ""
+                lines.append(f'#EXTINF:-1 {attrs},{n["name"]}'.replace(" ,", ",", 1))
+                lines += n["extras"]
+                lines.append(n["url"])
+    text = "\n".join(lines) + "\n"
+    if a.dry_run:
+        print(text[:3000])
+        return
+    pl_path.with_suffix(".m3u.bak").write_text(pl_path.read_text(encoding="utf-8", errors="ignore"),
+                                               encoding="utf-8")
+    pl_path.write_text(text, encoding="utf-8")
+    print(f"[HAZIR] {pl_path} yeniləndi")
+
+
+if __name__ == "__main__":
+    sys.exit(main())
