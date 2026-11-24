@@ -7,3 +7,4 @@ https://kec.az/mvxgJ
 https://boss.com.az/all.m3u
 http://a903ece3902e.yourlistbest.net/playlists/uplist/1d622f7e3f064e05c824e659b8a7ff5c/playlist.m3u8
 https://iptv-org.github.io/iptv/index.m3u
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/all.m3u
